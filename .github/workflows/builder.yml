@@ -28,6 +28,11 @@ jobs:
       run: |
         npm install
         npm run build
-        git add dist
-        git commit -m 'Pages update'
-        git push
+
+    - uses: EndBug/add-and-commit@v9
+      with:
+        add: 'dist'
+        author_name: David Mobbs
+        author_email: david.mobbs@gmail.com
+        message: 'Pages update'
+        push: true
