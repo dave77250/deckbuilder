@@ -35,5 +35,6 @@ jobs:
         npm install
         npm run build
         git add dist
-
-    - uses: stefanzweifel/git-auto-commit-action@v7
+        git status
+        git commit -m 'Pages update'
+        git push
