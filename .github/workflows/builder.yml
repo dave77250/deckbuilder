@@ -22,7 +22,11 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Build
+    - name: Build and publish
       run: |
         npm install
+        git checkout pages
         npm run build
+        git add dist
+        git commit -m 'Pages update'
+        git push
