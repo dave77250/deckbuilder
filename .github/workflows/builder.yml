@@ -33,9 +33,10 @@ jobs:
     - name: Build and publish
       run: |
         npm install
-        npm run build
         git config --global user.email "david.mobbs@gmail.com"
         git config --global user.name "David Mobbs"
+        git pull origin main --no-rebase
+        npm run build
         git add dist
         git status
         git commit -m 'Pages update'
