@@ -21,7 +21,7 @@ function App() {
       </Tab>
       <Tab
         icon="card"
-        text="Deck Builder"
+        text="Deck Builder TBD"
       >
         Deck Builder
       </Tab>
