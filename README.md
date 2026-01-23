@@ -1,6 +1,6 @@
 # UI5 Web Components for React - Vite + TypeScript Template
 
-## How to use this template
+## How to use this template (hopefully)
 
 ```bash
 npx degit UI5/webcomponents-react/templates/vite-ts#main my-project
