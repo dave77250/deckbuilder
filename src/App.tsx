@@ -15,7 +15,7 @@ function App() {
       <Tab
         icon="list"
         selected
-        text="Ma collection"
+        text="Ma collection de cartes"
       >
         Collection de cartes
       </Tab>
