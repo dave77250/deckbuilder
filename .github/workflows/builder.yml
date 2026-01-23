@@ -22,7 +22,7 @@ jobs:
     steps:
     - uses: actions/checkout@v5
       with:
-        ref: pages
+        ref: publish
         persist-credentials: true
 
     - name: Use Node.js ${{ matrix.node-version }}
