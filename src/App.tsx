@@ -1,20 +1,31 @@
-import employeeIcon from '@ui5/webcomponents-icons/dist/employee.js';
-import { Avatar, ShellBar } from '@ui5/webcomponents-react';
+import { Tab, TabContainer } from '@ui5/webcomponents-react';
+import "@ui5/webcomponents-icons/dist/list.js";
+import "@ui5/webcomponents-icons/dist/card.js";
+
 function App() {
   return (
-    <>
-      <ShellBar
-        logo={
-          <img
-            src="https://raw.githubusercontent.com/UI5/webcomponents-react/main/assets/ui5-logo.svg"
-            alt={'UI5 Web Components for React logo'}
-          />
-        }
-        primaryTitle="UI5 Web Components for React Template"
-        profile={<Avatar icon={employeeIcon} />}
-      />
-      {/* Add your code here */}
-    </>
+    <TabContainer
+      contentBackgroundDesign="Solid"
+      headerBackgroundDesign="Solid"
+      onMove={function qK(){}}
+      onMoveOver={function qK(){}}
+      onTabSelect={function qK(){}}
+      tabLayout="Standard"
+    >
+      <Tab
+        icon="list"
+        selected
+        text="Ma collection"
+      >
+        Collection de cartes
+      </Tab>
+      <Tab
+        icon="card"
+        text="Deck Builder"
+      >
+        Deck Builder
+      </Tab>
+    </TabContainer>
   );
 }
 
