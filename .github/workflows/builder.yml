@@ -35,10 +35,4 @@ jobs:
         npm install
         npm run build
 
-    - uses: EndBug/add-and-commit@v9
-      with:
-        add: 'dist'
-        author_name: David Mobbs
-        author_email: david.mobbs@gmail.com
-        message: 'Pages update'
-        push: true
+    - uses: stefanzweifel/git-auto-commit-action@v7
