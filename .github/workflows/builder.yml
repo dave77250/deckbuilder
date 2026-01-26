@@ -33,8 +33,8 @@ jobs:
     - name: Build and publish
       run: |
         npm install
-        git config --global user.email "david.mobbs@gmail.com"
-        git config --global user.name "David Mobbs"
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git pull origin main --no-rebase
         npm run build
         git add dist
