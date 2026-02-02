@@ -35,9 +35,10 @@ jobs:
         npm install
         git config --global user.name "${GITHUB_ACTOR}"
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git pull origin main --no-rebase
+        git reset --hard origin/main
         npm run build
-        git add dist
+        mv dist docs
+        git add docs
         git status
         git commit -m 'Pages update'
         git push
