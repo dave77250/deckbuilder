@@ -34,5 +34,3 @@ export function TabWrapper(props: TabWrapperProps) {
     </TabContainer>
   );
 }
-
-export default App;
