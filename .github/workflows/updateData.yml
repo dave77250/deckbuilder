@@ -26,10 +26,8 @@ jobs:
 
       - name: Commit du fichier mis à jour
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add src/allCards.json
-          git diff --cached --quiet || git commit -m "Update external data.json"
+          git commit -m "Update allCards.json"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
