@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 export type Card = {
     id: string,
     name: string,
@@ -8,8 +6,8 @@ export type Card = {
 }
 
 export async function loadCards(): Promise<Card[]> {
-    const response = await axios.get('./allCards.json');
-    const rawData = response.data;
+    const response = await fetch('./allCards.json');
+    const rawData = await response.json();
     const cards: any[] = rawData?.cards;
     return cards.map(card => {
         return {
