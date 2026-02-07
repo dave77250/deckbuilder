@@ -9,7 +9,7 @@ export type Card = {
 
 export async function loadCards(): Promise<Card[]> {
     const response = await axios.get('./allCards.json');
-    const rawData = JSON.parse(response.data);
+    const rawData = response.data;
     const cards: any[] = rawData?.cards;
     return cards.map(card => {
         return {
