@@ -1,32 +1,15 @@
-import { Tab, TabContainer } from '@ui5/webcomponents-react';
 import "@ui5/webcomponents-icons/dist/list.js";
 import "@ui5/webcomponents-icons/dist/card.js";
+import { useEffect, useState } from 'react';
+import { Card, loadCards } from './model/Card';
+import { TabWrapper } from './components/TabWrapper';
 
 function App() {
-  return (
-    <TabContainer
-      contentBackgroundDesign="Solid"
-      headerBackgroundDesign="Solid"
-      onMove={function qK(){}}
-      onMoveOver={function qK(){}}
-      onTabSelect={function qK(){}}
-      tabLayout="Standard"
-    >
-      <Tab
-        icon="list"
-        selected
-        text="Ma collection de cartes"
-      >
-        Collection de cartes
-      </Tab>
-      <Tab
-        icon="card"
-        text="Deck Builder TBD"
-      >
-        Deck Builder
-      </Tab>
-    </TabContainer>
-  );
+  const [cards, setCards] = useState<Card[] | undefined>(undefined);
+  useEffect(() => {
+    loadCards().then(setCards);
+  });
+  return cards ? <TabWrapper cards={cards}/> : <div>Still loading...</div>
 }
 
 export default App;
