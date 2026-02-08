@@ -1,4 +1,4 @@
-import { FlexBox, FlexBoxDirection, Label, Text } from "@ui5/webcomponents-react";
+import { FlexBox, FlexBoxDirection, Text } from "@ui5/webcomponents-react";
 import { Card } from "../model/Card";
 
 export interface CardViewProps {

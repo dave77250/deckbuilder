@@ -1,9 +1,8 @@
-import { FlexBox, FlexBoxDirection, Tab, TabContainer } from '@ui5/webcomponents-react';
+import { Tab, TabContainer } from '@ui5/webcomponents-react';
 import "@ui5/webcomponents-icons/dist/list.js";
 import "@ui5/webcomponents-icons/dist/card.js";
 
 import { Card } from '../model/Card';
-import { CardView } from './CardView';
 import { CardCollectionView } from './CardCollectionView';
 
 export interface TabWrapperProps {
