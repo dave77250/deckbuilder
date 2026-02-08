@@ -4,6 +4,7 @@ import "@ui5/webcomponents-icons/dist/card.js";
 
 import { Card } from '../model/Card';
 import { CardView } from './CardView';
+import { CardCollectionView } from './CardCollectionView';
 
 export interface TabWrapperProps {
     cards: Card[]
@@ -14,9 +15,6 @@ export function TabWrapper(props: TabWrapperProps) {
     <TabContainer
       contentBackgroundDesign="Solid"
       headerBackgroundDesign="Solid"
-      onMove={function qK(){}}
-      onMoveOver={function qK(){}}
-      onTabSelect={function qK(){}}
       tabLayout="Standard"
     >
       <Tab
@@ -24,11 +22,7 @@ export function TabWrapper(props: TabWrapperProps) {
         selected
         text="Ma collection de cartes"
       >
-        <FlexBox direction={FlexBoxDirection.Row} style={{ width: '100%' }}>
-            {props.cards.map(card => {
-                return <CardView card={card}/>
-            })}
-        </FlexBox>
+        <CardCollectionView allCards={props.cards}/>
       </Tab>
       <Tab
         icon="card"
