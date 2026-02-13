@@ -4,7 +4,7 @@ export type CollectionToolBarProps = {
 
 };
 
-export function CollectionToolBar(props: CollectionToolBarProps) {
+export function CollectionToolBar(_props: CollectionToolBarProps) {
     return (
         <FlexBox direction={FlexBoxDirection.Row} fitContainer={true} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
             <Input showClearIcon={true} placeholder="Chercher une carte"></Input>
