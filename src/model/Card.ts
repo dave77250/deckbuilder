@@ -1,5 +1,7 @@
+export type CardId = string;
+
 export type Card = {
-    id: string,
+    id: CardId,
     name: string,
     fullName: string,
     image: string
