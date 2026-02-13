@@ -1,5 +1,4 @@
 import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Input } from "@ui5/webcomponents-react";
-import React from "react";
 
 export type CollectionToolBarProps = {
 

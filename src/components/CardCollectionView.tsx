@@ -1,7 +1,6 @@
 import { Grid } from "@ui5/webcomponents-react"
 import { Card, CardId } from "../model/Card"
 import React from "react";
-import { CardView } from "./CardView";
 import { FlexBox, FlexBoxDirection } from "@ui5/webcomponents-react";
 import { CollectionToolBar } from "./CollectionToolBar";
 import { CardCollection } from "../model/Collection";

@@ -1,4 +1,3 @@
-import { CardCollection } from "../model/Collection"
 import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput } from "@ui5/webcomponents-react"
 import { CardView } from "./CardView"
 import { Card } from "../model/Card"
