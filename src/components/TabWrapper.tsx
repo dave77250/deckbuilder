@@ -33,7 +33,7 @@ export function TabWrapper(props: TabWrapperProps) {
       </Tab>
       <Tab
         icon="card"
-        text="Deck Builder TBD"
+        text="Deck Builder"
       >
         Deck Builder
       </Tab>
