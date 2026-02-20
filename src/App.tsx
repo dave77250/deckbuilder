@@ -10,7 +10,7 @@ function App() {
   const [cards, setCards] = useState<Card[] | undefined>(undefined);
   useEffect(() => {
     loadCards().then(setCards);
-  });
+  }, []);
   return cards 
     ? <TabWrapper cards={cards}/>
     : <IllustratedMessage name="TntUser2" titleText="Chargement en cours..."/>

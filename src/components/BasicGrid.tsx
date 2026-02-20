@@ -8,7 +8,7 @@ export type GridProps = {
 function renderRow(elements: ReactElement[], position: number, columns: number) {
     const items = elements.slice(position, Math.min(position + columns, elements.length))
     return (
-        <FlexBox direction={FlexBoxDirection.Row}>{items}</FlexBox>
+        <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row}>{items}</FlexBox>
     );
 }
 
