@@ -1,14 +1,15 @@
 import { FlexBox, FlexBoxDirection, IllustratedMessage } from '@ui5/webcomponents-react';
-import React, { useState } from 'react';
+import React, { ReactNode, useState } from 'react';
 import { CardGridToolBar } from './CardGridToolBar';
 import { getColumns, setColumns } from '../model/Preferences';
-import { Card } from '../model/Card';
+import { Card, CardId } from '../model/Card';
 import { BasicGrid } from './BasicGrid';
 import { CardView } from './CardView';
 
 export type SeachableCardGridProps = {
     cardCollection: Card[],
-    extraToolBarComponent?: React.Component
+    extraToolBarComponent?: React.Component,
+    getExtraCardComponent?: (cardId: CardId) => ReactNode
 };
 
 export function SearchableCardGrid(props: SeachableCardGridProps) {
@@ -31,6 +32,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
                     return (
                         <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px'}}>
                             <CardView card={card}/>
+                            { props.getExtraCardComponent ? props.getExtraCardComponent(card.id) : null }
                         </FlexBox>);
                 })}
             </BasicGrid>

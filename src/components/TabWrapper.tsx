@@ -5,16 +5,17 @@ import "@ui5/webcomponents-icons/dist/card.js";
 import { Card, CardId } from '../model/Card';
 import { CardCollectionView } from './CardCollectionView';
 import React from 'react';
+import { loadCollection, setOwned } from '../model/Collection';
 
 export interface TabWrapperProps {
     cards: Card[]
 };
 
 export function TabWrapper(props: TabWrapperProps) {
-  const cardCollection = new Map<CardId, number>();
+  const cardCollection = loadCollection(props.cards);
   const [collectionUpdated, setCollectionUpdated] = React.useState(false);
   const setInCollection = (id: CardId, owned: number) => {
-    cardCollection.set(id, owned);
+    setOwned(cardCollection, id, owned);
     setCollectionUpdated(!collectionUpdated);
   };
   return (
