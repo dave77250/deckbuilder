@@ -1,4 +1,4 @@
-import { FlexBox, FlexBoxDirection } from '@ui5/webcomponents-react';
+import { FlexBox, FlexBoxDirection, IllustratedMessage } from '@ui5/webcomponents-react';
 import React, { useState } from 'react';
 import { CardGridToolBar } from './CardGridToolBar';
 import { getColumns, setColumns } from '../model/Preferences';
@@ -19,13 +19,14 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
         setColumns(nbCols);
     }
     const performSearch = (searchedText: string) => {
-        const foundCards = props.cardCollection.filter(c => c.name.indexOf(searchedText) !== -1);
+        const foundCards = props.cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchedText.toLocaleUpperCase()) !== -1);
         setDisplayedCards(foundCards);
     }
     return (
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
             <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={performSearch}/>
-            <BasicGrid columns={nbCols}>
+            { displayedCards.length > 0
+            ? <BasicGrid columns={nbCols}>
                 {displayedCards.map(card => {
                     return (
                         <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px'}}>
@@ -33,6 +34,8 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
                         </FlexBox>);
                 })}
             </BasicGrid>
+            : <IllustratedMessage name="NoEntries" titleText="Pas de cartes trouvées, désolé" subtitleText='Essayez une autre recherche'/>
+        }
         </FlexBox>
     );
 }

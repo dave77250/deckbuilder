@@ -32,7 +32,7 @@ export function CardGridToolBar(props: CardGridToolBarProps) {
     });
     return (
         <FlexBox direction={FlexBoxDirection.Row} fitContainer={true} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
-            <Input showClearIcon={true} placeholder="Chercher une carte" onChange={(event) => onTextTyped(event.target.value)}></Input>
+            <Input showClearIcon={true} placeholder="Chercher une carte" onInput={(event) => onTextTyped(event.target.value)}></Input>
             <FlexBox direction={FlexBoxDirection.Row}>
                 <Select onChange={(event) => onColsChange(event.target.value)}>
                     {COL_OPTIONS.map((c, i) => <Option selected={i === props.nbCols - 1}>{c}</Option>)}
