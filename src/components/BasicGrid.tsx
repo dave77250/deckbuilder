@@ -1,7 +1,8 @@
-import { FlexBox, FlexBoxDirection } from "@ui5/webcomponents-react";
-import { PropsWithChildren, ReactElement } from "react";
+import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
+import { PropsWithChildren, ReactElement, useState } from "react";
 
 export type GridProps = {
+    rows: number,
     columns: number
 };
 
@@ -13,6 +14,7 @@ function renderRow(elements: ReactElement[], position: number, columns: number) 
 }
 
 export function BasicGrid(props: PropsWithChildren<GridProps>) {
+    const [currentPage, setCurrentPage] = useState(0);
     let childrenArray: ReactElement[] = [];
     if (Array.isArray(props.children)) {
         childrenArray = props.children as ReactElement[];
@@ -20,12 +22,27 @@ export function BasicGrid(props: PropsWithChildren<GridProps>) {
         const singleChild = props.children as ReactElement;
         childrenArray = [singleChild];
     }
+    const pageSize = props.rows * props.columns;
+    const nbPages = Math.ceil(childrenArray.length / pageSize);
+    const displayedChildren = nbPages > 1
+        ? childrenArray.slice(pageSize * currentPage, pageSize * (currentPage + 1))
+        : childrenArray;
     const nbRows = Math.ceil(childrenArray.length / props.columns);
-    const rows = [];
+    const rows: ReactElement[] = [];
     for(let i = 0; i < nbRows; i++) {
-        rows.push(renderRow(childrenArray, i * props.columns, props.columns));
+        rows.push(renderRow(displayedChildren, i * props.columns, props.columns));
     }
     return (
-        <FlexBox direction={FlexBoxDirection.Column}>{rows}</FlexBox>
+        <FlexBox direction={FlexBoxDirection.Column}>
+            {rows}
+            { nbPages > 1
+                ? <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+                    <Button disabled={currentPage <= 0} onClick={() => setCurrentPage(currentPage - 1)}>&lt;</Button>
+                    <Text>{`${currentPage + 1} / ${nbPages}`}</Text>
+                    <Button disabled={currentPage >= nbPages - 1} onClick={() => setCurrentPage(currentPage + 1)}>&gt;</Button>
+                </FlexBox>
+                : null    
+            }
+        </FlexBox>
     )
 }

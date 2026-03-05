@@ -27,7 +27,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
             <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={performSearch}/>
             { displayedCards.length > 0
-            ? <BasicGrid columns={nbCols}>
+            ? <BasicGrid columns={nbCols} rows={4}>
                 {displayedCards.map(card => {
                     return (
                         <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px'}}>
