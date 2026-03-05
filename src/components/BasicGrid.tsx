@@ -24,6 +24,10 @@ export function BasicGrid(props: PropsWithChildren<GridProps>) {
     }
     const pageSize = props.rows * props.columns;
     const nbPages = Math.ceil(childrenArray.length / pageSize);
+    // reset the page to first page if the contents has become smaller
+    if (pageSize * currentPage > childrenArray.length) {
+        setCurrentPage(0);
+    }    
     const displayedChildren = nbPages > 1
         ? childrenArray.slice(pageSize * currentPage, pageSize * (currentPage + 1))
         : childrenArray;
