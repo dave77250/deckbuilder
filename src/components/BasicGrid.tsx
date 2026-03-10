@@ -9,7 +9,13 @@ export type GridProps = {
 function renderRow(elements: ReactElement[], position: number, columns: number) {
     const items = elements.slice(position, Math.min(position + columns, elements.length))
     return (
-        <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row}>{items}</FlexBox>
+        <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row} style={{width: '100%'}}>
+            {items.map(i => (
+                <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/columns)}%`}}>
+                    {i}
+                </FlexBox>
+            ))}
+        </FlexBox>
     );
 }
 
@@ -37,7 +43,7 @@ export function BasicGrid(props: PropsWithChildren<GridProps>) {
         rows.push(renderRow(displayedChildren, i * props.columns, props.columns));
     }
     return (
-        <FlexBox direction={FlexBoxDirection.Column}>
+        <FlexBox direction={FlexBoxDirection.Column} style={{ width: '100%' }}>
             {rows}
             { nbPages > 1
                 ? <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>

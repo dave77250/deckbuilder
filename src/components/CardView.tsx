@@ -6,8 +6,8 @@ export interface CardViewProps {
 }
 
 export function CardView(props: CardViewProps) {
-    return <FlexBox direction={FlexBoxDirection.Column}>
-        <img src={props.card.image} style={{ width: '367px', height: 'auto ', borderRadius: '5%'}}/>
+    return <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
+        <img src={props.card.image} style={{ width: '100%', height: 'auto ', borderRadius: '5%'}}/>
         <Text style={{ width: '100%', textAlign: 'center' }}>{props.card.fullName}</Text>
     </FlexBox>;
 }

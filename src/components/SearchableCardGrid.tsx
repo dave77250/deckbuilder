@@ -30,7 +30,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
             ? <BasicGrid columns={nbCols} rows={4}>
                 {displayedCards.map(card => {
                     return (
-                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px'}}>
+                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px', width: '100%'}}>
                             <CardView card={card}/>
                             { props.getExtraCardComponent ? props.getExtraCardComponent(card.id) : null }
                         </FlexBox>);
