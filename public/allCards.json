@@ -1,7 +1,7 @@
 {
   "metadata": {
     "formatVersion": "2.3.2",
-    "generatedOn": "2026-05-01T19:05:36",
+    "generatedOn": "2026-05-08T18:30:25",
     "language": "fr"
   },
   "sets": {
@@ -215,14 +215,14 @@
       "number": 12,
       "allowedInFormats": {
         "Core": {
-          "allowed": false,
+          "allowed": true,
           "rotationGroup": 3
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "name": "Contr\u00e9es Inconnues"
     },
     "13": {
@@ -186945,13 +186945,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cam Kendell"
       ],
@@ -187007,13 +187007,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Maria Dresden"
       ],
@@ -187060,13 +187060,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Federico Maria Cugliari"
       ],
@@ -187121,13 +187121,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alina Beserman"
       ],
@@ -187188,13 +187188,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Hania Czy\u017cewska"
       ],
@@ -187250,13 +187250,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Gaku Kumatori"
       ],
@@ -187317,13 +187317,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Billy Martin"
       ],
@@ -187373,13 +187373,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Marta Andreeva"
       ],
@@ -187433,13 +187433,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Valerio Buonfantino"
       ],
@@ -187501,13 +187501,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -187572,13 +187572,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Emily Abeydeera"
       ],
@@ -187634,13 +187634,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Diego Machuca"
       ],
@@ -187695,13 +187695,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Hyuna Lee"
       ],
@@ -187762,13 +187762,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Rodrigo Raposo"
       ],
@@ -187837,13 +187837,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jochem van Gool"
       ],
@@ -187917,13 +187917,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lynn's Magic Worlds"
       ],
@@ -187983,13 +187983,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Gaku Kumatori"
       ],
@@ -188045,13 +188045,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Clio Wolfensberger"
       ],
@@ -188121,13 +188121,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -188193,13 +188193,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Gaku Kumatori"
       ],
@@ -188257,13 +188257,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Ulichney"
       ],
@@ -188318,13 +188318,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cam Kendell"
       ],
@@ -188373,13 +188373,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Julie Vu"
       ],
@@ -188433,13 +188433,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Gaku Kumatori"
       ],
@@ -188495,13 +188495,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -188562,13 +188562,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lisanne Koeteeuw"
       ],
@@ -188623,13 +188623,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cam Kendell"
       ],
@@ -188676,13 +188676,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Hedvig H-S"
       ],
@@ -188730,13 +188730,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Diogo Saito"
       ],
@@ -188788,13 +188788,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Natalie Dombois"
       ],
@@ -188840,13 +188840,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Emily Abeydeera"
       ],
@@ -188894,13 +188894,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Carmine Pucci"
       ],
@@ -188959,13 +188959,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Leonardo Giammichele"
       ],
@@ -189011,13 +189011,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -189066,13 +189066,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Javi Salas"
       ],
@@ -189131,13 +189131,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -189199,13 +189199,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189270,13 +189270,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189333,13 +189333,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189399,13 +189399,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189455,13 +189455,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189516,13 +189516,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189571,13 +189571,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189632,13 +189632,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -189695,13 +189695,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Magenta Muraca"
       ],
@@ -189757,13 +189757,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Hyuna Lee"
       ],
@@ -189822,13 +189822,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Giulia Riva"
       ],
@@ -189891,13 +189891,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -189959,13 +189959,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Grecke"
       ],
@@ -190027,13 +190027,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ellie Horie"
       ],
@@ -190091,13 +190091,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ian MacDonald"
       ],
@@ -190155,13 +190155,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -190217,13 +190217,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -190285,13 +190285,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Stefano Spagnuolo"
       ],
@@ -190348,13 +190348,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Gaku Kumatori"
       ],
@@ -190419,13 +190419,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Marcin Karolewski"
       ],
@@ -190487,13 +190487,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Isaiah Mesq"
       ],
@@ -190557,13 +190557,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -190628,13 +190628,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -190706,13 +190706,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -190780,13 +190780,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Randy Bishop"
       ],
@@ -190851,13 +190851,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Natalia Trykowska"
       ],
@@ -190908,13 +190908,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Milica Celikovic"
       ],
@@ -190955,13 +190955,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ellie Horie"
       ],
@@ -191001,13 +191001,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Emily Abeydeera"
       ],
@@ -191066,13 +191066,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Javi Salas"
       ],
@@ -191129,13 +191129,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -191188,13 +191188,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Javi Salas"
       ],
@@ -191244,13 +191244,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -191309,13 +191309,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lisanne Koeteeuw"
       ],
@@ -191366,13 +191366,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Brian Kesinger"
       ],
@@ -191425,13 +191425,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Saulo Nate"
       ],
@@ -191489,13 +191489,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Magenta Muraca",
         "Grace Tran"
@@ -191551,13 +191551,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ellie Horie"
       ],
@@ -191612,13 +191612,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lara Carson"
       ],
@@ -191667,13 +191667,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -191729,13 +191729,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Isaiah Mesq"
       ],
@@ -191792,13 +191792,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Brian Kesinger"
       ],
@@ -191859,13 +191859,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -191930,13 +191930,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lorena Piloreta"
       ],
@@ -191986,13 +191986,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Andrea Femerstrand"
       ],
@@ -192057,13 +192057,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "John Loren"
       ],
@@ -192129,13 +192129,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -192193,13 +192193,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -192261,13 +192261,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Grecke"
       ],
@@ -192325,13 +192325,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "C\u00e9sar Vergara"
       ],
@@ -192392,13 +192392,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Sytze Brommersma"
       ],
@@ -192453,13 +192453,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "French Carlomagno"
       ],
@@ -192522,13 +192522,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -192594,13 +192594,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Eri Welli"
       ],
@@ -192673,13 +192673,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -192743,13 +192743,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -192807,13 +192807,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Magenta Muraca"
       ],
@@ -192868,13 +192868,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lorenza Pigliamosche"
       ],
@@ -192931,13 +192931,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Emily Abeydeera"
       ],
@@ -192982,13 +192982,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Wouter Bruneel"
       ],
@@ -193029,13 +193029,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Diogo Saito"
       ],
@@ -193094,13 +193094,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -193152,13 +193152,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ricardo Caria"
       ],
@@ -193220,13 +193220,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Valerio Buonfantino"
       ],
@@ -193283,13 +193283,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Aur\u00e9lie Lise-Anne"
       ],
@@ -193341,13 +193341,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Wietse Treurniet"
       ],
@@ -193405,13 +193405,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Grecke"
       ],
@@ -193462,13 +193462,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alex Accorsi",
         "Grace Tran"
@@ -193516,13 +193516,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Mike Parker"
       ],
@@ -193575,13 +193575,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Andrea Femerstrand"
       ],
@@ -193640,13 +193640,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Olga Andriyenko"
       ],
@@ -193704,13 +193704,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Brian Kesinger"
       ],
@@ -193765,13 +193765,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alex Accorsi"
       ],
@@ -193827,13 +193827,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "French Carlomagno"
       ],
@@ -193888,13 +193888,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Randy Bishop"
       ],
@@ -193949,13 +193949,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Javi Salas"
       ],
@@ -194011,13 +194011,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Luca Pinelli"
       ],
@@ -194072,13 +194072,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jeremy Adams"
       ],
@@ -194134,13 +194134,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Clio Wolfensberger"
       ],
@@ -194191,13 +194191,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Saulo Nate"
       ],
@@ -194256,13 +194256,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Isaiah Mesq"
       ],
@@ -194322,13 +194322,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -194393,13 +194393,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Maor Sharvit"
       ],
@@ -194461,13 +194461,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -194523,13 +194523,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lisanne Koeteeuw"
       ],
@@ -194586,13 +194586,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Magenta Muraca"
       ],
@@ -194651,13 +194651,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alex Accorsi"
       ],
@@ -194719,13 +194719,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Wouter Bruneel"
       ],
@@ -194783,13 +194783,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alberto Besi"
       ],
@@ -194851,13 +194851,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -194928,13 +194928,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Hyuna Lee"
       ],
@@ -194997,13 +194997,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Isaiah Mesq"
       ],
@@ -195051,13 +195051,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Mike Parker"
       ],
@@ -195098,13 +195098,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alex Accorsi"
       ],
@@ -195151,13 +195151,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -195202,13 +195202,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -195249,13 +195249,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Omar Lozano"
       ],
@@ -195309,13 +195309,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kuya Jaypi"
       ],
@@ -195367,13 +195367,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Nicolas Ky"
       ],
@@ -195423,13 +195423,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Nicolas Ky"
       ],
@@ -195471,13 +195471,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kevin Slawinski"
       ],
@@ -195522,13 +195522,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Carina \u2018Scyrina\u2019 Heller"
       ],
@@ -195582,13 +195582,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Federico Maria Cugliari"
       ],
@@ -195648,13 +195648,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Federico Maria Cugliari"
       ],
@@ -195714,13 +195714,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Federico Maria Cugliari"
       ],
@@ -195777,13 +195777,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Milica Celikovic"
       ],
@@ -195839,13 +195839,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -195905,13 +195905,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Tim van Galen"
       ],
@@ -195974,13 +195974,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Ulichney"
       ],
@@ -196036,13 +196036,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Marco Giorgianni",
         "Livio Cacciatore"
@@ -196099,13 +196099,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Maria Dresden",
         "Ellie Horie"
@@ -196154,13 +196154,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Natalie Dombois"
       ],
@@ -196226,13 +196226,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -196296,13 +196296,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Ulichney"
       ],
@@ -196361,13 +196361,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -196423,13 +196423,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Valentina Graziuso",
         "Grace Tran"
@@ -196492,13 +196492,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -196560,13 +196560,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -196623,13 +196623,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -196688,13 +196688,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alberto Besi"
       ],
@@ -196750,13 +196750,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Omar Lozano"
       ],
@@ -196811,13 +196811,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Mike Parker"
       ],
@@ -196872,13 +196872,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kasia Brzezinska"
       ],
@@ -196951,13 +196951,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -197026,13 +197026,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jared Mathews"
       ],
@@ -197089,13 +197089,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Katya Cyan"
       ],
@@ -197147,13 +197147,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jennifer Park"
       ],
@@ -197206,13 +197206,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -197253,13 +197253,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Gustavo Chinaide"
       ],
@@ -197318,13 +197318,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -197380,13 +197380,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Emily Abeydeera"
       ],
@@ -197437,13 +197437,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Bruno Miranda de Freitas"
       ],
@@ -197500,13 +197500,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Isabella Ceravolo"
       ],
@@ -197552,13 +197552,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -197607,13 +197607,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -197681,13 +197681,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Eri Welli"
       ],
@@ -197740,13 +197740,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jeremy Adams"
       ],
@@ -197799,13 +197799,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Milica Celikovic"
       ],
@@ -197859,13 +197859,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ian MacDonald"
       ],
@@ -197926,13 +197926,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jared Mathews"
       ],
@@ -197996,13 +197996,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Eri Welli"
       ],
@@ -198059,13 +198059,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Randy Bishop"
       ],
@@ -198124,13 +198124,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Randy Bishop"
       ],
@@ -198178,13 +198178,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Adam Ford"
       ],
@@ -198237,13 +198237,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Adam Ford"
       ],
@@ -198300,13 +198300,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Grace Tran"
       ],
@@ -198364,13 +198364,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Grace Tran"
       ],
@@ -198433,13 +198433,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "French Carlomagno"
       ],
@@ -198498,13 +198498,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "French Carlomagno"
       ],
@@ -198561,13 +198561,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jared Mathews"
       ],
@@ -198622,13 +198622,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Eri Welli"
       ],
@@ -198685,13 +198685,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jeanne Plounevez"
       ],
@@ -198748,13 +198748,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -198817,13 +198817,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ricardo Caria"
       ],
@@ -198887,13 +198887,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Ulichney"
       ],
@@ -198944,13 +198944,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Julie Vu"
       ],
@@ -199011,13 +199011,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Leonardo Giammichele"
       ],
@@ -199083,13 +199083,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -199158,13 +199158,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -199233,13 +199233,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Sandy Lee"
       ],
@@ -199286,13 +199286,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -199334,13 +199334,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Isaiah Mesq"
       ],
@@ -199388,13 +199388,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alice Pisoni"
       ],
@@ -199453,13 +199453,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -199516,13 +199516,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ricardo Caria",
         "Pix Smith"
@@ -199575,13 +199575,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Veronica Di Lorenzo",
         "Livio Cacciatore"
@@ -199620,13 +199620,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Eri Welli"
       ],
@@ -199680,13 +199680,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Nicolas Ky"
       ],
@@ -199728,13 +199728,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Federico Maria Cugliari"
       ],
@@ -199796,13 +199796,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -199872,13 +199872,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Lynn's Magic Worlds"
       ],
@@ -199939,13 +199939,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -200008,13 +200008,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Stefano Spagnuolo"
       ],
@@ -200072,13 +200072,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -200128,13 +200128,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -200191,13 +200191,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -200262,13 +200262,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "LadyShalirin"
       ],
@@ -200337,13 +200337,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Max Grecke"
       ],
@@ -200395,13 +200395,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Alex Accorsi",
         "Grace Tran"
@@ -200458,13 +200458,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Clio Wolfensberger"
       ],
@@ -200524,13 +200524,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Tim van Galen"
       ],
@@ -200594,13 +200594,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -200658,13 +200658,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kasia Brzezinska"
       ],
@@ -200721,13 +200721,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -200794,13 +200794,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Eri Welli"
       ],
@@ -200850,13 +200850,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -200913,13 +200913,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Medusa Dollmaker"
       ],
@@ -200984,13 +200984,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Viv Tanner"
       ],
@@ -201043,13 +201043,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Aubrey Archer"
       ],
@@ -201108,13 +201108,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Juan Diego Le\u00f3n"
       ],
@@ -201186,13 +201186,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Marcin Karolewski"
       ],
@@ -201264,13 +201264,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Natalie Dombois"
       ],
@@ -201324,13 +201324,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
@@ -201400,13 +201400,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "John Loren"
       ],
@@ -201459,13 +201459,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Natalie Dombois"
       ],
@@ -201515,13 +201515,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Arch Apolar"
       ],
@@ -201578,13 +201578,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Ian MacDonald"
       ],
@@ -201654,13 +201654,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Nicholas Kole"
       ],
@@ -201729,13 +201729,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Marcin Karolewski"
       ],
@@ -201812,13 +201812,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Kenneth Anderson"
       ],
@@ -201872,13 +201872,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Viv Tanner"
       ],
@@ -201939,13 +201939,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Malia Ewart"
       ],
@@ -202020,13 +202020,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Arch Apolar"
       ],
@@ -202080,13 +202080,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Viv Tanner"
       ],
@@ -202153,13 +202153,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Koni"
       ],
@@ -202228,13 +202228,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jared Mathews"
       ],
@@ -202298,13 +202298,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jiahui Eva Gao"
       ],
@@ -202354,13 +202354,13 @@
     {
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Natalie Dombois"
       ],
@@ -202415,13 +202415,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Giulia Riva"
       ],
@@ -202483,13 +202483,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Randy Bishop"
       ],
@@ -202565,13 +202565,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jochem van Gool"
       ],
@@ -202646,13 +202646,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Jochem van Gool"
       ],
@@ -202720,13 +202720,13 @@
       ],
       "allowedInFormats": {
         "Core": {
-          "allowed": false
+          "allowed": true
         },
         "Infinity": {
-          "allowed": false
+          "allowed": true
         }
       },
-      "allowedInTournamentsFromDate": null,
+      "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
         "Cristian Romero"
       ],
