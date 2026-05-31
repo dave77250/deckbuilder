@@ -1,7 +1,7 @@
 {
   "metadata": {
     "formatVersion": "2.3.2",
-    "generatedOn": "2026-05-08T18:30:25",
+    "generatedOn": "2026-05-26T19:12:01",
     "language": "fr"
   },
   "sets": {
@@ -241,7 +241,7 @@
         }
       },
       "allowedInTournamentsFromDate": null,
-      "name": "Invasion Epineuse"
+      "name": "Invasion Epineuse!"
     },
     "14": {
       "prereleaseDate": null,
@@ -177046,7 +177046,7 @@
         "cardTraderId": 371725,
         "cardTraderUrl": "https://www.cardtrader.com/cards/371725",
         "cardmarketId": 871296,
-        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Iduna-Alarmed-Queen?language=2",
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Iduna-Alarmed-Queen-V1?language=2",
         "tcgPlayerId": 675499,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/675499"
       },
@@ -177119,7 +177119,7 @@
         "cardTraderId": 371726,
         "cardTraderUrl": "https://www.cardtrader.com/cards/371726",
         "cardmarketId": 871297,
-        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Agnarr-King-of-Arendelle?language=2",
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Agnarr-King-of-Arendelle-V1?language=2",
         "tcgPlayerId": 675500,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/675500"
       },
@@ -178752,7 +178752,7 @@
         "cardTraderId": 371749,
         "cardTraderUrl": "https://www.cardtrader.com/cards/371749",
         "cardmarketId": 871335,
-        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Roo-Little-Helper?language=2",
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Roo-Little-Helper-V1?language=2",
         "tcgPlayerId": 676217,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/676217"
       },
@@ -178830,7 +178830,7 @@
         "cardTraderId": 371750,
         "cardTraderUrl": "https://www.cardtrader.com/cards/371750",
         "cardmarketId": 871336,
-        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Kanga-Peaceful-Gatherer?language=2",
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Winterspell/Kanga-Peaceful-Gatherer-V1?language=2",
         "tcgPlayerId": 676218,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/676218"
       },
@@ -186959,7 +186959,14 @@
       "code": "HO",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388772,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388772",
+        "cardmarketId": 885579,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gosalyn-Mallard-The-Quiverwing-Quack?language=2",
+        "tcgPlayerId": 692146,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692146"
+      },
       "flavorText": "\u201cJe parie que papa n'a jamais attrap\u00e9 des fleurs comme\ncelles-ci !\u201d",
       "foilTypes": [
         "None",
@@ -187021,7 +187028,14 @@
       "code": "HP",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388516,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388516",
+        "cardmarketId": 885580,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Monterey-Jack-Watchful-Ranger?language=2",
+        "tcgPlayerId": 690516,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690516"
+      },
       "flavorText": "\u201cIls ne sont pas perdus. Je ne les ai juste pas encore\nretrouv\u00e9s !\u201d",
       "foilTypes": [
         "None",
@@ -187075,7 +187089,14 @@
       "color": "Ambre",
       "cost": 1,
       "epicId": 2920,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388517,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388517",
+        "cardmarketId": 885581,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Woody-Waiting-for-a-Friend-V1?language=2",
+        "tcgPlayerId": 692147,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692147"
+      },
       "flavorText": "\u201cContemplant la jungle du haut de cette plante g\u00e9ante\nJe repense \u00e0 cette \u00e9poque pleine de rire et si exaltante\nDe retour \u00e0 la maison, mes amis \u00e9taient tous l\u00e0\nMaintenant me voici, seul, perdu dans Lorcana.\u201d",
       "foilTypes": [
         "None",
@@ -187135,7 +187156,14 @@
       "code": "HR",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388518,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388518",
+        "cardmarketId": 885582,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dale-Excited-Friend?language=2",
+        "tcgPlayerId": 692006,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692006"
+      },
       "flavorText": "\u201cH\u00e9, Tic ! Regarde ce que j'ai trouv\u00e9 ! Peut-\u00eatre que\n\u00e7a peut nous servir.\u201d",
       "foilTypes": [
         "None",
@@ -187202,7 +187230,14 @@
       "code": "HS",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388519,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388519",
+        "cardmarketId": 885583,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pedro-Madrigal-Family-Patriarch?language=2",
+        "tcgPlayerId": 692007,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692007"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -187264,7 +187299,14 @@
       "code": "HT",
       "color": "Ambre",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388520,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388520",
+        "cardmarketId": 885584,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Agustin-Madrigal-Exceptionally-Kind?language=2",
+        "tcgPlayerId": 690707,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690707"
+      },
       "flavorText": "\u201cJe suis content de pouvoir amener tous ces arepas \u00e0\nl'oasis, mi vida. Mais imagine tout ce que je pourrais\nfaire de plus si j'avais un don.\u201d",
       "foilTypes": [
         "None",
@@ -187331,7 +187373,14 @@
       "code": "HU",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388521,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388521",
+        "cardmarketId": 885585,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Alan-a-Dale-Loyal-Bard?language=2",
+        "tcgPlayerId": 692008,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692008"
+      },
       "flavorText": "\u201cL'effroyable Plante s'\u00e9levant dans les cieux,\nNotre moral tomba plus bas que terre,\nMartin s'avan\u00e7a, d\u00e9cid\u00e9 et audacieux,\nLi\u00e9s par l'Illuminarium, nous \u00e9tions d\u00e9sormais solidaires.\u201d",
       "foilTypes": [
         "None",
@@ -187387,7 +187436,14 @@
       "code": "HV",
       "color": "Ambre",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388522,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388522",
+        "cardmarketId": 885586,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Prince-Eric-Noble-Swordsman?language=2",
+        "tcgPlayerId": 692009,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692009"
+      },
       "flavorText": "Parmi tous les objets du tr\u00e9sor d'Ariel, cette \u00e9p\u00e9e\nl'attira tout particuli\u00e8rement. Il savait qu'elle lui\n\u00e9tait destin\u00e9e.",
       "foilTypes": [
         "None",
@@ -187447,7 +187503,14 @@
       "code": "HW",
       "color": "Ambre",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388523,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388523",
+        "cardmarketId": 885587,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dolores-Madrigal-Hears-Everything?language=2",
+        "tcgPlayerId": 692010,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692010"
+      },
       "flavorText": "\u201cAmazu dit qu'il reviendra dans quelques semaines.\nPour l'instant, il est coinc\u00e9 dans le d\u00e9sert.\u201d",
       "foilTypes": [
         "None",
@@ -187516,7 +187579,14 @@
       "color": "Ambre",
       "cost": 2,
       "epicId": 2921,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388524,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388524",
+        "cardmarketId": 885588,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Rex-Protective-Dinosaur-V1?language=2",
+        "tcgPlayerId": 692148,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692148"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -187586,7 +187656,14 @@
       "code": "HY",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388525,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388525",
+        "cardmarketId": 885589,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Hamm-Piggy-Bank?language=2",
+        "tcgPlayerId": 692149,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692149"
+      },
       "flavorText": "\u201cTu peux te d\u00e9p\u00eacher, Woody ? Ces fleurs semblent\nvouloir faire sauter la banque, si tu vois ce que je\nveux dire !\u201d",
       "foilTypes": [
         "None",
@@ -187648,7 +187725,14 @@
       "code": "HZ",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388526,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388526",
+        "cardmarketId": 885590,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Monterey-Jack-Hypnotized-by-Cheese?language=2",
+        "tcgPlayerId": 690708,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690708"
+      },
       "flavorText": "\u201cQuand je sens un bon petit fromage bien fait, j'ai\nles narines qui me chatouillent.\u201d",
       "foilTypes": [
         "None",
@@ -187709,7 +187793,14 @@
       "code": "I0",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388527,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388527",
+        "cardmarketId": 885591,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bo-Peep-Caring-Shepherd?language=2",
+        "tcgPlayerId": 690517,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690517"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -187776,7 +187867,14 @@
       "code": "I1",
       "color": "Ambre",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388528,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388528",
+        "cardmarketId": 885592,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Chip-Retrieval-Expert?language=2",
+        "tcgPlayerId": 692011,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692011"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -187851,7 +187949,14 @@
       "code": "I2",
       "color": "Ambre",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388529,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388529",
+        "cardmarketId": 885593,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Woody-Jungle-Guide?language=2",
+        "tcgPlayerId": 690203,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690203"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -187932,7 +188037,14 @@
       "color": "Ambre",
       "cost": 3,
       "epicId": 2922,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388530,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388530",
+        "cardmarketId": 885594,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Isabela-Madrigal-Such-a-Lovely-Voice-V1?language=2",
+        "tcgPlayerId": 692150,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692150"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -187997,7 +188109,14 @@
       "code": "I4",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388531,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388531",
+        "cardmarketId": 885595,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bullseye-Loyal-Horse?language=2",
+        "tcgPlayerId": 690518,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690518"
+      },
       "flavorText": "\u201cYah-ouh, Pile-Poil ! Tu es plus sale qu'un cochon \u00e0\nl'heure du d\u00eener ! Allez, sors donc de l\u00e0.\u201d\n\u2014Jessie",
       "foilTypes": [
         "None",
@@ -188062,7 +188181,14 @@
       "code": "I5",
       "color": "Ambre",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388532,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388532",
+        "cardmarketId": 885596,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Ariel-Curious-Traveler?language=2",
+        "tcgPlayerId": 690519,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690519"
+      },
       "flavorText": "\u201cN'est-ce pas merveilleux ? Regarde s'il y a quelque chose\nqui te pla\u00eet.\u201d",
       "foilTypes": [
         "None",
@@ -188136,7 +188262,14 @@
       "color": "Ambre",
       "cost": 6,
       "enchantedId": 2939,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388533,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388533",
+        "cardmarketId": 885597,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Isabela-Madrigal-Caring-Cultivator-V1?language=2",
+        "tcgPlayerId": 692151,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692151"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -188208,7 +188341,14 @@
       "color": "Ambre",
       "cost": 3,
       "enchantedId": 2938,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388534,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388534",
+        "cardmarketId": 885598,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Jessie-Lively-Cowgirl-V1?language=2",
+        "tcgPlayerId": 690204,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690204"
+      },
       "foilTypes": [
         "None",
         "Silver",
@@ -188271,7 +188411,14 @@
       "code": "I8",
       "color": "Ambre",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388535,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388535",
+        "cardmarketId": 885599,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Woody-Leader-of-the-Toys?language=2",
+        "tcgPlayerId": 690205,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690205"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -188332,7 +188479,14 @@
       "code": "I9",
       "color": "Ambre",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388536,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388536",
+        "cardmarketId": 885600,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dale-Ready-for-His-Shot?language=2",
+        "tcgPlayerId": 692152,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692152"
+      },
       "flavorText": "\u201cIl est aussi ferment\u00e9 qu'un vieux morceau de fromage.\u201d\n\u2014Jack le Costaud",
       "foilTypes": [
         "None",
@@ -188387,7 +188541,14 @@
       "code": "Ia",
       "color": "Ambre",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388537,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388537",
+        "cardmarketId": 885601,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Prince-Searching-for-His-Love?language=2",
+        "tcgPlayerId": 692234,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692234"
+      },
       "flavorText": "\u201cLa for\u00eat profonde et la plus haute montagne ne\nsont rien face \u00e0 un c\u0153ur sinc\u00e8re. Je per\u00e7ois la voix\nde mon amour dans chaque chant d'oiseau, et sa\nbeaut\u00e9, dans la lumi\u00e8re dor\u00e9e.\u201d",
       "foilTypes": [
         "None",
@@ -188447,7 +188608,14 @@
       "code": "Ib",
       "color": "Ambre",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388538,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388538",
+        "cardmarketId": 885602,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Julieta-Madrigal-Caring-Baker?language=2",
+        "tcgPlayerId": 692153,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692153"
+      },
       "flavorText": "\u201cMi amor, ta gentillesse est le plus beau don que j'ai\njamais re\u00e7u.\u201d",
       "foilTypes": [
         "None",
@@ -188509,7 +188677,14 @@
       "code": "Ic",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388539,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388539",
+        "cardmarketId": 885603,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pluto-Vigilant-Traveler?language=2",
+        "tcgPlayerId": 692154,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692154"
+      },
       "flavorText": "\u201cQu'as-tu entendu, mon grand ?\u201d\n\u2014Mickey Mouse",
       "foilTypes": [
         "None",
@@ -188576,7 +188751,14 @@
       "code": "Id",
       "color": "Ambre",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388540,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388540",
+        "cardmarketId": 885604,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mickey-Mouse-Expedition-Leader?language=2",
+        "tcgPlayerId": 690520,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690520"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -188637,7 +188819,14 @@
       "code": "Ie",
       "color": "Ambre",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388541,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388541",
+        "cardmarketId": 885605,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Chip-Team-Player?language=2",
+        "tcgPlayerId": 692012,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692012"
+      },
       "flavorText": "\u201cAllez, Tac. T'as l'air en pleine forme ! J'ai un plan\npour lequel tu seras parfait !\u201d",
       "foilTypes": [
         "None",
@@ -188693,7 +188882,14 @@
       "effects": [
         "Choisissez un personnage qui gagne autant de \u00a4 que\nsa \u26c9 pour le reste de ce tour."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388542,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388542",
+        "cardmarketId": 885606,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Ranger-Team-Up?language=2",
+        "tcgPlayerId": 692155,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692155"
+      },
       "flavorText": "\u201cBeau travail d'\u00e9quipe, partenaire ! Maintenant, v\u00e9rifie\nque ton casque est bien attach\u00e9\u2026\u201d\n\u2014Tic",
       "foilTypes": [
         "None",
@@ -188747,7 +188943,14 @@
       "effects": [
         "Choisissez un personnage adverse qui ne peut pas\nd\u00e9fier et doit \u00eatre envoy\u00e9 \u00e0 l'aventure durant son\nprochain tour, si possible. Piochez une carte."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388543,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388543",
+        "cardmarketId": 885607,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/This-Growing-Pressure?language=2",
+        "tcgPlayerId": 692156,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692156"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -188806,7 +189009,14 @@
         "Regardez les 4 cartes du dessus de votre pioche. Vous\npouvez r\u00e9v\u00e9ler jusqu'\u00e0 2 cartes Personnage Jouet parmi\nelles et les ajouter \u00e0 votre main. Placez les autres cartes\nsous votre pioche, dans l'ordre de votre choix."
       ],
       "enchantedId": 2940,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388544,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388544",
+        "cardmarketId": 885608,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Youve-Got-a-Friend-in-Me-V1?language=2",
+        "tcgPlayerId": 692157,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692157"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -188857,7 +189067,14 @@
       "effects": [
         "Jouez gratuitement un personnage de votre d\u00e9fausse via\nsa capacit\u00e9 Alter."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388545,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388545",
+        "cardmarketId": 885609,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Metamorphosis?language=2",
+        "tcgPlayerId": 690521,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690521"
+      },
       "flavorText": "\u201cCette Plante est pleine d'encre de l'inondation. Tu n'imagines\npas ce qu'elle peut faire avec un peu d'encouragement !\u201d\n\u2014Isabela Madrigal",
       "foilTypes": [
         "None",
@@ -188911,7 +189128,14 @@
       "effects": [
         "Si un adversaire a plus de personnages en jeu que\nvous, vous pouvez jouer gratuitement un personnage\nco\u00fbtant 4 ou moins."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388546,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388546",
+        "cardmarketId": 885610,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/When-You-Need-Help-Just-Call?language=2",
+        "tcgPlayerId": 692158,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692158"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -188973,7 +189197,14 @@
       "code": "Ik",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388547,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388547",
+        "cardmarketId": 885611,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Safety-Rope?language=2",
+        "tcgPlayerId": 690709,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690709"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -189025,7 +189256,14 @@
       "code": "Il",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388548,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388548",
+        "cardmarketId": 885612,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Andys-Room-Home-Base?language=2",
+        "tcgPlayerId": 690522,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690522"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -189080,7 +189318,14 @@
       "code": "Im",
       "color": "Am\u00e9thyste",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388549,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388549",
+        "cardmarketId": 885613,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mordu-Wicked-with-Pride?language=2",
+        "tcgPlayerId": 690523,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690523"
+      },
       "flavorText": "\u201cIl estimait devoir \u00eatre le seul h\u00e9ritier. L'\u00e9go\u00efsme\ngerma en lui, tel un poison.\u201d\n\u2014La Sorci\u00e8re",
       "foilTypes": [
         "None",
@@ -189145,7 +189390,14 @@
       "code": "In",
       "color": "Am\u00e9thyste",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388550,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388550",
+        "cardmarketId": 885614,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Alma-Madrigal-Leading-the-Way?language=2",
+        "tcgPlayerId": 692013,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692013"
+      },
       "flavorText": "\u201cC'est l\u00e0, en cet instant des plus tragiques, que nous\navons re\u00e7u un miracle.\u201d",
       "foilTypes": [
         "None",
@@ -189213,7 +189465,14 @@
       "code": "Io",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388551,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388551",
+        "cardmarketId": 885615,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Snow-White-Merry-as-the-Morning-V1?language=2",
+        "tcgPlayerId": 692014,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692014"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -189284,7 +189543,14 @@
       "code": "Ip",
       "color": "Am\u00e9thyste",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388553,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388553",
+        "cardmarketId": 885616,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dopey-Drawn-to-Music-V1?language=2",
+        "tcgPlayerId": 692016,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692016"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -189347,7 +189613,14 @@
       "code": "Iq",
       "color": "Am\u00e9thyste",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388555,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388555",
+        "cardmarketId": 885617,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bashful-Riding-the-Rails-V1?language=2",
+        "tcgPlayerId": 692018,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692018"
+      },
       "flavorText": "\u201cOh ! Ohohoh.\u201d",
       "foilTypes": [
         "None",
@@ -189414,7 +189687,14 @@
       "color": "Am\u00e9thyste",
       "cost": 4,
       "epicId": 2925,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388557,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388557",
+        "cardmarketId": 885618,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Doc-Taking-Notes-V1?language=2",
+        "tcgPlayerId": 692020,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692020"
+      },
       "flavorText": "\u201cOuh l\u00e0 ! \u00c7a, c'est une lente branche\u2026 euh, une\nplanche orange\u2026 une plante \u00e9trange !\u201d",
       "foilTypes": [
         "None",
@@ -189469,7 +189749,14 @@
       "code": "Is",
       "color": "Am\u00e9thyste",
       "cost": 7,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388559,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388559",
+        "cardmarketId": 885619,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Grumpy-Soreheaded-Miner-V1?language=2",
+        "tcgPlayerId": 692022,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692022"
+      },
       "flavorText": "\u201cFais attention. Tu m'as presque envoy\u00e9 dans le\nmur avec cet \u00e9ternuement ! Tu veux que toute la\nmine s'\u00e9croule ?!\u201d",
       "foilTypes": [
         "None",
@@ -189530,7 +189817,14 @@
       "code": "It",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388561,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388561",
+        "cardmarketId": 885620,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Sneezy-Startlingly-Loud-V1?language=2",
+        "tcgPlayerId": 692024,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692024"
+      },
       "flavorText": "\u201cPourquoi a-t-il fallu que cette plante ait d'aussi\ngrosses fleu-eu-A-Atchoum !\u201d",
       "foilTypes": [
         "None",
@@ -189585,7 +189879,14 @@
       "code": "Iu",
       "color": "Am\u00e9thyste",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388564,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388564",
+        "cardmarketId": 885621,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Happy-Joyful-Adventurer-V1?language=2",
+        "tcgPlayerId": 692026,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692026"
+      },
       "flavorText": "\u201cCette plante a l'air bigrement particuli\u00e8re !\nLes amis, vous pensez qu'on peut la toucher ?\u201d",
       "foilTypes": [
         "None",
@@ -189646,7 +189947,14 @@
       "code": "Iv",
       "color": "Am\u00e9thyste",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388565,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388565",
+        "cardmarketId": 885622,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Sleepy-Deep-Sleeper-V1?language=2",
+        "tcgPlayerId": 692028,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692028"
+      },
       "flavorText": "Une douce brise, des odeurs parfum\u00e9es et le doux\nbalancement d'une plante\u2026 Comment ne pas s'endormir ?",
       "foilTypes": [
         "None",
@@ -189709,7 +190017,14 @@
       "code": "Iw",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388567,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388567",
+        "cardmarketId": 885623,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Alma-Madrigal-Heart-of-the-Family?language=2",
+        "tcgPlayerId": 692030,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692030"
+      },
       "flavorText": "\u201cTout le monde fait des erreurs. Le plus important est de\nles reconna\u00eetre.\u201d",
       "foilTypes": [
         "None",
@@ -189771,7 +190086,14 @@
       "code": "Ix",
       "color": "Am\u00e9thyste",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388568,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388568",
+        "cardmarketId": 885624,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Frozone-Super-Slick?language=2",
+        "tcgPlayerId": 692031,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692031"
+      },
       "flavorText": "\u201cAllez, tu peux le dire. C'\u00e9tait cool, non ?\u201d",
       "foilTypes": [
         "None",
@@ -189836,7 +190158,14 @@
       "code": "Iy",
       "color": "Am\u00e9thyste",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388569,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388569",
+        "cardmarketId": 885625,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Will-o-the-Wisp-Forest-Spirit?language=2",
+        "tcgPlayerId": 690524,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690524"
+      },
       "flavorText": "Ils reviennent toujours quand on a besoin d'eux.",
       "foilTypes": [
         "None",
@@ -189905,7 +190234,14 @@
       "code": "Iz",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388570,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388570",
+        "cardmarketId": 885626,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Violet-Parr-Learning-New-Powers?language=2",
+        "tcgPlayerId": 690525,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690525"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -189973,7 +190309,14 @@
       "code": "IA",
       "color": "Am\u00e9thyste",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388571,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388571",
+        "cardmarketId": 885627,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mrs-Incredible-Super-Stretchy?language=2",
+        "tcgPlayerId": 678237,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/678237"
+      },
       "foilTypes": [
         "None",
         "Silver",
@@ -190041,7 +190384,14 @@
       "code": "IB",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388572,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388572",
+        "cardmarketId": 885628,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Hamish-Hubert-Harris-Making-Mischief?language=2",
+        "tcgPlayerId": 692159,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692159"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190105,7 +190455,14 @@
       "code": "IC",
       "color": "Am\u00e9thyste",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388573,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388573",
+        "cardmarketId": 885629,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Elinor-Bespelled-Queen?language=2",
+        "tcgPlayerId": 692032,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692032"
+      },
       "flavorText": "Elle avait beaucoup \u00e0 apprendre pour \u00eatre une\nourse, mais prot\u00e9ger sa famille lui \u00e9tait venu\nnaturellement.",
       "foilTypes": [
         "None",
@@ -190169,7 +190526,14 @@
       "code": "ID",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388574,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388574",
+        "cardmarketId": 885630,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mickey-Mouse-Experienced-Traveler?language=2",
+        "tcgPlayerId": 692233,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692233"
+      },
       "flavorText": "Tu n'es jamais perdu quand tu as un ami \u00e0 tes c\u00f4t\u00e9s.",
       "foilTypes": [
         "None",
@@ -190232,7 +190596,14 @@
       "color": "Am\u00e9thyste",
       "cost": 4,
       "epicId": 2923,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388575,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388575",
+        "cardmarketId": 885631,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mirage-Super-Recruiter-V1?language=2",
+        "tcgPlayerId": 690526,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690526"
+      },
       "flavorText": "\u201cLes Supers existent toujours, M. Indestructible, tant\nque vous \u00eates l\u00e0. Vous pouvez accomplir de grandes\nchoses.\u201d",
       "foilTypes": [
         "None",
@@ -190300,7 +190671,14 @@
       "color": "Am\u00e9thyste",
       "cost": 3,
       "epicId": 2924,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388576,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388576",
+        "cardmarketId": 885632,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Edna-Mode-Fashion-Designer-V1?language=2",
+        "tcgPlayerId": 692033,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692033"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190362,7 +190740,14 @@
       "code": "IG",
       "color": "Am\u00e9thyste",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388577,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388577",
+        "cardmarketId": 885633,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Maleficent-Imperious-Traveler?language=2",
+        "tcgPlayerId": 690527,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690527"
+      },
       "flavorText": "\u201cLigotez ce Glimmer, fleurs mal\u00e9fiques !\u201d",
       "foilTypes": [
         "None",
@@ -190433,7 +190818,14 @@
       "code": "IH",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388578,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388578",
+        "cardmarketId": 885634,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pepa-Madrigal-Calm-Before-the-Storm?language=2",
+        "tcgPlayerId": 692160,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692160"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190501,7 +190893,14 @@
       "code": "II",
       "color": "Am\u00e9thyste",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388579,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388579",
+        "cardmarketId": 885635,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mordu-Savage-Cursed-Prince?language=2",
+        "tcgPlayerId": 692034,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692034"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190571,7 +190970,14 @@
       "code": "IJ",
       "color": "Am\u00e9thyste",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388580,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388580",
+        "cardmarketId": 885636,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Alma-Madrigal-Keeper-of-the-Flame?language=2",
+        "tcgPlayerId": 692035,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692035"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190643,7 +191049,14 @@
       "color": "Am\u00e9thyste",
       "cost": 6,
       "enchantedId": 2941,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388581,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388581",
+        "cardmarketId": 885637,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Frozone-Super-Cool-V1?language=2",
+        "tcgPlayerId": 690528,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690528"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190721,7 +191134,14 @@
       "color": "Am\u00e9thyste",
       "cost": 5,
       "enchantedId": 2942,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388582,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388582",
+        "cardmarketId": 885638,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Luisa-Madrigal-Confident-Climber-V1?language=2",
+        "tcgPlayerId": 690206,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690206"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -190794,7 +191214,14 @@
       "code": "IM",
       "color": "Am\u00e9thyste",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388583,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388583",
+        "cardmarketId": 885639,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dash-Parr-Lava-Runner?language=2",
+        "tcgPlayerId": 690529,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690529"
+      },
       "flavorText": "\u201cOuah ! Un endroit cach\u00e9 sous la montagne !\u201d",
       "foilTypes": [
         "None",
@@ -190865,7 +191292,14 @@
       "code": "IN",
       "color": "Am\u00e9thyste",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388584,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388584",
+        "cardmarketId": 885640,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Luisa-Madrigal-Pushing-Through?language=2",
+        "tcgPlayerId": 692036,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692036"
+      },
       "flavorText": "\u201cD'une fa\u00e7on\u2026 ou d'une autre\u2026 je vais tous\u2026 vous\namener\u2026 au sommet de\u2026 cette montagne !\u201d",
       "foilTypes": [
         "None",
@@ -190925,7 +191359,14 @@
       "effects": [
         "Choisissez l'un de vos personnages et renvoyez-le dans\nvotre main. Si vous avez ainsi renvoy\u00e9 un personnage\nH\u00e9ros, piochez 2 cartes."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388585,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388585",
+        "cardmarketId": 885641,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Super-Relocation-Program?language=2",
+        "tcgPlayerId": 692161,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692161"
+      },
       "flavorText": "\u201cNous vous remercions de ce que vous avez fait autrefois,\nmais tout \u00e7a, c'est termin\u00e9.\u201d\n\u2014Rick Dicker",
       "foilTypes": [
         "None",
@@ -190972,7 +191413,14 @@
       "effects": [
         "Piochez une carte. Si vous avez un personnage Sept\nNains et un personnage Princesse en jeu, vous pouvez\njouer gratuitement un personnage Sept Nains."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388586,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388586",
+        "cardmarketId": 885642,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Right-Behind-You?language=2",
+        "tcgPlayerId": 690530,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690530"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -191018,7 +191466,14 @@
       "effects": [
         "Cherchez une carte Personnage Princesse dans votre\npioche, r\u00e9v\u00e9lez-la \u00e0 tous les joueurs et ajoutez-la \u00e0\nvotre main. Ensuite, m\u00e9langez votre pioche. Si vous\navez 2 personnages Sept Nains ou plus en jeu, piochez\n2 cartes et gagnez 2 \u00e9clats de Lore."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388587,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388587",
+        "cardmarketId": 885643,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dont-Be-Nervous?language=2",
+        "tcgPlayerId": 692162,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692162"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -191080,7 +191535,14 @@
       "code": "IR",
       "color": "Am\u00e9thyste",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388588,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388588",
+        "cardmarketId": 885644,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Super-Suit?language=2",
+        "tcgPlayerId": 690710,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690710"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -191144,7 +191606,14 @@
       "color": "Am\u00e9thyste",
       "cost": 2,
       "enchantedId": 2943,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388589,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388589",
+        "cardmarketId": 885645,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/DunBroch-Family-Tapestry-V1?language=2",
+        "tcgPlayerId": 690531,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690531"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -191202,7 +191671,14 @@
       "code": "IT",
       "color": "Am\u00e9thyste",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388590,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388590",
+        "cardmarketId": 885646,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Ring-of-Stones-Place-of-Legends?language=2",
+        "tcgPlayerId": 690711,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690711"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -191258,7 +191734,14 @@
       "code": "IU",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388591,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388591",
+        "cardmarketId": 885647,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Merida-Defiant-Daughter?language=2",
+        "tcgPlayerId": 690532,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690532"
+      },
       "flavorText": "\u201c\u2018Reste au camp, Merida.\u2019 \u2018Montre l'exemple, Merida\u2019\nQu'y a-t-il de mal \u00e0 sortir pour explorer ? Je vais rester\nsur la Plante et ils ne se rendront compte de rien.\u201d",
       "foilTypes": [
         "None",
@@ -191323,7 +191806,14 @@
       "code": "IV",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388592,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388592",
+        "cardmarketId": 885648,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Hamish-Hubert-Harris-Troublemaking-Triplets?language=2",
+        "tcgPlayerId": 690533,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690533"
+      },
       "flavorText": "\u201cOh oui, ce sont d'insaisissables petits diables.\nVous devriez voir ce qu'ils ont fait au jardin.\u201d\n\u2014Merida",
       "foilTypes": [
         "None",
@@ -191380,7 +191870,14 @@
       "code": "IW",
       "color": "\u00c9meraude",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388593,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388593",
+        "cardmarketId": 885649,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Young-MacGuffin-Soft-Spoken-Son?language=2",
+        "tcgPlayerId": 692163,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692163"
+      },
       "flavorText": "\u201cY a quelque chose de bizarre avec ces fleurs,\np\u00e8re. Elles me font tout dr\u00f4le, comme si j'voulais\nplus me battre contre elles.\u201d",
       "foilTypes": [
         "None",
@@ -191439,7 +191936,14 @@
       "code": "IX",
       "color": "\u00c9meraude",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388594,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388594",
+        "cardmarketId": 885651,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Tod-Nimble-Fox?language=2",
+        "tcgPlayerId": 690712,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690712"
+      },
       "flavorText": "\u201c\u00c9coutez, j'ai compt\u00e9 jusqu'\u00e0 dix avant de commencer\n\u00e0 grimper. Vous auriez tous d\u00fb trouver de meilleures\ncachettes que le sommet d'un arbre.\u201d",
       "foilTypes": [
         "None",
@@ -191504,7 +192008,14 @@
       "code": "IY",
       "color": "\u00c9meraude",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388595,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388595",
+        "cardmarketId": 885652,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Helga-Sinclair-No-Backup-Needed?language=2",
+        "tcgPlayerId": 692037,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692037"
+      },
       "flavorText": "\u201cUne fois de plus, je me retrouve \u00e0 nettoyer le\nbazar de quelqu'un d'autre.\u201d",
       "foilTypes": [
         "None",
@@ -191565,7 +192076,14 @@
       "code": "IZ",
       "color": "\u00c9meraude",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388596,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388596",
+        "cardmarketId": 885653,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Witch-Wily-Woodcarver?language=2",
+        "tcgPlayerId": 690534,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690534"
+      },
       "flavorText": "\u201cC'est l'endroit id\u00e9al pour installer un commerce ! Cette\nplante ajoute juste ce qu'il faut de charme rustique.\u201d",
       "foilTypes": [
         "None",
@@ -191626,7 +192144,14 @@
       "code": "J0",
       "color": "\u00c9meraude",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388597,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388597",
+        "cardmarketId": 885654,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Queen-Evil-Ruler?language=2",
+        "tcgPlayerId": 678234,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/678234"
+      },
       "flavorText": "\u201cAvec ce don qui me permettra d'atteindre les\nobjectifs du Conseil, bient\u00f4t tous trembleront devant\nmon pouvoir.\u201d",
       "foilTypes": [
         "None",
@@ -191682,7 +192207,14 @@
       "color": "\u00c9meraude",
       "cost": 2,
       "epicId": 2926,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388598,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388598",
+        "cardmarketId": 885655,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Buzz-Lightyear-Space-Ranger-V1?language=2",
+        "tcgPlayerId": 692164,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692164"
+      },
       "flavorText": "\u201cL'environnement para\u00eet habitable, mais la flore\nsemble avoir subi d'\u00e9tranges mutations. Ce\npourrait \u00eatre l'influence de Zurg.\u201d",
       "foilTypes": [
         "None",
@@ -191743,7 +192275,14 @@
       "code": "J2",
       "color": "\u00c9meraude",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388599,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388599",
+        "cardmarketId": 885656,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/RC-Remote-Controlled-Car?language=2",
+        "tcgPlayerId": 692038,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692038"
+      },
       "flavorText": "Faire la course dans la chambre d'Andy est amusant,\nmais il aime vraiment faire du hors-piste.",
       "foilTypes": [
         "None",
@@ -191806,7 +192345,14 @@
       "code": "J3",
       "color": "\u00c9meraude",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388600,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388600",
+        "cardmarketId": 885657,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lord-MacGuffin-Clever-Swordsman?language=2",
+        "tcgPlayerId": 692039,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692039"
+      },
       "flavorText": "\u201cNous retrouverons le chemin de l'Illuminarium,\nm\u00eame si nous devons combattre toutes les plantes\nde Lorcana.\u201d",
       "foilTypes": [
         "None",
@@ -191873,7 +192419,14 @@
       "code": "J4",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388601,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388601",
+        "cardmarketId": 885658,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lenny-Toy-Binoculars?language=2",
+        "tcgPlayerId": 690535,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690535"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -191944,7 +192497,14 @@
       "code": "J5",
       "color": "\u00c9meraude",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388602,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388602",
+        "cardmarketId": 885659,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gaetan-Moliere-Clever-Burrower?language=2",
+        "tcgPlayerId": 690536,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690536"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192000,7 +192560,14 @@
       "code": "J6",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388603,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388603",
+        "cardmarketId": 885660,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Peter-Pan-Searching-Far-and-Wide-V1?language=2",
+        "tcgPlayerId": 692040,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692040"
+      },
       "flavorText": "\u201cJ'ai d\u00e9j\u00e0 fouill\u00e9 toute la jungle. Il doit \u00eatre quelque\npart par ici !\u201d",
       "foilTypes": [
         "None",
@@ -192072,7 +192639,14 @@
       "color": "\u00c9meraude",
       "cost": 7,
       "enchantedId": 2945,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388605,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388605",
+        "cardmarketId": 885661,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Milo-Thatch-Getting-His-Hands-Dirty-V1?language=2",
+        "tcgPlayerId": 692165,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692165"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192144,7 +192718,14 @@
       "color": "\u00c9meraude",
       "cost": 1,
       "enchantedId": 2944,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388606,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388606",
+        "cardmarketId": 885662,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Alien-True-Believer-V1?language=2",
+        "tcgPlayerId": 692166,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692166"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192208,7 +192789,14 @@
       "color": "\u00c9meraude",
       "cost": 5,
       "epicId": 2927,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388607,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388607",
+        "cardmarketId": 885663,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Donald-Duck-Distracted-Traveler-V1?language=2",
+        "tcgPlayerId": 690537,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690537"
+      },
       "flavorText": "Dans les contr\u00e9es sauvages de Lorcana, un peu de\nchance peut faire toute la diff\u00e9rence.",
       "foilTypes": [
         "None",
@@ -192275,7 +192863,14 @@
       "code": "Ja",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388608,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388608",
+        "cardmarketId": 885664,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Buzz-Lightyear-On-the-Way?language=2",
+        "tcgPlayerId": 678236,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/678236"
+      },
       "foilTypes": [
         "None",
         "Silver",
@@ -192339,7 +192934,14 @@
       "code": "Jb",
       "color": "\u00c9meraude",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388609,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388609",
+        "cardmarketId": 885665,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Elinor-Renowned-Diplomat?language=2",
+        "tcgPlayerId": 692042,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692042"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192406,7 +193008,14 @@
       "code": "Jc",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388610,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388610",
+        "cardmarketId": 885667,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lyle-Tiberius-Rourke-Adventurer-for-Hire?language=2",
+        "tcgPlayerId": 692043,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692043"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192467,7 +193076,14 @@
       "code": "Jd",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388611,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388611",
+        "cardmarketId": 885668,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Joshua-Sweet-Field-Surgeon?language=2",
+        "tcgPlayerId": 692044,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692044"
+      },
       "flavorText": "\u201cC'est juste une \u00e9gratignure ! Reposez-vous et tout\nira bien. Il n'y a pas \u00e0 discuter : ordre du m\u00e9decin.\u201d",
       "foilTypes": [
         "None",
@@ -192537,7 +193153,14 @@
       "color": "\u00c9meraude",
       "cost": 5,
       "epicId": 2928,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388612,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388612",
+        "cardmarketId": 885670,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Merida-Gifted-Archer-V1?language=2",
+        "tcgPlayerId": 690207,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690207"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192608,7 +193231,14 @@
       "code": "Jf",
       "color": "\u00c9meraude",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388613,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388613",
+        "cardmarketId": 885671,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Queen-Devious-Disguise?language=2",
+        "tcgPlayerId": 692167,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692167"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192687,7 +193317,14 @@
       "code": "Jg",
       "color": "\u00c9meraude",
       "cost": 7,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388614,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388614",
+        "cardmarketId": 885672,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Buzz-Lightyear-Jungle-Ranger-V1?language=2",
+        "tcgPlayerId": 690208,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690208"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192757,7 +193394,14 @@
       "code": "Jh",
       "color": "\u00c9meraude",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388615,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388615",
+        "cardmarketId": 885673,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Cruella-De-Vil-Judgmental-Traveler?language=2",
+        "tcgPlayerId": 690538,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690538"
+      },
       "flavorText": "\u201cPuis-je vous aider ? Tant que \u00e7a ne concerne pas votre\nsens du style, ch\u00e9rie.\u201d",
       "foilTypes": [
         "None",
@@ -192821,7 +193465,14 @@
       "code": "Ji",
       "color": "\u00c9meraude",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388616,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388616",
+        "cardmarketId": 885674,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Helga-Sinclair-Prepared-for-Anything?language=2",
+        "tcgPlayerId": 692045,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692045"
+      },
       "flavorText": "Elle est pr\u00eate \u00e0 tout tant qu'on y met le prix.",
       "foilTypes": [
         "None",
@@ -192882,7 +193533,14 @@
       "code": "Jj",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388617,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388617",
+        "cardmarketId": 885675,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Huntsman-On-the-Queens-Orders?language=2",
+        "tcgPlayerId": 692046,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692046"
+      },
       "flavorText": "\u201cM\u00eame toi, tu ne serais pas assez stupide pour me\nd\u00e9sob\u00e9ir une seconde fois.\u201d\n\u2014La Reine",
       "foilTypes": [
         "None",
@@ -192948,7 +193606,14 @@
       "effects": [
         "Choisissez jusqu'\u00e0 2 personnages qui ne peuvent pas\n\u00eatre envoy\u00e9s \u00e0 l'aventure jusqu'au d\u00e9but de votre\nprochain tour. Piochez une carte."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388618,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388618",
+        "cardmarketId": 885676,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Strange-Things?language=2",
+        "tcgPlayerId": 690713,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690713"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -192999,7 +193664,14 @@
       "effects": [
         "Choisissez un objet ou un lieu et bannissez-le, ainsi\nque tous les objets ou lieux portant le m\u00eame nom."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388619,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388619",
+        "cardmarketId": 885677,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Sabotage?language=2",
+        "tcgPlayerId": 692168,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692168"
+      },
       "flavorText": "\u201cHa ! \u00c7a a encore mieux march\u00e9 que la derni\u00e8re fois.\u201d",
       "foilTypes": [
         "None",
@@ -193047,7 +193719,14 @@
         "Choisissez un adversaire qui choisit 3 de ses personnages\net renvoie dans sa main l'un des personnages choisis,\nen place un autre sous sa pioche, et place le dernier sur\nsa pioche."
       ],
       "enchantedId": 2946,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388620,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388620",
+        "cardmarketId": 885678,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Family-Scattered-V1?language=2",
+        "tcgPlayerId": 692047,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692047"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193108,7 +193787,14 @@
       "code": "Jn",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388621,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388621",
+        "cardmarketId": 885679,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Buzzs-Arm?language=2",
+        "tcgPlayerId": 692048,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692048"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193166,7 +193852,14 @@
       "code": "Jo",
       "color": "\u00c9meraude",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388622,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388622",
+        "cardmarketId": 885680,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Claw?language=2",
+        "tcgPlayerId": 692169,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692169"
+      },
       "flavorText": "\u201cAyez confiance en le grappin. Il nous sortira de ce monde\nterrible !\u201d\n\u2014Alien",
       "foilTypes": [
         "None",
@@ -193234,7 +193927,14 @@
       "code": "Jp",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388623,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388623",
+        "cardmarketId": 885681,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gyro-Evac?language=2",
+        "tcgPlayerId": 690714,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690714"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193297,7 +193997,14 @@
       "code": "Jq",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388624,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388624",
+        "cardmarketId": 885682,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Meridas-Bow?language=2",
+        "tcgPlayerId": 690539,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690539"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193355,7 +194062,14 @@
       "code": "Jr",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388625,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388625",
+        "cardmarketId": 885683,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pizza-Planet-Spaceport?language=2",
+        "tcgPlayerId": 690209,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690209"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193420,7 +194134,14 @@
       "color": "Rubis",
       "cost": 6,
       "epicId": 2929,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388626,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388626",
+        "cardmarketId": 885684,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lyle-Tiberius-Rourke-Crystallized-Commander-V1?language=2",
+        "tcgPlayerId": 692170,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692170"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193478,7 +194199,14 @@
       "color": "Rubis",
       "cost": 1,
       "epicId": 2930,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388627,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388627",
+        "cardmarketId": 885685,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mr-Incredible-Bob-Parr-V1?language=2",
+        "tcgPlayerId": 692171,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692171"
+      },
       "flavorText": "\u201cJe perds du poids et je me remets en forme !\u201d",
       "foilTypes": [
         "None",
@@ -193530,7 +194258,14 @@
       "code": "Ju",
       "color": "Rubis",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388628,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388628",
+        "cardmarketId": 885686,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lyle-Tiberius-Rourke-Looking-for-His-Moment?language=2",
+        "tcgPlayerId": 692049,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692049"
+      },
       "flavorText": "\u201cIl faut se tenir pr\u00eat \u00e0 tirer profit de toute\nopportunit\u00e9. Et cette plante ? Elle me semble \u00eatre\nune tr\u00e8s grosse opportunit\u00e9.\u201d",
       "foilTypes": [
         "None",
@@ -193589,7 +194324,14 @@
       "code": "Jv",
       "color": "Rubis",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388629,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388629",
+        "cardmarketId": 885687,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pegasus-Searching-High-and-Low-V1?language=2",
+        "tcgPlayerId": 692050,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692050"
+      },
       "flavorText": "Le royaume de Lorcana avait chang\u00e9 et semblait\ncurieusement plus grand. Mais aussi grand que cela\nsoit devenu, il \u00e9tait d\u00e9termin\u00e9 \u00e0 retrouver son ami.",
       "foilTypes": [
         "None",
@@ -193654,7 +194396,14 @@
       "code": "Jw",
       "color": "Rubis",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388631,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388631",
+        "cardmarketId": 885688,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Audrey-Ramirez-Gutsy-Mechanic?language=2",
+        "tcgPlayerId": 690540,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690540"
+      },
       "flavorText": "\u201cJ'adore quand une machine me propulse encore\nplus rapidement dans le feu de l'action !\u201d",
       "foilTypes": [
         "None",
@@ -193718,7 +194467,14 @@
       "code": "Jx",
       "color": "Rubis",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388632,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388632",
+        "cardmarketId": 885689,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Milo-Thatch-Courageous-Explorer?language=2",
+        "tcgPlayerId": 692172,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692172"
+      },
       "flavorText": "\u201cR\u00e9fl\u00e9chis, Amazu : sans la Plante, nous n'aurions\npeut-\u00eatre jamais d\u00e9couvert ces ruines !\u201d",
       "foilTypes": [
         "None",
@@ -193779,7 +194535,14 @@
       "code": "Jy",
       "color": "Rubis",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388633,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388633",
+        "cardmarketId": 885690,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Zeus-Defiant-God?language=2",
+        "tcgPlayerId": 692051,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692051"
+      },
       "flavorText": "\u201cJe suis le souverain de l'Olympe ! Je refuse d'\u00eatre\nvaincu par un bouquet de fleurs !\u201d",
       "foilTypes": [
         "None",
@@ -193841,7 +194604,14 @@
       "code": "Jz",
       "color": "Rubis",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388634,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388634",
+        "cardmarketId": 885691,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Preston-Whitmore-Expedition-Financier?language=2",
+        "tcgPlayerId": 692173,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692173"
+      },
       "flavorText": "\u201cJe vous ai promis \u00e0 tous de garder vos secrets. Et\nPreston Whitmore tient toujours ses promesses.\u201d",
       "foilTypes": [
         "None",
@@ -193902,7 +194672,14 @@
       "code": "JA",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388635,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388635",
+        "cardmarketId": 885692,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Jingle-Joe-Sids-Toy?language=2",
+        "tcgPlayerId": 690715,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690715"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -193963,7 +194740,14 @@
       "code": "JB",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388636,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388636",
+        "cardmarketId": 885693,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Wind-Up-Frog-Sids-Toy?language=2",
+        "tcgPlayerId": 692174,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692174"
+      },
       "flavorText": "\u201cJe l'ai rendue plus cool. Qui se soucie d'une stupide\ngrenouille sauteuse alors qu'elle peut avoir des roues ?\u201d\n\u2014Sid",
       "foilTypes": [
         "None",
@@ -194025,7 +194809,14 @@
       "code": "JC",
       "color": "Rubis",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388637,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388637",
+        "cardmarketId": 885694,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Roller-Bob-Sids-Toy?language=2",
+        "tcgPlayerId": 690716,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690716"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -194086,7 +194877,14 @@
       "code": "JD",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388638,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388638",
+        "cardmarketId": 885695,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Hand-in-the-Box-Sids-Toy?language=2",
+        "tcgPlayerId": 690541,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690541"
+      },
       "flavorText": "\u201cAh ! Comment arrive-t-il encore \u00e0 me faire sursauter\n\u00e0 chaque fois ?\u201d\n\u2014Woody",
       "foilTypes": [
         "None",
@@ -194152,7 +194950,14 @@
       "color": "Rubis",
       "cost": 3,
       "epicId": 2931,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388639,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388639",
+        "cardmarketId": 885696,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Daisy-Duck-Trendy-Traveler-V1?language=2",
+        "tcgPlayerId": 690542,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690542"
+      },
       "flavorText": "\u201cAllons-y. Je ne veux pas rater ce coucher de soleil !\u201d",
       "foilTypes": [
         "None",
@@ -194205,7 +195010,14 @@
       "code": "JF",
       "color": "Rubis",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388640,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388640",
+        "cardmarketId": 885697,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Copper-Big-Dog?language=2",
+        "tcgPlayerId": 692052,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692052"
+      },
       "flavorText": "\u201cJe vais arracher cette vieille plante, m\u00eame si je\ndois le faire racine par racine.\u201d",
       "foilTypes": [
         "None",
@@ -194270,7 +195082,14 @@
       "code": "JG",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388641,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388641",
+        "cardmarketId": 885698,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Jebidiah-Farnsworth-Cookie?language=2",
+        "tcgPlayerId": 692053,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692053"
+      },
       "flavorText": "\u201cTout est comestible si tu le fais frire !\u201d",
       "foilTypes": [
         "None",
@@ -194336,7 +195155,14 @@
       "code": "JH",
       "color": "Rubis",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388642,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388642",
+        "cardmarketId": 885699,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dash-Parr-Super-Speedy?language=2",
+        "tcgPlayerId": 690717,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690717"
+      },
       "flavorText": "\u201cTu ne peux pas \u00e9chapper \u00e0 tes corv\u00e9es, jeune\nhomme.\u201d\n\u2014H\u00e9l\u00e8ne Parr",
       "foilTypes": [
         "None",
@@ -194407,7 +195233,14 @@
       "code": "JI",
       "color": "Rubis",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388643,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388643",
+        "cardmarketId": 885700,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Babyhead-Leader-of-Sids-Toys?language=2",
+        "tcgPlayerId": 690543,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690543"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -194475,7 +195308,14 @@
       "code": "JJ",
       "color": "Rubis",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388644,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388644",
+        "cardmarketId": 885701,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bouncing-Ducky-Sids-Toy?language=2",
+        "tcgPlayerId": 690544,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690544"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -194538,7 +195378,14 @@
       "color": "Rubis",
       "cost": 4,
       "enchantedId": 2947,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388645,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388645",
+        "cardmarketId": 885702,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Jack-Jack-Parr-Incredible-Potential-V1?language=2",
+        "tcgPlayerId": 678238,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/678238"
+      },
       "foilTypes": [
         "None",
         "Silver",
@@ -194600,7 +195447,14 @@
       "code": "JL",
       "color": "Rubis",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388646,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388646",
+        "cardmarketId": 885703,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Queen-of-Hearts-Impatient-Traveler?language=2",
+        "tcgPlayerId": 690545,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690545"
+      },
       "flavorText": "Marcher pendant des heures sous la chaleur n'avait pas\narrang\u00e9 son humeur piquante.",
       "foilTypes": [
         "None",
@@ -194665,7 +195519,14 @@
       "code": "JM",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388647,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388647",
+        "cardmarketId": 885704,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Hercules-Young-Rescuer?language=2",
+        "tcgPlayerId": 692175,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692175"
+      },
       "flavorText": "\u201cJe me fiche de ce que disent les Moires. Je forge mon\npropre destin.\u201d",
       "foilTypes": [
         "None",
@@ -194733,7 +195594,14 @@
       "code": "JN",
       "color": "Rubis",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388648,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388648",
+        "cardmarketId": 885705,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Vincenzo-Santorini-On-the-Run?language=2",
+        "tcgPlayerId": 692054,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692054"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -194798,7 +195666,14 @@
       "color": "Rubis",
       "cost": 10,
       "enchantedId": 2948,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388649,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388649",
+        "cardmarketId": 885706,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Leviathan-Guardian-of-Atlantis-V1?language=2",
+        "tcgPlayerId": 692176,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692176"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -194865,7 +195740,14 @@
       "code": "JP",
       "color": "Rubis",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388650,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388650",
+        "cardmarketId": 885707,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Sid-Phillips-Toy-Surgeon?language=2",
+        "tcgPlayerId": 690245,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690245"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -194943,7 +195825,14 @@
       "color": "Rubis",
       "cost": 5,
       "enchantedId": 2949,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388651,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388651",
+        "cardmarketId": 885708,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mr-Incredible-Super-Strong-V1?language=2",
+        "tcgPlayerId": 690546,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690546"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -195011,7 +195900,14 @@
       "code": "JR",
       "color": "Rubis",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388652,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388652",
+        "cardmarketId": 885709,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pterodactyl-Janie-Doll-Sids-Toy?language=2",
+        "tcgPlayerId": 690547,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690547"
+      },
       "flavorText": "\u201cLa premi\u00e8re \u00e9tape de sa transformation est termin\u00e9e.\u201d\n\u2014Sid",
       "foilTypes": [
         "None",
@@ -195068,7 +195964,14 @@
       "effects": [
         "Choisissez un personnage qui gagne +1 \u00a4 pour le\nreste de ce tour. Piochez une carte."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388653,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388653",
+        "cardmarketId": 885710,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Inner-Strength?language=2",
+        "tcgPlayerId": 692177,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692177"
+      },
       "flavorText": "Juste au moment o\u00f9 on pense avoir fait son maximum,\nparfois on peut faire encore un peu plus.",
       "foilTypes": [
         "None",
@@ -195115,7 +196018,14 @@
       "effects": [
         "Choisissez entre :\n\u2022 Choisissez un personnage ayant 2 \u00a4 ou moins et\nbannissez-le.\n\u2022 Si 2 autres cartes ou plus ont \u00e9t\u00e9 plac\u00e9es dans votre\nd\u00e9fausse ce tour-ci, choisissez un personnage et\nbannissez-le."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388654,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388654",
+        "cardmarketId": 885711,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Firefly-Swarm?language=2",
+        "tcgPlayerId": 690548,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690548"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -195168,7 +196078,14 @@
       "effects": [
         "Choisissez un personnage qui gagne +1 \u25ca et\nInsaisissable jusqu'au d\u00e9but de votre prochain tour.\n(Seuls les personnages avec Insaisissable peuvent d\u00e9fier\nce personnage.)"
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388655,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388655",
+        "cardmarketId": 885712,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Like-A-Bird-In-the-Sky?language=2",
+        "tcgPlayerId": 690718,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690718"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -195219,7 +196136,14 @@
       "effects": [
         "Vos personnages gagnent +1 \u00a4 pour le reste de ce tour. Vos\npersonnages H\u00e9ros gagnent \u00ab Chaque fois que ce personnage\nen d\u00e9fie un autre, chaque adversaire perd 1 \u00e9clat de Lore et\nvous gagnez 1 \u00e9clat de Lore. \u00bb pour le reste de ce tour."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388656,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388656",
+        "cardmarketId": 885713,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Hero-Work?language=2",
+        "tcgPlayerId": 692055,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692055"
+      },
       "flavorText": "\u201cQuel bonheur ! Une famille de Supers !\u201d\n\u2014Syndrome",
       "foilTypes": [
         "None",
@@ -195266,7 +196190,14 @@
       "effects": [
         "Piochez 2 cartes. Ensuite, d\u00e9faussez une carte au hasard."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388657,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388657",
+        "cardmarketId": 885714,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dangerous-Plan?language=2",
+        "tcgPlayerId": 692056,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692056"
+      },
       "flavorText": "Audrey : \u201cC'\u00e9tait \u00e7a, ton plan ?\u201d\nMilo : \u201cJe n'avais pas anticip\u00e9 les fleurs, mais \u00e7a peut\nencore marcher !\u201d",
       "foilTypes": [
         "None",
@@ -195323,7 +196254,14 @@
       "code": "JX",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388658,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388658",
+        "cardmarketId": 885715,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Amazus-Inkcaster?language=2",
+        "tcgPlayerId": 692057,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692057"
+      },
       "flavorText": "\u201cIl indique toujours la voie vers de nouvelles aventures.\u201d\n\u2014Amazu, un Illumineur",
       "foilTypes": [
         "None",
@@ -195381,7 +196319,14 @@
       "code": "JY",
       "color": "Rubis",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388659,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388659",
+        "cardmarketId": 885716,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Remote-Inklands-Desert-Ruins?language=2",
+        "tcgPlayerId": 690210,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690210"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -195437,7 +196382,14 @@
       "code": "JZ",
       "color": "Rubis",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388660,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388660",
+        "cardmarketId": 885717,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Leviathans-Lair-Dangerous-Ground?language=2",
+        "tcgPlayerId": 692058,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692058"
+      },
       "flavorText": "[en l'atlante] Entrez dans l'antre du L\u00e9viathan.",
       "foilTypes": [
         "None",
@@ -195485,7 +196437,14 @@
       "code": "K0",
       "color": "Saphir",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388661,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388661",
+        "cardmarketId": 885718,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Robin-Hood-Desert-Wanderer?language=2",
+        "tcgPlayerId": 692059,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692059"
+      },
       "flavorText": "\u201cJe trouve ces symboles lumineux tr\u00e8s int\u00e9ressants.\nJe pense qu'il est temps d'aller les examiner de\nplus pr\u00e8s !\u201d",
       "foilTypes": [
         "None",
@@ -195536,7 +196495,14 @@
       "code": "K1",
       "color": "Saphir",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388662,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388662",
+        "cardmarketId": 885719,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Prince-Charming-Searching-for-Answers?language=2",
+        "tcgPlayerId": 692178,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692178"
+      },
       "flavorText": "De loin, cela ressemblait \u00e0 n'importe quelle autre\ngrotte. Mais de pr\u00e8s\u2026",
       "foilTypes": [
         "None",
@@ -195596,7 +196562,14 @@
       "code": "K2",
       "color": "Saphir",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388663,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388663",
+        "cardmarketId": 885720,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Merryweather-Feisty-Fairy-V1?language=2",
+        "tcgPlayerId": 692179,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692179"
+      },
       "flavorText": "\u201cNous allons avoir besoin d'un feu ! Un beau feu\nbleu, bien s\u00fbr.\u201d",
       "foilTypes": [
         "None",
@@ -195662,7 +196635,14 @@
       "code": "K3",
       "color": "Saphir",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388664,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388664",
+        "cardmarketId": 885721,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Fauna-Good-Natured-Fairy-V1?language=2",
+        "tcgPlayerId": 692060,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692060"
+      },
       "flavorText": "\u201cMa ch\u00e8re, laissez-moi vous aider.\u201d",
       "foilTypes": [
         "None",
@@ -195728,7 +196708,14 @@
       "code": "K4",
       "color": "Saphir",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388666,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388666",
+        "cardmarketId": 885722,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Flora-Strong-Willed-Fairy-V1?language=2",
+        "tcgPlayerId": 692062,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692062"
+      },
       "flavorText": "\u201cPendant que vous deux finissez, je vais ajouter des\ncharmes de protection. Roses, bien s\u00fbr.\u201d",
       "foilTypes": [
         "None",
@@ -195791,7 +196778,14 @@
       "code": "K5",
       "color": "Saphir",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388668,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388668",
+        "cardmarketId": 885723,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mirabel-Madrigal-Resourceful-Daughter?language=2",
+        "tcgPlayerId": 692181,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692181"
+      },
       "flavorText": "\u201cNous vous donnerons de quoi manger quand nous\narriverons au camp. En attendant, vous devriez boire ceci.\u201d",
       "foilTypes": [
         "None",
@@ -195853,7 +196847,14 @@
       "code": "K6",
       "color": "Saphir",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388669,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388669",
+        "cardmarketId": 885724,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Syndrome-Evil-Inventor?language=2",
+        "tcgPlayerId": 692064,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692064"
+      },
       "flavorText": "Cinqui\u00e8me r\u00e8gle de la m\u00e9chancet\u00e9 : la meilleure\nm\u00e9thode pour se venger de ses ennemis ?\nBeaucoup d'entra\u00eenement.",
       "foilTypes": [
         "None",
@@ -195920,7 +196921,14 @@
       "color": "Saphir",
       "cost": 2,
       "epicId": 2932,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388670,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388670",
+        "cardmarketId": 885725,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Kida-Guardian-of-the-Path-V1?language=2",
+        "tcgPlayerId": 692065,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692065"
+      },
       "flavorText": "\u201cJ'ai beau \u00eatre loin de chez moi, je sais encore\ncomment pi\u00e9ger un intrus.\u201d\n\u2014Kida",
       "foilTypes": [
         "None",
@@ -195988,7 +196996,14 @@
       "code": "K8",
       "color": "Saphir",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388671,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388671",
+        "cardmarketId": 885726,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gadget-Hackwrench-Resourceful-Mechanic?language=2",
+        "tcgPlayerId": 690211,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690211"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -196051,7 +197066,14 @@
       "code": "K9",
       "color": "Saphir",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388672,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388672",
+        "cardmarketId": 885727,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Norton-Nimnul-Misanthropic-Genius?language=2",
+        "tcgPlayerId": 692066,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692066"
+      },
       "flavorText": "\u201cEncore un test r\u00e9ussi ! Cette brillante technologie\nde rayon d\u00e9vitalisant sera ma plus grande invention\n\u00e0 ce jour !\u201d",
       "foilTypes": [
         "None",
@@ -196114,7 +197136,14 @@
       "code": "Ka",
       "color": "Saphir",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388673,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388673",
+        "cardmarketId": 885728,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gadget-Hackwrench-Finder-of-Lost-Parts?language=2",
+        "tcgPlayerId": 690549,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690549"
+      },
       "flavorText": "\u201cBon sang, je n'arrive pas \u00e0 croire que j'ai failli oublier\nl'\u00e9pingle \u00e0 nourrice. C'est pourtant l'\u00e9l\u00e9ment cl\u00e9 !\u201d",
       "foilTypes": [
         "None",
@@ -196168,7 +197197,14 @@
       "code": "Kb",
       "color": "Saphir",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388674,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388674",
+        "cardmarketId": 885729,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Zipper-Tiny-Helper?language=2",
+        "tcgPlayerId": 690550,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690550"
+      },
       "flavorText": "\u201c\u00c7a alors ! J'ai vu des gars deux fois plus grands avec\ndeux fois moins de c\u0153ur que ce petit bonhomme !\u201d\n\u2014Jack le Costaud",
       "foilTypes": [
         "None",
@@ -196240,7 +197276,14 @@
       "code": "Kc",
       "color": "Saphir",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388675,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388675",
+        "cardmarketId": 885730,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Edna-Mode-Super-Suit-Designer?language=2",
+        "tcgPlayerId": 692182,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692182"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -196311,7 +197354,14 @@
       "color": "Saphir",
       "cost": 4,
       "enchantedId": 2950,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388676,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388676",
+        "cardmarketId": 885731,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Zipper-Big-Helper-V1?language=2",
+        "tcgPlayerId": 692183,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692183"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -196375,7 +197425,14 @@
       "code": "Ke",
       "color": "Saphir",
       "cost": 7,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388677,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388677",
+        "cardmarketId": 885732,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Luisa-Madrigal-No-Pressure?language=2",
+        "tcgPlayerId": 692184,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692184"
+      },
       "flavorText": "\u201cQui a besoin d'une pause ? Je me sens bien !\nJe m'en charge !\u201d",
       "foilTypes": [
         "None",
@@ -196438,7 +197495,14 @@
       "code": "Kf",
       "color": "Saphir",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388678,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388678",
+        "cardmarketId": 885733,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Dr-Sara-Bellum-Head-of-Research?language=2",
+        "tcgPlayerId": 692067,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692067"
+      },
       "flavorText": "\u201cFascinant. Quelles singuli\u00e8res inscriptions ! J'ai\nh\u00e2te de pr\u00e9senter mes d\u00e9couvertes au C.H.U.T.\u201d",
       "foilTypes": [
         "None",
@@ -196506,7 +197570,14 @@
       "code": "Kg",
       "color": "Saphir",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388679,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388679",
+        "cardmarketId": 885734,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Isabela-Madrigal-Perfectly-in-Control?language=2",
+        "tcgPlayerId": 692185,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692185"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -196575,7 +197646,14 @@
       "color": "Saphir",
       "cost": 5,
       "epicId": 2933,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388680,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388680",
+        "cardmarketId": 885735,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bruno-Madrigal-Oasis-Oracle-V1?language=2",
+        "tcgPlayerId": 692186,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692186"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -196637,7 +197715,14 @@
       "code": "Ki",
       "color": "Saphir",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388681,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388681",
+        "cardmarketId": 885736,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Cinderella-Resourceful-Traveler?language=2",
+        "tcgPlayerId": 690551,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690551"
+      },
       "flavorText": "Peu importe les difficult\u00e9s rencontr\u00e9es en chemin, elle prend\ntoujours soin de ses amis.",
       "foilTypes": [
         "None",
@@ -196702,7 +197787,14 @@
       "code": "Kj",
       "color": "Saphir",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388682,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388682",
+        "cardmarketId": 885737,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bruno-Madrigal-Seeing-the-Future?language=2",
+        "tcgPlayerId": 692187,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692187"
+      },
       "flavorText": "\u201cC'est si difficile \u00e0 discerner\u2026 Je pense que c'est\nquelque chose d'enfoui profond\u00e9ment sous terre.\u201d",
       "foilTypes": [
         "None",
@@ -196764,7 +197856,14 @@
       "code": "Kk",
       "color": "Saphir",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388683,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388683",
+        "cardmarketId": 885738,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Kida-Discovering-the-Unknown?language=2",
+        "tcgPlayerId": 692068,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692068"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -196825,7 +197924,14 @@
       "code": "Kl",
       "color": "Saphir",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388684,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388684",
+        "cardmarketId": 885739,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Kashekim-Wise-King?language=2",
+        "tcgPlayerId": 692069,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692069"
+      },
       "flavorText": "\u201cIci, le pouvoir est profond\u00e9ment enfoui dans le sable.\u201d",
       "foilTypes": [
         "None",
@@ -196887,7 +197993,14 @@
       "color": "Saphir",
       "cost": 1,
       "epicId": 2934,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388685,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388685",
+        "cardmarketId": 885740,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Minnie-Mouse-Practical-Traveler-V1?language=2",
+        "tcgPlayerId": 692070,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692070"
+      },
       "flavorText": "\u201cJ'ai trouv\u00e9 un raccourci juste apr\u00e8s la cr\u00eate. Nous\nserons \u00e0 l'oasis en un rien de temps !\u201d",
       "foilTypes": [
         "None",
@@ -196966,7 +198079,14 @@
       "color": "Saphir",
       "cost": 8,
       "enchantedId": 2951,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388686,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388686",
+        "cardmarketId": 885741,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Kida-Crystal-Scion-V1?language=2",
+        "tcgPlayerId": 690381,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690381"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197040,7 +198160,14 @@
       "code": "Ko",
       "color": "Saphir",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388687,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388687",
+        "cardmarketId": 885742,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Ursula-Deal-Maker?language=2",
+        "tcgPlayerId": 692188,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692188"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197106,7 +198233,14 @@
       "effects": [
         "Chaque personnage adverse subit -2 \u00a4 pour le reste\nde ce tour."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388688,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388688",
+        "cardmarketId": 885743,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Someone-Will-Lose-His-Head?language=2",
+        "tcgPlayerId": 692071,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692071"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197165,7 +198299,14 @@
         "Regardez les 2 cartes du dessus de votre pioche. Ajoutez-en une\n\u00e0 votre main et placez l'autre dans votre r\u00e9serve d'encre, face\ncach\u00e9e et \u00e9puis\u00e9e. Si un personnage a chant\u00e9 cette chanson,\nvos personnages gagnent Hors d'atteinte jusqu'au d\u00e9but de\nvotre prochain tour. (Les adversaires ne peuvent pas choisir ces\npersonnages, hormis pour un d\u00e9fi.)"
       ],
       "enchantedId": 2952,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388689,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388689",
+        "cardmarketId": 885744,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/What-Else-Can-I-Do?-V1?language=2",
+        "tcgPlayerId": 692189,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692189"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197223,7 +198364,14 @@
       "effects": [
         "Chaque joueur choisit 2 de ses personnages et les\nplace dans sa r\u00e9serve d'encre, face cach\u00e9e et \u00e9puis\u00e9s."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388690,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388690",
+        "cardmarketId": 885745,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Escape-Plan?language=2",
+        "tcgPlayerId": 692072,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692072"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197270,7 +198418,14 @@
       "effects": [
         "Renvoyez dans votre main une carte Objet de votre d\u00e9fausse.\nSi vous avez un personnage ayant 4 \u26c9 ou plus en jeu, gagnez\n1 \u00e9clat de Lore."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388691,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388691",
+        "cardmarketId": 885746,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Salvage-Operation?language=2",
+        "tcgPlayerId": 692073,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692073"
+      },
       "flavorText": "\u201cPeux-tu soulever le Socissoplane un peu plus haut, Ruzor ?\nJ'y suis presque.\u201d\n\u2014Gadget",
       "foilTypes": [
         "None",
@@ -197332,7 +198487,14 @@
       "code": "Kt",
       "color": "Saphir",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388692,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388692",
+        "cardmarketId": 885747,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Julietas-Arepas?language=2",
+        "tcgPlayerId": 692074,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692074"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197394,7 +198556,14 @@
       "code": "Ku",
       "color": "Saphir",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388693,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388693",
+        "cardmarketId": 885748,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Ranger-Plane?language=2",
+        "tcgPlayerId": 692190,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692190"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197451,7 +198620,14 @@
       "code": "Kv",
       "color": "Saphir",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388694,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388694",
+        "cardmarketId": 885749,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gadgets-Goggles?language=2",
+        "tcgPlayerId": 692075,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692075"
+      },
       "flavorText": "Tac : \u201cEst-ce que tu vois quelque chose, Gadget ?\u201d\nGadget : \u201cOui, mais c'est plut\u00f4t inqui\u00e9tant !\u201d",
       "foilTypes": [
         "None",
@@ -197514,7 +198690,14 @@
       "code": "Kw",
       "color": "Saphir",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388695,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388695",
+        "cardmarketId": 885750,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Shepherds-Journal?language=2",
+        "tcgPlayerId": 690719,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690719"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197566,7 +198749,14 @@
       "code": "Kx",
       "color": "Saphir",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388696,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388696",
+        "cardmarketId": 885751,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Casa-Madrigal-Courtyard?language=2",
+        "tcgPlayerId": 690720,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690720"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197622,7 +198812,14 @@
       "color": "Acier",
       "cost": 4,
       "epicId": 2935,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388697,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388697",
+        "cardmarketId": 885752,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pocahontas-Steadfast-Traveler-V1?language=2",
+        "tcgPlayerId": 690552,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690552"
+      },
       "flavorText": "\u201cParfois, le droit chemin n'est pas le plus facile \u00e0 suivre.\u201d\n\u2014Grand-M\u00e8re Feuillage",
       "foilTypes": [
         "None",
@@ -197696,7 +198893,14 @@
       "color": "Acier",
       "cost": 6,
       "enchantedId": 2953,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388698,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388698",
+        "cardmarketId": 885753,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Syndrome-Out-for-Revenge-V1?language=2",
+        "tcgPlayerId": 692191,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692191"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197754,7 +198958,14 @@
       "code": "KA",
       "color": "Acier",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388699,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388699",
+        "cardmarketId": 885754,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Omnidroid-V8?language=2",
+        "tcgPlayerId": 692192,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692192"
+      },
       "flavorText": "\u201cIl est plus grand ! Plus m\u00e9chant ! Mesdames et\nmessieurs, il est trop fort pour M. Indestructible.\u201d\n\u2014Syndrome",
       "foilTypes": [
         "None",
@@ -197813,7 +199024,14 @@
       "code": "KB",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388700,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388700",
+        "cardmarketId": 885755,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Angus-Mighty-Horse?language=2",
+        "tcgPlayerId": 692193,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692193"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -197873,7 +199091,14 @@
       "code": "KC",
       "color": "Acier",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388701,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388701",
+        "cardmarketId": 885756,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Fergus-King-of-DunBroch?language=2",
+        "tcgPlayerId": 692194,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692194"
+      },
       "flavorText": "\u201cAllez, venez ! Je vais vous affronter tous en m\u00eame temps !\u201d",
       "foilTypes": [
         "None",
@@ -197940,7 +199165,14 @@
       "code": "KD",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388702,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388702",
+        "cardmarketId": 885757,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Wee-Dingwall-Scrappy-Lad?language=2",
+        "tcgPlayerId": 692076,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692076"
+      },
       "flavorText": "\u201cCe n'est pas une grosse fleur qui va nous barrer la\nroute, p\u00e8re. Je vais la d\u00e9chiqueter de mes propres\nmains.\u201d",
       "foilTypes": [
         "None",
@@ -198011,7 +199243,14 @@
       "color": "Acier",
       "cost": 2,
       "epicId": 2936,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388703,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388703",
+        "cardmarketId": 885758,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Incrediboy-Buddy-Pine-V1?language=2",
+        "tcgPlayerId": 690553,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690553"
+      },
       "flavorText": "\u201cY'a des tas de super-h\u00e9ros sans pouvoir, j'te signale.\u201d",
       "foilTypes": [
         "None",
@@ -198073,7 +199312,14 @@
       "code": "KF",
       "color": "Acier",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388704,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388704",
+        "cardmarketId": 885759,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Violet-Parr-At-Wits-End?language=2",
+        "tcgPlayerId": 692077,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692077"
+      },
       "flavorText": "\u201cContinue de rire, Fl\u00e8che. C'est l'heure de jouer au\n\u2018Bowling avec son fr\u00e8re\u2019.\u201d\n\u2014Violette Parr",
       "foilTypes": [
         "None",
@@ -198138,7 +199384,14 @@
       "code": "KG",
       "color": "Acier",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388705,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388705",
+        "cardmarketId": 885760,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mrs-Incredible-Helen-Parr?language=2",
+        "tcgPlayerId": 692195,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692195"
+      },
       "flavorText": "\u201cVous pouvez y arriver. Je crois en vous. Maintenant,\nmontrons-leur de quoi nous sommes capables !\u201d",
       "foilTypes": [
         "None",
@@ -198192,7 +199445,14 @@
       "code": "KH",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388706,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388706",
+        "cardmarketId": 885761,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Young-Macintosh-Proud-Son?language=2",
+        "tcgPlayerId": 692078,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692078"
+      },
       "flavorText": "\u201cNous avons la force et nous avons des glaives.\nAucune plante ne pourrait r\u00e9sister \u00e0 \u00e7a, pas vrai,\np\u00e8re ?\u201d",
       "foilTypes": [
         "None",
@@ -198251,7 +199511,14 @@
       "code": "KI",
       "color": "Acier",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388707,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388707",
+        "cardmarketId": 885762,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lord-Macintosh-Wiry-and-High-Strung?language=2",
+        "tcgPlayerId": 692079,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692079"
+      },
       "flavorText": "\u201cLe clan Macintosh ne craint ni les fleurs, ni les plantes, ni\nles arbres. Nous ne touchons pas aux buissons, par contre.\u201d",
       "foilTypes": [
         "None",
@@ -198314,7 +199581,14 @@
       "code": "KJ",
       "color": "Acier",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388708,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388708",
+        "cardmarketId": 885763,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Fat-Cat-Felonious-Feline?language=2",
+        "tcgPlayerId": 692080,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692080"
+      },
       "flavorText": "\u201cJe crains que tes informations ne soient obsol\u00e8tes,\nmon cher rongeur. Je sais \u00e0 quoi servent ces glyphes,\net surtout\u2026 comment les utiliser.\u201d",
       "foilTypes": [
         "None",
@@ -198378,7 +199652,14 @@
       "code": "KK",
       "color": "Acier",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388709,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388709",
+        "cardmarketId": 885764,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Rat-Capone-Rodent-Gangster?language=2",
+        "tcgPlayerId": 692196,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692196"
+      },
       "flavorText": "\u201c\u00c9coute-moi bien, bon \u00e0 rien de matou. On avait\nun accord ! Oui, un accord, et tu te dois de le\nrespecter !\u201d",
       "foilTypes": [
         "None",
@@ -198447,7 +199728,14 @@
       "code": "KL",
       "color": "Acier",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388710,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388710",
+        "cardmarketId": 885765,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Omnidroid-V9-V1?language=2",
+        "tcgPlayerId": 692081,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692081"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -198512,7 +199800,14 @@
       "code": "KM",
       "color": "Acier",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388712,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388712",
+        "cardmarketId": 885766,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mr-Incredible-Taking-Out-the-Trash-V1?language=2",
+        "tcgPlayerId": 690212,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690212"
+      },
       "flavorText": "\u201cLa fin justifie les moyens. Gros probl\u00e8mes, gros moyens.\u201d\n\u2014M. Indestructible",
       "foilTypes": [
         "None",
@@ -198575,7 +199870,14 @@
       "code": "KN",
       "color": "Acier",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388714,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388714",
+        "cardmarketId": 885767,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lord-Dingwall-Bullheaded?language=2",
+        "tcgPlayerId": 692083,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692083"
+      },
       "flavorText": "\u201cArf, regarde la taille de cette fleur ! D\u00e9barrassons-nous\nde cette monstruosit\u00e9 avant qu'elle nous pose probl\u00e8me.\u201d",
       "foilTypes": [
         "None",
@@ -198636,7 +199938,14 @@
       "code": "KO",
       "color": "Acier",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388715,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388715",
+        "cardmarketId": 885768,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Fat-Cat-Criminal-Businessman?language=2",
+        "tcgPlayerId": 692197,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692197"
+      },
       "flavorText": "\u201cOn ne devient pas le chat le plus recherch\u00e9 du\nroyaume en jouant au gentil.\u201d",
       "foilTypes": [
         "None",
@@ -198699,7 +200008,14 @@
       "code": "KP",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388716,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388716",
+        "cardmarketId": 885769,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Maudie-Exasperated-Nursemaid?language=2",
+        "tcgPlayerId": 692198,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692198"
+      },
       "flavorText": "\u201cJe suis venue pour m'occuper de trois sauvageons,\npas de trois oursons !\u201d",
       "foilTypes": [
         "None",
@@ -198762,7 +200078,14 @@
       "code": "KQ",
       "color": "Acier",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388717,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388717",
+        "cardmarketId": 885770,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Goofy-Determined-Traveler?language=2",
+        "tcgPlayerId": 692199,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692199"
+      },
       "flavorText": "\u201cHyuck ! Attention en bas !\u201d",
       "foilTypes": [
         "None",
@@ -198831,7 +200154,14 @@
       "code": "KR",
       "color": "Acier",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388718,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388718",
+        "cardmarketId": 885771,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Omnidroid-V10?language=2",
+        "tcgPlayerId": 692200,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692200"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -198901,7 +200231,14 @@
       "code": "KS",
       "color": "Acier",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388719,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388719",
+        "cardmarketId": 885772,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Merida-Formidable-Archer-V1?language=2",
+        "tcgPlayerId": 690213,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690213"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -198958,7 +200295,14 @@
       "code": "KT",
       "color": "Acier",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388720,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388720",
+        "cardmarketId": 885773,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/John-Smith-Skillful-Explorer?language=2",
+        "tcgPlayerId": 690721,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690721"
+      },
       "flavorText": "\u201cDu nerf, les gars. Cette rivi\u00e8re regorge de poissons !\u201d",
       "foilTypes": [
         "None",
@@ -199025,7 +200369,14 @@
       "code": "KU",
       "color": "Acier",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388721,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388721",
+        "cardmarketId": 885774,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Gizmoduck-Duckburg-Defender?language=2",
+        "tcgPlayerId": 692084,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692084"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199097,7 +200448,14 @@
       "code": "KV",
       "color": "Acier",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388722,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388722",
+        "cardmarketId": 885775,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Fergus-Outpost-Builder?language=2",
+        "tcgPlayerId": 692201,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692201"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199173,7 +200531,14 @@
       "color": "Acier",
       "cost": 7,
       "enchantedId": 2954,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388723,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388723",
+        "cardmarketId": 885776,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mrs-Incredible-Determined-Rescuer-V1?language=2",
+        "tcgPlayerId": 690554,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690554"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199247,7 +200612,14 @@
       "code": "KX",
       "color": "Acier",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388724,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388724",
+        "cardmarketId": 885777,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Diablo-Stone-Servant?language=2",
+        "tcgPlayerId": 692085,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692085"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199304,7 +200676,14 @@
         "Choisissez un personnage et infligez-lui 2 dommages. Ensuite,\nvous pouvez choisir un autre personnage et lui infliger 1 dommage."
       ],
       "epicId": 2937,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388725,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388725",
+        "cardmarketId": 885778,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Three-Arrows-V1?language=2",
+        "tcgPlayerId": 690214,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690214"
+      },
       "flavorText": "\u201cJe suis Merida. Fille et premi\u00e8re descendante du seigneur de\nDunBroch. C'est pour obtenir ma propre main que j'entends\nparticiper \u00e0 ce tournoi.\u201d\n\u2014Merida",
       "foilTypes": [
         "None",
@@ -199351,7 +200730,14 @@
       "effects": [
         "Si un personnage adverse a \u00e9t\u00e9 banni via un d\u00e9fi ce\ntour-ci, piochez 2 cartes."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388726,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388726",
+        "cardmarketId": 885779,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Card-Advantage?language=2",
+        "tcgPlayerId": 692086,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692086"
+      },
       "flavorText": "\u201cCe n'est pas moi qui ai fait pousser cette plante !\nC'\u00e9tait le Neuf, le Neuf !\u201d\n\u2014Trois de Pique",
       "foilTypes": [
         "None",
@@ -199406,7 +200792,14 @@
         "D\u00e9placez gratuitement l'un de vos personnages sur\nun lieu. Ensuite, piochez autant de cartes que le \u25ca\nde ce lieu."
       ],
       "enchantedId": 2955,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388727,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388727",
+        "cardmarketId": 885780,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Touch-the-Sky-V1?language=2",
+        "tcgPlayerId": 690722,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690722"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199467,7 +200860,14 @@
       "code": "L1",
       "color": "Acier",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388728,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388728",
+        "cardmarketId": 885781,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Plunger-Crossbow?language=2",
+        "tcgPlayerId": 690723,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690723"
+      },
       "flavorText": "\u201cJe suis pr\u00eate. Juste un petit calcul de trajectoire et on\ny va.\u201d\n\u2014Gadget",
       "foilTypes": [
         "None",
@@ -199531,7 +200931,14 @@
       "code": "L2",
       "color": "Acier",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388729,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388729",
+        "cardmarketId": 885782,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Syndromes-Remote?language=2",
+        "tcgPlayerId": 690724,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690724"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199590,7 +200997,14 @@
       "code": "L3",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388730,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388730",
+        "cardmarketId": 885783,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Club-Door?language=2",
+        "tcgPlayerId": 690725,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690725"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199634,7 +201048,14 @@
       "code": "L4",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388731,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388731",
+        "cardmarketId": 885784,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Fat-Cats-Club-Seedy-Headquarters?language=2",
+        "tcgPlayerId": 692087,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692087"
+      },
       "flavorText": "Le club le plus branch\u00e9 r\u00e9serv\u00e9 aux chats les plus cools de la ville.",
       "foilTypes": [
         "None",
@@ -199694,7 +201115,14 @@
       "code": "L5",
       "color": "Acier",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388733,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388733",
+        "cardmarketId": 885785,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Island-of-Nomanisan-Syndromes-Headquarters?language=2",
+        "tcgPlayerId": 692202,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692202"
+      },
       "foilTypes": [
         "None",
         "Silver"
@@ -199743,7 +201171,14 @@
       "code": "L6",
       "color": "Ambre",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388734,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388734",
+        "cardmarketId": 885786,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Woody-Waiting-for-a-Friend-V2?language=2",
+        "tcgPlayerId": 692203,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692203"
+      },
       "flavorText": "\u201cContemplant la jungle du haut de cette plante g\u00e9ante\nJe repense \u00e0 cette \u00e9poque pleine de rire et si exaltante\nDe retour \u00e0 la maison, mes amis \u00e9taient tous l\u00e0\nMaintenant me voici, seul, perdu dans Lorcana.\u201d",
       "foilTypes": [
         "Satin"
@@ -199811,7 +201246,14 @@
       "code": "L7",
       "color": "Ambre",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388735,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388735",
+        "cardmarketId": 885787,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Rex-Protective-Dinosaur-V2?language=2",
+        "tcgPlayerId": 692204,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692204"
+      },
       "foilTypes": [
         "Satin"
       ],
@@ -199887,7 +201329,14 @@
       "code": "L8",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388736,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388736",
+        "cardmarketId": 885788,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Isabela-Madrigal-Such-a-Lovely-Voice-V2?language=2",
+        "tcgPlayerId": 692088,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692088"
+      },
       "foilTypes": [
         "Satin"
       ],
@@ -199954,7 +201403,14 @@
       "code": "L9",
       "color": "Am\u00e9thyste",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388737,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388737",
+        "cardmarketId": 885789,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mirage-Super-Recruiter-V2?language=2",
+        "tcgPlayerId": 692205,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692205"
+      },
       "flavorText": "\u201cLes Supers existent toujours, M. Indestructible, tant\nque vous \u00eates l\u00e0. Vous pouvez accomplir de grandes\nchoses.\u201d",
       "foilTypes": [
         "Satin"
@@ -200023,7 +201479,14 @@
       "code": "La",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388738,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388738",
+        "cardmarketId": 885790,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Edna-Mode-Fashion-Designer-V2?language=2",
+        "tcgPlayerId": 692206,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692206"
+      },
       "foilTypes": [
         "Satin"
       ],
@@ -200087,7 +201550,14 @@
       "code": "Lb",
       "color": "Am\u00e9thyste",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388739,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388739",
+        "cardmarketId": 885791,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Doc-Taking-Notes-V3?language=2",
+        "tcgPlayerId": 692207,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692207"
+      },
       "flavorText": "\u201cOuh l\u00e0 ! \u00c7a, c'est une lente branche\u2026 euh, une\nplanche orange\u2026 une plante \u00e9trange !\u201d",
       "foilTypes": [
         "Satin"
@@ -200143,7 +201613,14 @@
       "code": "Lc",
       "color": "\u00c9meraude",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388740,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388740",
+        "cardmarketId": 885792,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Buzz-Lightyear-Space-Ranger-V2?language=2",
+        "tcgPlayerId": 692208,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692208"
+      },
       "flavorText": "\u201cL'environnement para\u00eet habitable, mais la flore\nsemble avoir subi d'\u00e9tranges mutations. Ce\npourrait \u00eatre l'influence de Zurg.\u201d",
       "foilTypes": [
         "Satin"
@@ -200206,7 +201683,14 @@
       "code": "Ld",
       "color": "\u00c9meraude",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388741,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388741",
+        "cardmarketId": 885793,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Donald-Duck-Distracted-Traveler-V2?language=2",
+        "tcgPlayerId": 692209,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692209"
+      },
       "flavorText": "Dans les contr\u00e9es sauvages de Lorcana, un peu de\nchance peut faire toute la diff\u00e9rence.",
       "foilTypes": [
         "Satin"
@@ -200277,7 +201761,14 @@
       "code": "Le",
       "color": "\u00c9meraude",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388742,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388742",
+        "cardmarketId": 885794,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Merida-Gifted-Archer-V2?language=2",
+        "tcgPlayerId": 692235,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692235"
+      },
       "foilTypes": [
         "Satin"
       ],
@@ -200352,7 +201843,14 @@
       "code": "Lf",
       "color": "Rubis",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388743,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388743",
+        "cardmarketId": 885795,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Lyle-Tiberius-Rourke-Crystallized-Commander-V2?language=2",
+        "tcgPlayerId": 692210,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692210"
+      },
       "foilTypes": [
         "Satin"
       ],
@@ -200411,7 +201909,14 @@
       "code": "Lg",
       "color": "Rubis",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388744,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388744",
+        "cardmarketId": 885796,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mr-Incredible-Bob-Parr-V2?language=2",
+        "tcgPlayerId": 692211,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692211"
+      },
       "flavorText": "\u201cJe perds du poids et je me remets en forme !\u201d",
       "foilTypes": [
         "Satin"
@@ -200476,7 +201981,14 @@
       "code": "Lh",
       "color": "Rubis",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388745,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388745",
+        "cardmarketId": 885797,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Daisy-Duck-Trendy-Traveler-V2?language=2",
+        "tcgPlayerId": 690555,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690555"
+      },
       "flavorText": "\u201cAllons-y. Je ne veux pas rater ce coucher de soleil !\u201d",
       "foilTypes": [
         "Satin"
@@ -200539,7 +202051,14 @@
       "code": "Li",
       "color": "Saphir",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388746,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388746",
+        "cardmarketId": 885798,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Kida-Guardian-of-the-Path-V2?language=2",
+        "tcgPlayerId": 692212,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692212"
+      },
       "flavorText": "\u201cJ'ai beau \u00eatre loin de chez moi, je sais encore\ncomment pi\u00e9ger un intrus.\u201d\n\u2014Kida",
       "foilTypes": [
         "Satin"
@@ -200609,7 +202128,14 @@
       "code": "Lj",
       "color": "Saphir",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388747,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388747",
+        "cardmarketId": 885799,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Bruno-Madrigal-Oasis-Oracle-V2?language=2",
+        "tcgPlayerId": 692213,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692213"
+      },
       "foilTypes": [
         "Satin"
       ],
@@ -200673,7 +202199,14 @@
       "code": "Lk",
       "color": "Saphir",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388748,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388748",
+        "cardmarketId": 885800,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Minnie-Mouse-Practical-Traveler-V2?language=2",
+        "tcgPlayerId": 692214,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692214"
+      },
       "flavorText": "\u201cJ'ai trouv\u00e9 un raccourci juste apr\u00e8s la cr\u00eate. Nous\nserons \u00e0 l'oasis en un rien de temps !\u201d",
       "foilTypes": [
         "Satin"
@@ -200736,7 +202269,14 @@
       "code": "Ll",
       "color": "Acier",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388749,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388749",
+        "cardmarketId": 885801,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Pocahontas-Steadfast-Traveler-V2?language=2",
+        "tcgPlayerId": 692215,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692215"
+      },
       "flavorText": "\u201cParfois, le droit chemin n'est pas le plus facile \u00e0 suivre.\u201d\n\u2014Grand-M\u00e8re Feuillage",
       "foilTypes": [
         "Satin"
@@ -200809,7 +202349,14 @@
       "code": "Lm",
       "color": "Acier",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388750,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388750",
+        "cardmarketId": 885802,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Incrediboy-Buddy-Pine-V2?language=2",
+        "tcgPlayerId": 692216,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692216"
+      },
       "flavorText": "\u201cY'a des tas de super-h\u00e9ros sans pouvoir, j'te signale.\u201d",
       "foilTypes": [
         "Satin"
@@ -200868,7 +202415,14 @@
       "effects": [
         "Choisissez un personnage et infligez-lui 2 dommages. Ensuite,\nvous pouvez choisir un autre personnage et lui infliger 1 dommage."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388751,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388751",
+        "cardmarketId": 885803,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Three-Arrows-V2?language=2",
+        "tcgPlayerId": 690215,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690215"
+      },
       "flavorText": "\u201cJe suis Merida. Fille et premi\u00e8re descendante du seigneur de\nDunBroch. C'est pour obtenir ma propre main que j'entends\nparticiper \u00e0 ce tournoi.\u201d\n\u2014Merida",
       "foilTypes": [
         "Satin"
@@ -200928,7 +202482,14 @@
       "code": "Lo",
       "color": "Ambre",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388752,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388752",
+        "cardmarketId": 885804,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Jessie-Lively-Cowgirl-V2?language=2",
+        "tcgPlayerId": 692217,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692217"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -200999,7 +202560,14 @@
       "code": "Lp",
       "color": "Ambre",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388753,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388753",
+        "cardmarketId": 885805,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Isabela-Madrigal-Caring-Cultivator-V2?language=2",
+        "tcgPlayerId": 692089,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692089"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201061,7 +202629,14 @@
       "effects": [
         "Regardez les 4 cartes du dessus de votre pioche. Vous pouvez\nr\u00e9v\u00e9ler jusqu'\u00e0 2 cartes Personnage Jouet parmi elles et\nles ajouter \u00e0 votre main. Placez les autres cartes sous votre\npioche, dans l'ordre de votre choix."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388754,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388754",
+        "cardmarketId": 885806,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Youve-Got-a-Friend-in-Me-V2?language=2",
+        "tcgPlayerId": 690747,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690747"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201123,7 +202698,14 @@
       "code": "Lr",
       "color": "Am\u00e9thyste",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388755,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388755",
+        "cardmarketId": 885807,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Frozone-Super-Cool-V2?language=2",
+        "tcgPlayerId": 692090,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692090"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201201,7 +202783,14 @@
       "code": "Ls",
       "color": "Am\u00e9thyste",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388756,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388756",
+        "cardmarketId": 885808,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Luisa-Madrigal-Confident-Climber-V2?language=2",
+        "tcgPlayerId": 692218,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692218"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201279,7 +202868,14 @@
       "code": "Lt",
       "color": "Am\u00e9thyste",
       "cost": 2,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388757,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388757",
+        "cardmarketId": 885809,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/DunBroch-Family-Tapestry-V2?language=2",
+        "tcgPlayerId": 692219,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692219"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201339,7 +202935,14 @@
       "code": "Lu",
       "color": "\u00c9meraude",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388758,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388758",
+        "cardmarketId": 885810,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Alien-True-Believer-V2?language=2",
+        "tcgPlayerId": 692220,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692220"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201415,7 +203018,14 @@
       "code": "Lv",
       "color": "\u00c9meraude",
       "cost": 7,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388759,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388759",
+        "cardmarketId": 885811,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Milo-Thatch-Getting-His-Hands-Dirty-V2?language=2",
+        "tcgPlayerId": 692221,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692221"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201477,7 +203087,14 @@
       "effects": [
         "Choisissez un adversaire qui choisit 3 de ses\npersonnages et renvoie dans sa main l'un des\npersonnages choisis, en place un autre sous sa\npioche, et place le dernier sur sa pioche."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388760,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388760",
+        "cardmarketId": 885812,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Family-Scattered-V2?language=2",
+        "tcgPlayerId": 692222,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692222"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201530,7 +203147,14 @@
       "code": "Lx",
       "color": "Rubis",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388761,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388761",
+        "cardmarketId": 885813,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Jack-Jack-Parr-Incredible-Potential-V2?language=2",
+        "tcgPlayerId": 692223,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692223"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201593,7 +203217,14 @@
       "code": "Ly",
       "color": "Rubis",
       "cost": 10,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388762,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388762",
+        "cardmarketId": 885814,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/The-Leviathan-Guardian-of-Atlantis-V2?language=2",
+        "tcgPlayerId": 692224,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692224"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201669,7 +203300,14 @@
       "code": "Lz",
       "color": "Rubis",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388763,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388763",
+        "cardmarketId": 885815,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mr-Incredible-Super-Strong-V2?language=2",
+        "tcgPlayerId": 692225,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692225"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201744,7 +203382,14 @@
       "code": "LA",
       "color": "Saphir",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388764,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388764",
+        "cardmarketId": 885816,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Zipper-Big-Helper-V2?language=2",
+        "tcgPlayerId": 692226,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692226"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201827,7 +203472,14 @@
       "code": "LB",
       "color": "Saphir",
       "cost": 8,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388765,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388765",
+        "cardmarketId": 885817,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Kida-Crystal-Scion-V2?language=2",
+        "tcgPlayerId": 692227,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692227"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201890,7 +203542,14 @@
       "effects": [
         "Regardez les 2 cartes du dessus de votre pioche.\nAjoutez-en une \u00e0 votre main et placez l'autre dans\nvotre r\u00e9serve d'encre, face cach\u00e9e et \u00e9puis\u00e9e.\nSi un personnage a chant\u00e9 cette chanson, vos\npersonnages gagnent Hors d'atteinte jusqu'au\nd\u00e9but de votre prochain tour."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388766,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388766",
+        "cardmarketId": 885818,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/What-Else-Can-I-Do?-V2?language=2",
+        "tcgPlayerId": 690556,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690556"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -201954,7 +203613,14 @@
       "code": "LD",
       "color": "Acier",
       "cost": 6,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388767,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388767",
+        "cardmarketId": 885819,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Syndrome-Out-for-Revenge-V2?language=2",
+        "tcgPlayerId": 692228,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692228"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -202035,7 +203701,14 @@
       "code": "LE",
       "color": "Acier",
       "cost": 7,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388768,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388768",
+        "cardmarketId": 885820,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Mrs-Incredible-Determined-Rescuer-V2?language=2",
+        "tcgPlayerId": 692229,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692229"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -202098,7 +203771,14 @@
       "effects": [
         "D\u00e9placez gratuitement l'un de vos personnages\nsur un lieu. Ensuite, piochez autant de cartes que\nle \u25ca de ce lieu."
       ],
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388769,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388769",
+        "cardmarketId": 885821,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Touch-the-Sky-V2?language=2",
+        "tcgPlayerId": 692091,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/692091"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -202168,7 +203848,14 @@
       "code": "LG",
       "color": "\u00c9meraude",
       "cost": 7,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388770,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388770",
+        "cardmarketId": 885822,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Buzz-Lightyear-Jungle-Ranger-V2?language=2",
+        "tcgPlayerId": 690216,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690216"
+      },
       "foilTypes": [
         "Lore"
       ],
@@ -202243,7 +203930,14 @@
       "code": "LH",
       "color": "Acier",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 388771,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/388771",
+        "cardmarketId": 885823,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Wilds-Unknown/Merida-Formidable-Archer-V2?language=2",
+        "tcgPlayerId": 690217,
+        "tcgPlayerUrl": "https://www.tcgplayer.com/product/690217"
+      },
       "foilTypes": [
         "Lore"
       ],
@@ -202313,7 +204007,12 @@
       "code": "LO",
       "color": "\u00c9meraude",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390205,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390205",
+        "cardmarketId": 886251,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Lenny-Toy-Binoculars?language=2"
+      },
       "foilTypes": [
         "Silver"
       ],
@@ -202369,7 +204068,12 @@
       "code": "LP",
       "color": "Saphir",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390206,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390206",
+        "cardmarketId": 886252,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Zipper-Tiny-Helper?language=2"
+      },
       "flavorText": "\u201c\u00c7a alors ! J'ai vu des gars deux fois plus grands avec\ndeux fois moins de c\u0153ur que ce petit bonhomme !\u201d\n\u2014Jack le Costaud",
       "foilTypes": [
         "Silver"
@@ -202430,7 +204134,12 @@
       "code": "LQ",
       "color": "Am\u00e9thyste",
       "cost": 1,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390207,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390207",
+        "cardmarketId": 886253,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Will-o-the-Wisp-Forest-Spirit?language=2"
+      },
       "flavorText": "Ils reviennent toujours quand on a besoin d'eux.",
       "foilTypes": [
         "Silver"
@@ -202498,7 +204207,12 @@
       "code": "LR",
       "color": "Am\u00e9thyste",
       "cost": 4,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390204,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390204",
+        "cardmarketId": 886254,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Dash-Parr-Lava-Runner?language=2"
+      },
       "flavorText": "\u201cOuah ! Un endroit cach\u00e9 sous la montagne !\u201d",
       "foilTypes": [
         "Silver"
@@ -202580,7 +204294,12 @@
       "code": "LS",
       "color": "Ambre",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390162,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390162",
+        "cardmarketId": 886255,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Woody-Jungle-Guide-V1?language=2"
+      },
       "foilTypes": [
         "None"
       ],
@@ -202661,7 +204380,12 @@
       "code": "LT",
       "color": "Ambre",
       "cost": 5,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390165,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390165",
+        "cardmarketId": 886256,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Woody-Jungle-Guide-V2?language=2"
+      },
       "foilTypes": [
         "Magma"
       ],
@@ -202735,7 +204459,12 @@
       "code": "LU",
       "color": "Am\u00e9thyste",
       "cost": 3,
-      "externalLinks": {},
+      "externalLinks": {
+        "cardTraderId": 390158,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/390158",
+        "cardmarketId": 886257,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Violet-Parr-Learning-New-Powers?language=2"
+      },
       "foilTypes": [
         "Silver"
       ],
