@@ -4,6 +4,7 @@ export type Card = {
     id: CardId,
     name: string,
     fullName: string,
+    color: string,
     image: string
 }
 
@@ -16,6 +17,7 @@ export async function loadCards(): Promise<Card[]> {
             id: card?.id,
             name: card?.name,
             fullName: card?.fullName,
+            color: card?.color,
             image: card?.images?.thumbnail
         }
     });
