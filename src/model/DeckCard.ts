@@ -8,7 +8,7 @@ export type DeckCard = {
     selected: number
 }
 
-export function createFrom(id: CardId, owned: number): DeckCard {
+export function createDeckCardFrom(id: CardId, owned: number): DeckCard {
     return {
         id,
         owned,
@@ -32,10 +32,27 @@ export function exclude(card: DeckCard, excluded: number): DeckCard {
     };
 }
 
-export function setUnavailable(card: DeckCard, unavailable: number): DeckCard {
+export function setMaxSelectable(card: DeckCard, maxSelectable: number): DeckCard {
+    const currentlyAvailable = card.owned - card.excluded - card.selected;
+    const unavailable = currentlyAvailable - maxSelectable;
     return {
         ...card,
         unavailable
+    };
+}
+
+export function makeUnavailable(card: DeckCard): DeckCard {
+    const currentlyAvailable = card.owned - card.excluded - card.selected;
+    return {
+        ...card,
+        unavailable: currentlyAvailable
+    };
+}
+
+export function makeAvailable(card: DeckCard): DeckCard {
+    return {
+        ...card,
+        unavailable: 0
     };
 }
 
