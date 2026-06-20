@@ -1,17 +1,20 @@
 import { FormItem, StepInput, Form, Label } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { Deck } from "../model/Deck";
+import { createDeck } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
 import { SearchableCardGrid } from "./SearchableCardGrid";
+import { useState } from "react";
+import { CardCollection } from "../model/Collection";
 
 export type DeckViewProps = {
-    cardDefinitions: Card[],
-    deck: Deck
+    collection: CardCollection,
+    cardDefinitions: Card[]
 }
 
 export function DeckView(props: DeckViewProps) {
+    const [deck, _setDeck] = useState(createDeck(props.collection))
     const deckMap = new Map<CardId, DeckCard>();
-    props.deck.forEach(dc => {
+    deck.forEach(dc => {
         deckMap.set(dc.id, dc);
     });
     const displayedCards = props.cardDefinitions.filter(card => {

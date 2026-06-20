@@ -6,6 +6,7 @@ import { Card, CardId } from '../model/Card';
 import { CardCollectionView } from './CardCollectionView';
 import React from 'react';
 import { loadCollection, setOwned } from '../model/Collection';
+import { DeckView } from './DeckView';
 
 export interface TabWrapperProps {
     cards: Card[]
@@ -36,7 +37,7 @@ export function TabWrapper(props: TabWrapperProps) {
         icon="card"
         text="Deck Builder"
       >
-        Deck Builder
+        <DeckView cardDefinitions={props.cards} collection={cardCollection}/>
       </Tab>
     </TabContainer>
   );
