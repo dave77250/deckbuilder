@@ -14,7 +14,8 @@ export function loadCollection(existingCards: Card[]): CardCollection {
     return result;
 }
 
-export function setOwned(collection: CardCollection, card: CardId, owned: number) {
+export function setOwned(collection: CardCollection, card: CardId, owned: number): CardCollection {
     collection.set(card, owned);
     storage.setItem(`${COLLECTION_PREFIX}.${card}`, owned.toString());
+    return new Map<CardId, number>(collection);
 }
