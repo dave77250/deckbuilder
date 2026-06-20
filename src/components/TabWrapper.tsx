@@ -16,6 +16,7 @@ export function TabWrapper(props: TabWrapperProps) {
   const setInCollection = (id: CardId, owned: number) => {
     setCollection(setOwned(collection, id, owned));
   };
+  // TODO Le deck ne prend pas en compte les changements sur la collection de cartes
   return (
     <TabContainer
       contentBackgroundDesign="Solid"

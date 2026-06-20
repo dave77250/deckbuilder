@@ -1,44 +1,9 @@
-# UI5 Web Components for React - Vite + TypeScript Template
+# Lorcana DeckBuilder
 
-## How to use this template
+Un deck builder pour Lorcana.
+Objectif : aider les joueurs à obtenir des decks cohérents, en les complétant au hasard pour les aider.
 
-```bash
-npx degit UI5/webcomponents-react/templates/vite-ts#main my-project
-cd my-project
-```
+# TODO
 
-## Getting Started
-
-First, install the `node_modules`:
-
-```bash
-npm install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-```
-
-## Run Tests
-
-Run all component tests headlessly in Chrome:
-
-```bash
-npm run test
-```
-
-Open component tests in Chrome:
-
-```bash
-npm run test:open
-```
-
-## Learn More
-
-To learn more about Vite and UI5 Web Components for React, please visit the following resources:
-
-- [Vite Documentation](https://vitejs.dev/)
-- [UI5 Web Components Documentation](https://ui5.github.io/webcomponents/)
-- [UI5 Web Components for React Documentation](https://ui5.github.io/webcomponents-react/)
+Les problèmes connus et à résoudre :
+- TabWrapper: les changements de cartes possédées ne sont pas pris en compte quand on passe à l'onglet deck builder, il faut recharger la page pour que ce soit le cas
