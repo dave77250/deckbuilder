@@ -56,6 +56,6 @@ export function makeAvailable(card: DeckCard): DeckCard {
     };
 }
 
-export function getAvailable(card: DeckCard): number {
-    return card.owned - card.unavailable - card.excluded - card.selected;
+export function getAvailable(card?: DeckCard): number {
+    return card? card.owned - card.unavailable - card.excluded - card.selected: 0;
 }
