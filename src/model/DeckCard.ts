@@ -34,7 +34,7 @@ export function exclude(card: DeckCard, excluded: number): DeckCard {
 
 export function setMaxSelectable(card: DeckCard, maxSelectable: number): DeckCard {
     const currentlyAvailable = card.owned - card.excluded - card.selected;
-    const unavailable = currentlyAvailable - maxSelectable;
+    const unavailable = Math.max(0, currentlyAvailable - maxSelectable);
     return {
         ...card,
         unavailable

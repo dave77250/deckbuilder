@@ -10,8 +10,8 @@ function renderRow(elements: ReactElement[], position: number, columns: number) 
     const items = elements.slice(position, Math.min(position + columns, elements.length))
     return (
         <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row} style={{width: '100%'}}>
-            {items.map(i => (
-                <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/columns)}%`}}>
+            {items.map((i, index) => (
+                <FlexBox key={`cell-${position+index}`}direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/columns)}%`}}>
                     {i}
                 </FlexBox>
             ))}

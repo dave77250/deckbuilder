@@ -6,14 +6,26 @@ import { CardCollectionView } from './CardCollectionView';
 import { useState } from 'react';
 import { loadCollection, setOwned } from '../model/Collection';
 import { DeckView } from './DeckView';
+import { map2Json } from '../model/Helpers';
 
 export interface TabWrapperProps {
     cards: Card[]
 };
 
+function getCollectionKey(collection: CardCollection) {
+  const BASE = 'coll-';
+  const nb = collection.keys().reduce((k, total) => {
+    return total + (collection.get(k) ?? 0);
+  }, 0);
+  return base + Number.toString(nb);
+}
+
 export function TabWrapper(props: TabWrapperProps) {
+  console.log('Rendering TabWrapper')
   const [collection, setCollection] = useState(loadCollection(props.cards));
+  console.log(JSON.stringify(map2Json(collection)));
   const setInCollection = (id: CardId, owned: number) => {
+    console.log('Collection updated');
     setCollection(setOwned(collection, id, owned));
   };
   // TODO Le deck ne prend pas en compte les changements sur la collection de cartes
@@ -35,7 +47,7 @@ export function TabWrapper(props: TabWrapperProps) {
         icon="card"
         text="Deck Builder"
       >
-        <DeckView cardDefinitions={props.cards} collection={collection}/>
+        <DeckView key={getCollectionKey(collection)} cardDefinitions={props.cards} collection={collection}/>
       </Tab>
     </TabContainer>
   );
