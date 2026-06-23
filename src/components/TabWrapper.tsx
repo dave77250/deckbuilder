@@ -7,6 +7,7 @@ import { useState } from 'react';
 import { loadCollection, setOwned } from '../model/Collection';
 import { DeckView } from './DeckView';
 import { map2Json } from '../model/Helpers';
+import { CardCollection } from '../model/Collection';
 
 export interface TabWrapperProps {
     cards: Card[]
@@ -14,10 +15,10 @@ export interface TabWrapperProps {
 
 function getCollectionKey(collection: CardCollection) {
   const BASE = 'coll-';
-  const nb = collection.keys().reduce((k, total) => {
+  const nb = collection.keys().reduce((total, k) => {
     return total + (collection.get(k) ?? 0);
   }, 0);
-  return base + Number.toString(nb);
+  return BASE + nb.toString();
 }
 
 export function TabWrapper(props: TabWrapperProps) {
