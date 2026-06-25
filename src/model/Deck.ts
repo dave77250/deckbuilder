@@ -1,5 +1,5 @@
 import { CardId, Card } from "./Card";
-import { DeckCard, createDeckCardFrom, makeAvailable, makeUnavailable, pick, setMaxSelectable } from "./DeckCard";
+import { DeckCard, createDeckCardFrom, makeAvailable, makeUnavailable, pick, setMaxSelectable, exclude } from "./DeckCard";
 import { CardCollection } from "./Collection";
 
 export const DECK_SIZE = 60;
@@ -37,7 +37,7 @@ export function createDeck(collection: CardCollection): Deck {
     return result.map(dc => setMaxSelectable(dc, 4));
 }
 
-export function setPicked(deck: Deck, allCards: Card[], id: CardId, picked: number) {
+export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: number) {
     // reset availability for all cards
     var result = deck.map(makeAvailable);
     // pick the desired card
@@ -60,4 +60,8 @@ export function setPicked(deck: Deck, allCards: Card[], id: CardId, picked: numb
     const currentDeckSize = getDeckSize(deck);
     const remainingSize4Card = Math.min(DECK_SIZE - currentDeckSize, MAX_IDENTICAL_CARDS);
     return result.map(c => setMaxSelectable(c, remainingSize4Card));
+}
+
+export function excludeCard(deck: Deck, id: CardId, excluded: number) {
+    return deck.map(dc => dc.id === id? exclude(dc, excluded): dc);
 }

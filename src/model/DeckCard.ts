@@ -57,5 +57,6 @@ export function makeAvailable(card: DeckCard): DeckCard {
 }
 
 export function getAvailable(card?: DeckCard): number {
+    if(card?.id === 1) console.log(card);
     return card? card.owned - card.unavailable - card.excluded - card.selected: 0;
 }
