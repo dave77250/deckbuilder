@@ -7,7 +7,7 @@ export interface CardViewProps {
 
 //  ajouter bordure
 export function CardView(props: CardViewProps) {
-    return <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
+    return <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%', border-color: props.card.color, border-width: '1%' }}>
         <img src={props.card.image} style={{ width: '100%', height: 'auto ', borderRadius: '5%'}}/>
         <Text style={{ width: '100%', textAlign: 'center' }}>{props.card.fullName}</Text>
     </FlexBox>;
