@@ -12,6 +12,37 @@ export type SeachableCardGridProps = {
     getExtraCardComponent?: (cardId: CardId) => ReactNode
 };
 
+const colorMap =new Map<string, string>();
+
+const AMBER = "#FFBF00";
+const AMETHYST = "#9966cc";
+const EMERALD = "#50C878";
+const RUBY = "#E0115F";
+const SAPPHIRE = "#0F52BA";
+const STEEL = "#71797E";
+
+colorMap.set("Ambre", AMBER);
+colorMap.set("Améthyste", AMETHYST);
+colorMap.set("Émeraude", EMERALD);
+colorMap.set("Rubis", RUBY);
+colorMap.set("Saphir", SAPPHIRE);
+colorMap.set("Acier", STEEL);
+colorMap.set("Ambre-Acier", AMBER + " " + STEEL);
+colorMap.set("Ambre-Saphir", AMBER + " " + SAPPHIRE);
+colorMap.set("Ambre-Émeraude", AMBER + " " + EMERALD);
+colorMap.set("Ambre-Rubis", AMBER + " " + RUBY);
+colorMap.set("Ambre-Améthyste", AMBER + " " + AMETHYST);
+colorMap.set("Améthyste-Acier", AMETHYST + " " + STEEL);
+colorMap.set("Améthyste-Rubis", AMETHYST + " " + RUBY);
+colorMap.set("Améthyste-Émeraude", AMETHYST + " " + EMERALD);
+colorMap.set("Améthyste-Saphir", AMETHYST + " " + SAPPHIRE);
+colorMap.set("Émeraude-Rubis", EMERALD + " " + RUBY);
+colorMap.set("Émeraude-Saphir", EMERALD +  " " + SAPPHIRE);
+colorMap.set("Émeraude-Acier", EMERALD + " " + STEEL);
+colorMap.set("Rubis-Acier", RUBY + " " + STEEL);
+colorMap.set("Rubis-Saphir", RUBY + " " + SAPPHIRE);
+colorMap.set("Saphir-Acier", SAPPHIRE + " " + STEEL);
+
 export function SearchableCardGrid(props: SeachableCardGridProps) {
     const [displayedCards, setDisplayedCards] = useState(props.cardCollection);
     const [nbCols, setNbCols] = useState(getColumns()) ;
@@ -29,8 +60,9 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
             { displayedCards.length > 0
             ? <BasicGrid columns={nbCols} rows={4}>
                 {displayedCards.map(card => {
+                    const cardColor = colorMap.get(card.color) ?? "";
                     return (
-                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px', width: '100%'}}>
+                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px', width: '100%', borderColor: cardColor, borderWidth: 'thick'}}>
                             <CardView card={card}/>
                             { props.getExtraCardComponent ? props.getExtraCardComponent(card.id) : null }
                         </FlexBox>);
