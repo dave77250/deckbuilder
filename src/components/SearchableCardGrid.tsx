@@ -62,7 +62,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
                 {displayedCards.map(card => {
                     const cardColor = colorMap.get(card.color) ?? "";
                     return (
-                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px', width: '100%', borderColor: cardColor, borderWidth: 'thick'}}>
+                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px', width: '100%', borderColor: cardColor, borderStyle: 'solid', borderWidth: 'thick'}}>
                             <CardView card={card}/>
                             { props.getExtraCardComponent ? props.getExtraCardComponent(card.id) : null }
                         </FlexBox>);
