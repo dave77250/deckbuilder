@@ -18,7 +18,7 @@ export function loadCollection(existingCards: Card[]): CardCollection {
         colorMap.set(c.color, currentCount + 1);
     });
     console.log("colors");
-    console.log(colorMap.keys().toString());
+    console.log(colorMap.keys().toArray());
     return result;
 }
 
