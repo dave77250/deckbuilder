@@ -21,7 +21,11 @@ export function CardCollectionView(props: CardCollectionViewProps) {
           </FlexBox>
         );
       };
+    const extraToolBar = <FlexBox direction={FlexBoxDirection.Row}>
+            <Button icon="copy" onClick={() => console.log("Copy")}/>
+            <Button icon="paste" onClick={() => console.log("Paste")}/>
+        </FlexBox>;
     return (
-        <SearchableCardGrid cardCollection={props.cardDefinitions} getExtraCardComponent={getOwnedDetailsView}/>
+        <SearchableCardGrid cardCollection={props.cardDefinitions} getExtraCardComponent={getOwnedDetailsView} extraToolBarComponent={extraToolBar}/>
     );
 }
