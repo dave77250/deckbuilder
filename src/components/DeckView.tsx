@@ -21,8 +21,10 @@ export function DeckView(props: DeckViewProps) {
         const deckCard = deckMap.get(card.id);
         return getAvailable(deckCard) > 0 || (deckCard?.selected ?? 0) > 0;
     });
-    const availableCards = displayedCards.reduce((total, card) => total = total + getAvailable(card), 0);
-    const cards4Deck = availableCards + getDeckSize(deck);
+    const cards4Deck = props.cardDefinitions.reduce((total, card) => {
+        const deckCard = deckMap.get(card.id);
+        total = total + getAvailable(deckCard) + (deckCard?.selected ?? 0);
+    }, 0);
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
     }
