@@ -8,7 +8,7 @@ import { CardView } from './CardView';
 
 export type SeachableCardGridProps = {
     cardCollection: Card[],
-    extraToolBarComponent?: React.Component,
+    extraToolBarComponent?: ReactNode,
     getExtraCardComponent?: (cardId: CardId) => ReactNode
 };
 
