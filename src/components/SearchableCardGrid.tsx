@@ -1,5 +1,5 @@
 import { FlexBox, FlexBoxDirection, IllustratedMessage } from '@ui5/webcomponents-react';
-import React, { ReactNode, useState } from 'react';
+import { ReactNode, useState } from 'react';
 import { CardGridToolBar } from './CardGridToolBar';
 import { getColumns, setColumns } from '../model/Preferences';
 import { Card, CardId } from '../model/Card';
