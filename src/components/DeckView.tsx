@@ -1,6 +1,6 @@
-import { FormItem, StepInput, Form, Label } from "@ui5/webcomponents-react";
+import { FormItem, StepInput, Form, Label, MessageStrip } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { createDeck, pickCard, excludeCard } from "../model/Deck";
+import { createDeck, pickCard, excludeCard, DECK_SIZE } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
@@ -21,6 +21,8 @@ export function DeckView(props: DeckViewProps) {
         const deckCard = deckMap.get(card.id);
         return getAvailable(deckCard) > 0 || (deckCard?.selected ?? 0) > 0;
     });
+    const availableCards = displayedCards.reduce((total, card) => total = total + getAvailable(card), 0);
+    const cards4Deck = availableCards + getDeckSize(deck);
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
     }
@@ -50,6 +52,9 @@ export function DeckView(props: DeckViewProps) {
         );
       };
     return (
+      <>
+        { cards4Deck < DECK_SIZE? <MessageStrip design="Critical">Désolé, vous n'avez pas assez de cartes pour créer un deck</MessageStrip> : null}
         <SearchableCardGrid cardCollection={displayedCards} getExtraCardComponent={getDeckDetailsView}/>
+      </>
     );
 }
