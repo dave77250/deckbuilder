@@ -1,6 +1,6 @@
 import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { CardCollection } from "../model/Collection";
+import { CardCollection, exportCollection, importCollection } from "../model/Collection";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import "@ui5/webcomponents-icons/dist/copy.js"
 import "@ui5/webcomponents-icons/dist/paste.js"
@@ -24,8 +24,15 @@ export function CardCollectionView(props: CardCollectionViewProps) {
         );
       };
     const extraToolBar = <FlexBox direction={FlexBoxDirection.Row}>
-            <Button icon="copy" onClick={() => console.log("Copy")}/>
-            <Button icon="paste" onClick={() => console.log("Paste")}/>
+            <Button icon="copy" onClick={() => {
+                const toWrite = exportCollection(props.collection);
+                navigator.clipboard.writeText(toWrite).then(() => console.log("copy done"));
+            }}/>
+            <Button icon="paste" onClick={() => {
+                navigator.clipboard.readText().then(importText => {
+                    const newCollection = importCollection(importText, props.cardDefinitions, props.setInCollection);
+                })
+            }}/>
         </FlexBox>;
     return (
         <SearchableCardGrid cardCollection={props.cardDefinitions} getExtraCardComponent={getOwnedDetailsView} extraToolBarComponent={extraToolBar}/>
