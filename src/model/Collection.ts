@@ -37,15 +37,12 @@ export function exportCollection(collection: CardCollection): string {
     return JSON.stringify(exportedColl);
 }
 
-export function importCollection(exported: string, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): CardCollection {
+export function importCollection(exported: string, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
     // effacer la collection existante
     existingCards.forEach(card => setOwned(card.id, 0));
     // écrire la collection lue
     const importedColl = JSON.parse(exported) as any as ExportedCollection;
-    const result: CardCollection = new Map<CardId, number>();
     importedColl.forEach(card => { 
         setOwned(result, card.id, card.owned);
-        result.set(card.id, card.owned);
     });
-    return result;
 }

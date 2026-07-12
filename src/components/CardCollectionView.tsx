@@ -30,7 +30,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
             }}/>
             <Button icon="paste" onClick={() => {
                 navigator.clipboard.readText().then(importText => {
-                    const newCollection = importCollection(importText, props.cardDefinitions, props.setInCollection);
+                    importCollection(importText, props.cardDefinitions, props.setInCollection);
                 })
             }}/>
         </FlexBox>;
