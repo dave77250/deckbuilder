@@ -19,13 +19,16 @@ export function CardCollectionView(props: CardCollectionViewProps) {
     const getOwnedDetailsView = (id: CardId) => {
         return (
           <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.Center}>
-              <StepInput value={props.collection.get(id)} onChange={(event) => onStep(id, event.target.value)}/>
+              <StepInput value={props.collection.get(id)} min={0} onChange={(event) => onStep(id, event.target.value)}/>
           </FlexBox>
         );
       };
     const extraToolBar = <FlexBox direction={FlexBoxDirection.Row}>
             <Button icon="copy" onClick={() => {
+                console.log("EXPORT");
+                console.log(props.collection.keys().toArray().length);
                 const toWrite = exportCollection(props.collection);
+                console.log(toWrite);
                 navigator.clipboard.writeText(toWrite).then(() => console.log("copy done"));
             }}/>
             <Button icon="paste" onClick={() => {
