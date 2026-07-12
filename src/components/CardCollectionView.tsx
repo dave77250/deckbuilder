@@ -25,10 +25,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
       };
     const extraToolBar = <FlexBox direction={FlexBoxDirection.Row}>
             <Button icon="copy" onClick={() => {
-                console.log("EXPORT");
-                console.log(props.collection.keys().toArray().length);
                 const toWrite = exportCollection(props.collection);
-                console.log(toWrite);
                 navigator.clipboard.writeText(toWrite).then(() => console.log("copy done"));
             }}/>
             <Button icon="paste" onClick={() => {

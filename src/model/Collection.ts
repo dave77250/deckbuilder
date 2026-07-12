@@ -31,10 +31,9 @@ export function exportCollection(collection: CardCollection): string {
     const exportedColl = collection.keys().toArray().map(id => {
         const owned = collection.get(id) ?? 0;
         const exported: ExportedCard = { id, owned };
-        console.log(exported);
         return exported;
     });
-    return JSON.stringify(exportedColl);
+    return JSON.stringify(exportedColl.filter(c => c.owned > 0));
 }
 
 export function importCollection(exported: string, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
