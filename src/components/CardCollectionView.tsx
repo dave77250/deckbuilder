@@ -2,6 +2,8 @@ import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button } f
 import { Card, CardId } from "../model/Card"
 import { CardCollection } from "../model/Collection";
 import { SearchableCardGrid } from "./SearchableCardGrid";
+import "@ui5/webcomponents-icons/dist/copy.js"
+import "@ui5/webcomponents-icons/dist/paste.js"
 
 export type CardCollectionViewProps = {
     cardDefinitions: Card[],
