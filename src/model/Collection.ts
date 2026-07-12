@@ -28,7 +28,7 @@ interface ExportedCard {
 type ExportedCollection = ExportedCard[];
 
 export function exportCollection(collection: CardCollection): string {
-    const exportedColl = collection.keys().map(id => {
+    const exportedColl = collection.keys().toArray().map(id => {
         const owned = collection.get(id) ?? 0;
         const exported: ExportedCard = { id, owned };
         console.log(exported);
