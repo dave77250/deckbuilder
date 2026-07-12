@@ -32,7 +32,7 @@ jobs:
 
     - name: Build and publish
       run: |
-        npm install
+        npm ci
         git config --global user.name "${GITHUB_ACTOR}"
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git fetch origin main --depth 1
