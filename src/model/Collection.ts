@@ -42,6 +42,7 @@ export function importCollection(exported: string, existingCards: Card[], setOwn
     existingCards.forEach(card => setOwned(card.id, 0));
     // écrire la collection lue
     const importedColl = JSON.parse(exported) as any as ExportedCollection;
+    const result = new Map<CardId, number>();
     importedColl.forEach(card => { 
         setOwned(result, card.id, card.owned);
     });
