@@ -42,7 +42,7 @@ export function importCollection(exported: string, existingCards: Card[]): CardC
     existingCards.forEach(card => storage.removeItem(`${COLLECTION_PREFIX}.${card.id}`));
     // écrire la collection lue
     const importedColl = JSON.parse(exported) as any as ExportedCollection;
-    var result: CardCollection = new Map<CardId number>();
+    var result: CardCollection = new Map<CardId, number>();
     importedColl.forEach(card => { result = setOwned(result, card.id, card.owned); });
     return result;
 }
