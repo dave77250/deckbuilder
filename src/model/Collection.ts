@@ -30,9 +30,9 @@ type ExportedCollection = ExportedCard[];
 export function exportCollection(collection: CardCollection): string {
     const exportedColl = collection.keys().map(id => {
         const owned = collection.get(id) ?? 0;
-        return {
-            id, owned
-        }
+        const exported: ExportedCard = { id, owned };
+        console.log(exported);
+        return exported;
     });
     return JSON.stringify(exportedColl);
 }
