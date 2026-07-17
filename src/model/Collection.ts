@@ -28,18 +28,13 @@ export function setOwned(collection: CardCollection, card: CardId, owned: number
 }
 
 export function importDreambornCollection(exported: DreambornCollection, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
-    console.log("existing cards:");
-    console.log(existingCards);
     // effacer la collection existante
     existingCards.forEach(card => setOwned(card.id, 0));
     // remplacer par la collection lue
     exported.forEach(expCard => {
         console.log("Recherche de setCode " + expCard.setCode + " et number " + expCard.number);
         const knownCard = existingCards.find(card => Number.parseInt(card.setCode) === Number.parseInt(expCard.setCode) && card.number === expCard.number);
-        console.log("carte trouvée");
-        console.log(knownCard);
         if (knownCard !== undefined) {
-            console.log("Enregistrement de " + expCard.owned + " cartes " + knownCard.name);
             setOwned(knownCard.id, expCard.owned);
         }
     });
