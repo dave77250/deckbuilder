@@ -27,17 +27,12 @@ export function setOwned(collection: CardCollection, card: CardId, owned: number
     return new Map<CardId, number>(collection);
 }
 
-interface ExportedCard {
-    id: CardId,
-    owned: number
-}
-
-export function importCollection(exported: string, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
+/* export function importCollection(exported: string, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
     // effacer la collection existante
     existingCards.forEach(card => setOwned(card.id, 0));
     // écrire la collection lue
-    /* const importedColl = JSON.parse(exported) as any as ExportedCollection;
+    const importedColl = JSON.parse(exported) as any as ExportedCollection;
     importedColl.forEach(card => { 
         setOwned(card.id, card.owned);
-    }); */
-}
+    });
+} */
