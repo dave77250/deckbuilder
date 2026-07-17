@@ -1,6 +1,6 @@
 import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button, FileUploader } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { CardCollection, DreambornCollection, DreambornCollectionCard } from "../model/Collection";
+import { CardCollection, DreambornCollection, DreambornCollectionCard, importDreambornCollection } from "../model/Collection";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import "@ui5/webcomponents-icons/dist/upload.js"
 
@@ -51,8 +51,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                                         dbItems.push(dbCard);
                                     }
                                 });
-                                console.log("dreamborn cards:");
-                                console.log(dbItems);
+                                importDreambornCollection(dbItems, props.cardDefinitions, props.setInCollection);
                             }
                         }
                     }
