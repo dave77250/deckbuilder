@@ -34,6 +34,7 @@ export function importDreambornCollection(exported: DreambornCollection, existin
     exported.forEach(expCard => {
         const knownCard = existingCards.find(card => card.setCode === expCard.setCode && card.number === expCard.number);
         if (knownCard !== undefined) {
+            console.log("Enregistrement de " + expCard.owned + " cartes " + knownCard.name);
             setOwned(knownCard.id, expCard.owned);
         }
     });
