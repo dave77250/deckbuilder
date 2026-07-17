@@ -5,7 +5,10 @@ export type Card = {
     name: string,
     fullName: string,
     color: string,
-    image: string
+    image: string,
+    // infos pour identifier les cartes dans les import dreamborn ink
+    setCode: string,
+    number: number
 }
 
 export async function loadCards(): Promise<Card[]> {
