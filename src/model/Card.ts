@@ -21,7 +21,9 @@ export async function loadCards(): Promise<Card[]> {
             name: card?.name,
             fullName: card?.fullName,
             color: card?.color,
-            image: card?.images?.thumbnail
+            image: card?.images?.thumbnail,
+            setCode: card?.setCode,
+            number: card?.number
         }
     });
 }
