@@ -1,9 +1,8 @@
-import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button } from "@ui5/webcomponents-react";
+import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button, FileUploader } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
 import { CardCollection, exportCollection, importCollection } from "../model/Collection";
 import { SearchableCardGrid } from "./SearchableCardGrid";
-import "@ui5/webcomponents-icons/dist/copy.js"
-import "@ui5/webcomponents-icons/dist/paste.js"
+import "@ui5/webcomponents-icons/dist/upload.js"
 
 export type CardCollectionViewProps = {
     cardDefinitions: Card[],
@@ -24,15 +23,16 @@ export function CardCollectionView(props: CardCollectionViewProps) {
         );
       };
     const extraToolBar = <FlexBox direction={FlexBoxDirection.Row}>
-            <Button icon="copy" onClick={() => {
-                const toWrite = exportCollection(props.collection);
-                navigator.clipboard.writeText(toWrite).then(() => console.log("copy done"));
-            }}/>
-            <Button icon="paste" onClick={() => {
-                navigator.clipboard.readText().then(importText => {
-                    importCollection(importText, props.cardDefinitions, props.setInCollection);
-                })
-            }}/>
+            <FileUploader
+                hideInput
+                accept=".csv"
+                multiple={false}
+                onChange={function uU(){}}
+                onFileSizeExceed={function uU(){}}
+                valueState="None"
+            >
+                <Button icon="upload"/>
+            </FileUploader>
         </FlexBox>;
     return (
         <SearchableCardGrid cardCollection={props.cardDefinitions} getExtraCardComponent={getOwnedDetailsView} extraToolBarComponent={extraToolBar}/>
