@@ -1,6 +1,6 @@
 import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button, FileUploader } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { CardCollection } from "../model/Collection";
+import { CardCollection, DreambornCollection, DreambornCollectionCard } from "../model/Collection";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import "@ui5/webcomponents-icons/dist/upload.js"
 
@@ -36,11 +36,23 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                         reader.onloadend = (readerEvent) => {
                             if (readerEvent?.target?.result) {
                                 const csv = readerEvent?.target?.result.toString();
-                                console.log("raw csv");
-                                console.log(readerEvent?.target?.result);
                                 const lines = csv.split("\n");
-                                console.log("lines read :");
+                                console.log("lines:");
                                 console.log(lines);
+                                const dbItems: DreambornCollection = [];
+                                lines.filter((_, index) => index > 0).forEach(line => {
+                                    const values = line.split(",");
+                                    if(values.length > 4) {
+                                        const dbCard: DreambornCollectionCard = {
+                                            setCode: values[0],
+                                            number: Number.parseInt(values[1]),
+                                            owned: Number.parseInt(values[3])
+                                        };
+                                        dbItems.push(dbCard);
+                                    }
+                                });
+                                console.log("dreamborn cards:");
+                                console.log(dbItems);
                             }
                         }
                     }
