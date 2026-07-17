@@ -28,15 +28,18 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                 accept=".csv"
                 multiple={false}
                 onChange={(event) => {
-                    console.log("Detail :");
-                    console.log(event?.detail);
                     const files = event?.detail?.files;
-                    console.log("Files :");
-                    console.log(files);
                     if ((files?.length ?? 0) > 0) {
-                        const fileName = files?.item(0);
-                        console.log("fileName:");
-                        console.log(fileName);
+                        const file = files?.item(0);
+                        const reader = new FileReader();
+                        reader.readAsText(file, "UTF-8");
+                        reader.onloadend = (readerEvent) => {
+                            if (readerEvent?.target?.result) {
+                                const csv = readerEvent?.target?.result;
+                                console.log("CSV read :");
+                                console.log(csv);
+                            }
+                        }
                     }
                 }}
                 valueState="None"
