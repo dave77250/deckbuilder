@@ -35,7 +35,7 @@ export function importDreambornCollection(exported: DreambornCollection, existin
     // remplacer par la collection lue
     exported.forEach(expCard => {
         console.log("Recherche de setCode " + expCard.setCode + " et number " + expCard.number);
-        const knownCard = existingCards.find(card => Number.parse(card.setCode) === Number.parse(expCard.setCode) && card.number === expCard.number);
+        const knownCard = existingCards.find(card => Number.parseInt(card.setCode) === Number.parseInt(expCard.setCode) && card.number === expCard.number);
         console.log("carte trouvée");
         console.log(knownCard);
         if (knownCard !== undefined) {
