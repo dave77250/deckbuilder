@@ -28,6 +28,8 @@ export function setOwned(collection: CardCollection, card: CardId, owned: number
 }
 
 export function importDreambornCollection(exported: DreambornCollection, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
+    console.log("existing cards:");
+    console.log(existingCards);
     // effacer la collection existante
     existingCards.forEach(card => setOwned(card.id, 0));
     // remplacer par la collection lue
