@@ -33,8 +33,9 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                     const files = event?.detail?.files;
                     console.log("Files :");
                     console.log(files);
-                    if (Array.isArray(files)) {
-                        const fileName = files[0];
+                    if (files.length > 0) {
+                        const fileName = files.item(0);
+                        console.log("fileName:");
                         console.log(fileName);
                     }
                 }}
