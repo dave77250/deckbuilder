@@ -32,7 +32,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                     if ((files?.length ?? 0) > 0) {
                         const file = files?.item(0);
                         const reader = new FileReader();
-                        reader.readAsText(file, "UTF-8");
+                        reader.readAsText(file as any as Blob, "UTF-8");
                         reader.onloadend = (readerEvent) => {
                             if (readerEvent?.target?.result) {
                                 const csv = readerEvent?.target?.result;
