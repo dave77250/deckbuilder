@@ -36,6 +36,8 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                         reader.onloadend = (readerEvent) => {
                             if (readerEvent?.target?.result) {
                                 const csv = readerEvent?.target?.result.toString();
+                                console.log("raw csv");
+                                console.log(readerEvent?.target?.result);
                                 const lines = csv.split("\n");
                                 console.log("lines read :");
                                 console.log(lines);
