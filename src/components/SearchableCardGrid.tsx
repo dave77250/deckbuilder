@@ -5,6 +5,7 @@ import { getColumns, setColumns } from '../model/Preferences';
 import { Card, CardId } from '../model/Card';
 import { BasicGrid } from './BasicGrid';
 import { CardView } from './CardView';
+import "@ui5/webcomponents-fiori/dist/illustrations/NoEntries.js"
 
 export type SeachableCardGridProps = {
     cardCollection: Card[],
