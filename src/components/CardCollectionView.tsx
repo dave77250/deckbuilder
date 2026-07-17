@@ -35,7 +35,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                         reader.readAsText(file as any as Blob, "UTF-8");
                         reader.onloadend = (readerEvent) => {
                             if (readerEvent?.target?.result) {
-                                const csv = readerEvent?.target?.result;
+                                const csv = readerEvent?.target?.result.toString();
                                 const lines = csv.split("\n");
                                 console.log("lines read :");
                                 console.log(lines);
