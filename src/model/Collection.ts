@@ -2,6 +2,13 @@ import { Card, CardId } from "./Card";
 
 export type CardCollection = Map<CardId, number>;
 
+export type DreambornCollectionCard = {
+    setCode: string,
+    number: number,
+    owned: number
+};
+export type DreambornCollection = DreambornCollectionCard[];
+
 const storage = window.localStorage;
 const COLLECTION_PREFIX = 'lorcana.collection';
 
@@ -25,23 +32,12 @@ interface ExportedCard {
     owned: number
 }
 
-type ExportedCollection = ExportedCard[];
-
-export function exportCollection(collection: CardCollection): string {
-    const exportedColl = collection.keys().toArray().map(id => {
-        const owned = collection.get(id) ?? 0;
-        const exported: ExportedCard = { id, owned };
-        return exported;
-    });
-    return JSON.stringify(exportedColl.filter(c => c.owned > 0));
-}
-
 export function importCollection(exported: string, existingCards: Card[], setOwned: (id: CardId, owned: number) => void): void {
     // effacer la collection existante
     existingCards.forEach(card => setOwned(card.id, 0));
     // écrire la collection lue
-    const importedColl = JSON.parse(exported) as any as ExportedCollection;
+    /* const importedColl = JSON.parse(exported) as any as ExportedCollection;
     importedColl.forEach(card => { 
         setOwned(card.id, card.owned);
-    });
+    }); */
 }
