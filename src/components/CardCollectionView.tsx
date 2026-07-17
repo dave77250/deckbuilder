@@ -27,7 +27,14 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                 hideInput
                 accept=".csv"
                 multiple={false}
-                onChange={(event) => { console.log(event); }}
+                onChange={(event) => {
+                    console.log(event?.details);
+                    const files = event?.details?.files;
+                    if (Array.isArray(files)) {
+                        const fileName = files[0];
+                        console.log(fileName);
+                    }
+                }}
                 valueState="None"
             >
                 <Button icon="upload"/>
