@@ -4,7 +4,7 @@ import "@ui5/webcomponents-icons/dist/card.js";
 import { Card, CardId } from '../model/Card';
 import { CardCollectionView } from './CardCollectionView';
 import { useState } from 'react';
-import { loadCollection, setOwned, clearCollection } from '../model/Collection';
+import { loadCollection, setOwned, updateCollection } from '../model/Collection';
 import { DeckView } from './DeckView';
 import { map2Json } from '../model/Helpers';
 import { CardCollection } from '../model/Collection';
@@ -29,9 +29,9 @@ export function TabWrapper(props: TabWrapperProps) {
     console.log('Collection updated');
     setCollection(setOwned(collection, id, owned));
   };
-  const replaceCollection = (collection: CardCollection) => {
+  const updateCollection = (collection: CardCollection) => {
     console.log('Collection replaced');
-    clearCollection(props.cards);
+    replaceCollection(props.cards, collection);
     setCollection(collection);
   };
   // TODO Le deck ne prend pas en compte les changements sur la collection de cartes
@@ -47,7 +47,7 @@ export function TabWrapper(props: TabWrapperProps) {
         selected
         text="Ma collection de cartes"
       >
-        <CardCollectionView cardDefinitions={props.cards} collection={collection} setInCollection={setInCollection} setCollection={replaceCollection}/>
+        <CardCollectionView cardDefinitions={props.cards} collection={collection} setInCollection={setInCollection} setCollection={updateCollection}/>
       </Tab>
       <Tab
         icon="card"

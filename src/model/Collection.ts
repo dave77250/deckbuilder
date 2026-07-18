@@ -12,26 +12,27 @@ export type DreambornCollection = DreambornCollectionCard[];
 const storage = window.localStorage;
 const COLLECTION_PREFIX = 'lorcana.collection';
 
-function getCardKey(card: Card) {
-    return `${COLLECTION_PREFIX}.${card.id}`;
+function getCardKey(cardId: CardId) {
+    return `${COLLECTION_PREFIX}.${cardId}`;
 }
 
 export function loadCollection(existingCards: Card[]): CardCollection {
     const result = new Map<CardId, number>();
     existingCards.forEach(c => {
-        const storedCount = Number.parseInt(storage.getItem(getCardKey(c)) ?? '0');
+        const storedCount = Number.parseInt(storage.getItem(getCardKey(c.id)) ?? '0');
         result.set(c.id, storedCount);
     });
     return result;
 }
 
-export function setOwned(collection: CardCollection, card: CardId, owned: number): CardCollection {
-    collection.set(card, owned);
-    storage.setItem(`${COLLECTION_PREFIX}.${card}`, owned.toString());
-    return new Map<CardId, number>(collection);
+export function setOwned(collection: CardCollection, cardId: CardId, owned: number): CardCollection {
+    const result = new Map<CardId, number>(collection);
+    result.set(cardId, owned);
+    storage.setItem(getCardKey(cardId), owned.toString());
+    return result;
 }
 
-export function clearCollection(existingCards: Card[]) {
+function clearCollection(existingCards: Card[]) {
     existingCards.forEach(card => {
         const key = getCardKey(card);
         const currentlyOwned = storage.getItem(key);
@@ -39,6 +40,14 @@ export function clearCollection(existingCards: Card[]) {
             storage.removeItem(key);
         }
     })
+}
+
+export function replaceCollection(existingCards: Card[], collection: CardCollection) {
+    clearCollection();
+    collection.keys().forEach(cardId => {
+        const owned = collection.get(cardId) ?? 0;
+        storage.setItem(getCardKey(cardId), owned.toString());
+    });
 }
 
 export function importDreambornCollection(exported: DreambornCollection, existingCards: Card[]): CardCollection {
