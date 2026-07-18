@@ -34,7 +34,7 @@ export function setOwned(collection: CardCollection, cardId: CardId, owned: numb
 
 function clearCollection(existingCards: Card[]) {
     existingCards.forEach(card => {
-        const key = getCardKey(card);
+        const key = getCardKey(card.id);
         const currentlyOwned = storage.getItem(key);
         if(currentlyOwned === null) {
             storage.removeItem(key);
@@ -43,7 +43,7 @@ function clearCollection(existingCards: Card[]) {
 }
 
 export function replaceCollection(existingCards: Card[], collection: CardCollection) {
-    clearCollection();
+    clearCollection(existingCards);
     collection.keys().forEach(cardId => {
         const owned = collection.get(cardId) ?? 0;
         storage.setItem(getCardKey(cardId), owned.toString());
