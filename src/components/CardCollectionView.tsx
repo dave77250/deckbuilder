@@ -29,6 +29,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                 accept=".csv"
                 multiple={false}
                 onChange={(event) => {
+                    console.log("Evenement upload");
                     const files = event?.detail?.files;
                     if ((files?.length ?? 0) > 0) {
                         const file = files?.item(0);
