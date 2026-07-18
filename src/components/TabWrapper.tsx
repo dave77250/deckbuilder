@@ -29,6 +29,11 @@ export function TabWrapper(props: TabWrapperProps) {
     console.log('Collection updated');
     setCollection(setOwned(collection, id, owned));
   };
+  const replaceCollection = (collection: CardCollection) => {
+    console.log('Collection replaced');
+    clearCollection(props.cards);
+    setCollection(collection);
+  };
   // TODO Le deck ne prend pas en compte les changements sur la collection de cartes
   return (
     <TabContainer
@@ -42,7 +47,7 @@ export function TabWrapper(props: TabWrapperProps) {
         selected
         text="Ma collection de cartes"
       >
-        <CardCollectionView cardDefinitions={props.cards} collection={collection} setInCollection={setInCollection}/>
+        <CardCollectionView cardDefinitions={props.cards} collection={collection} setInCollection={setInCollection} setCollection={replaceCollection}/>
       </Tab>
       <Tab
         icon="card"

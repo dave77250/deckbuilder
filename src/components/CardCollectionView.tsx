@@ -7,7 +7,8 @@ import "@ui5/webcomponents-icons/dist/upload.js"
 export type CardCollectionViewProps = {
     cardDefinitions: Card[],
     collection: CardCollection,
-    setInCollection: (id: CardId, owned: number) => void
+    setInCollection: (id: CardId, owned: number) => void,
+    setCollection (collection: CardCollection) => void
 }
 
 // (event) => props.setInCollection(id, event.target.value)
@@ -51,7 +52,8 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                                         dbItems.push(dbCard);
                                     }
                                 });
-                                importDreambornCollection(dbItems, props.cardDefinitions, props.setInCollection);
+                                const newCollection = importDreambornCollection(dbItems, props.cardDefinitions);
+                                props.setCollection(newCollection);
                             }
                         }
                     }
