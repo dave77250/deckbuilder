@@ -4,7 +4,7 @@ import "@ui5/webcomponents-icons/dist/card.js";
 import { Card, CardId } from '../model/Card';
 import { CardCollectionView } from './CardCollectionView';
 import { useState } from 'react';
-import { loadCollection, setOwned } from '../model/Collection';
+import { loadCollection, setOwned, clearCollection } from '../model/Collection';
 import { DeckView } from './DeckView';
 import { map2Json } from '../model/Helpers';
 import { CardCollection } from '../model/Collection';
