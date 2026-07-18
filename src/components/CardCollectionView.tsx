@@ -19,7 +19,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
     const getOwnedDetailsView = (id: CardId) => {
         return (
           <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.Center}>
-              <StepInput value={props.collection.get(id)} min={0} onChange={(event) => onStep(id, event.target.value)}/>
+              <StepInput value={props.collection.get(id) ?? 0} min={0} onChange={(event) => onStep(id, event.target.value)}/>
           </FlexBox>
         );
       };
