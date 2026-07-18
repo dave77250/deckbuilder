@@ -52,7 +52,9 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                                         dbItems.push(dbCard);
                                     }
                                 });
+                                console.log("Appel de importDreambornCollection");
                                 const newCollection = importDreambornCollection(dbItems, props.cardDefinitions);
+                                console.log("Appel de setCollection");
                                 props.setCollection(newCollection);
                             }
                         }
