@@ -8,7 +8,7 @@ export type CardCollectionViewProps = {
     cardDefinitions: Card[],
     collection: CardCollection,
     setInCollection: (id: CardId, owned: number) => void,
-    setCollection (collection: CardCollection) => void
+    setCollection: (collection: CardCollection) => void
 }
 
 // (event) => props.setInCollection(id, event.target.value)

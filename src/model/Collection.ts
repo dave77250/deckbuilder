@@ -41,7 +41,7 @@ export function clearCollection(existingCards: Card[]) {
     })
 }
 
-export function importDreambornCollection(exported: DreambornCollection, existingCards: Card[]): CardCollection
+export function importDreambornCollection(exported: DreambornCollection, existingCards: Card[]): CardCollection {
     const result = new Map<CardId, number>();
     exported.forEach(expCard => {
         console.log("Recherche de setCode " + expCard.setCode + " et number " + expCard.number);
@@ -51,4 +51,5 @@ export function importDreambornCollection(exported: DreambornCollection, existin
         }
     });
     return result;
-} 
+}
+
