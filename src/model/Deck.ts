@@ -8,7 +8,7 @@ export const MAX_COLORS = 2;
 
 export type Deck = DeckCard[];
 
-function getDeckSize(deck: Deck) {
+export function getDeckSize(deck: Deck) {
     return deck.reduce((total, card) => total + card.selected, 0);
 }
 
@@ -18,7 +18,7 @@ function makeCardMap(cards: Card[]) {
     return result;
 }
 
-function getDeckColors(deck: Deck, allCards: Card[]) {
+export function getDeckColors(deck: Deck, allCards: Card[]) {
     const colorMap = new Map<string, boolean>();
     const cardMap = makeCardMap(allCards);
     deck.forEach(card => colorMap.set(cardMap.get(card.id)?.color ?? 'unknown', true));
