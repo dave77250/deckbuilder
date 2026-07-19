@@ -34,7 +34,6 @@ export function TabWrapper(props: TabWrapperProps) {
     replaceCollection(props.cards, collection);
     setCollection(collection);
   };
-  // TODO Le deck ne prend pas en compte les changements sur la collection de cartes
   return (
     <TabContainer
       contentBackgroundDesign="Solid"

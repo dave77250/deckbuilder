@@ -25,6 +25,7 @@ export function DeckView(props: DeckViewProps) {
         const deckCard = deckMap.get(card.id);
         return total + getAvailable(deckCard) + (deckCard?.selected ?? 0);
     }, 0);
+    console.
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
     }
