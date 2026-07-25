@@ -1,3 +1,7 @@
+declare global {
+    var isDebugLogEnabled: boolean
+}
+
 globalThis.isDebugLogEnabled = false;
 
 export function debugLog(message: any) {
