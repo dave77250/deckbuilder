@@ -49,12 +49,12 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
       case DeckBuilderState.NeedMoreColors:
         return <MessageStrip design="Information" hideCloseButton={true}>Choisissez des cartes de 2 couleurs différentes pour créer votre deck.</MessageStrip>
       case DeckBuilderState.PartialDeck:
-        return <FlexBox direction={FlexBoxDirection.Row} fitContainer={true} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+        return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
             <MessageStrip design="Positive" hideCloseButton={true}>Cliquez sur le bouton pour compléter automatiquement ce deck.</MessageStrip>
             <Button onClick={() => doCompleteDeck()}>Compléter</Button>
         </FlexBox>
       case DeckBuilderState.CompleteDeck:
-        return <FlexBox direction={FlexBoxDirection.Row} fitContainer={true} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+        return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
             <MessageStrip design="Positive" hideCloseButton={true}>Deck complet, cliquez sur le bouton pour créer un autre deck sans ces cartes.</MessageStrip>
             <Button onClick={() => doNextDeck()}>Deck suivant</Button>
         </FlexBox>
