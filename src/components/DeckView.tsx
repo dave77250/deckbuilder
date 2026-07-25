@@ -1,6 +1,6 @@
 import { FormItem, StepInput, Form, Label, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { createDeck, pickCard, excludeCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS } from "../model/Deck";
+import { createDeck, pickCard, excludeCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
@@ -107,7 +107,7 @@ export function DeckView(props: DeckViewProps) {
       };
     return (
       <>
-        {getHeaderMessage(deckState, () => {debugLog("complete deck placeholder")}, () => {debugLog("New deck placeholder")})}
+        {getHeaderMessage(deckState, () => { setDeck(completeDeck(deck, props.cardDefinitions)); }, () => {debugLog("New deck placeholder")})}
         <SearchableCardGrid cardCollection={displayedCards} getExtraCardComponent={getDeckDetailsView}/>
       </>
     );

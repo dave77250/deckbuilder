@@ -1,5 +1,5 @@
 import { CardId, Card } from "./Card";
-import { DeckCard, createDeckCardFrom, makeAvailable, makeUnavailable, pick, setMaxSelectable, exclude } from "./DeckCard";
+import { DeckCard, createDeckCardFrom, getAvailable, makeAvailable, makeUnavailable, pick, setMaxSelectable, exclude } from "./DeckCard";
 import { CardCollection } from "./Collection";
 
 export const DECK_SIZE = 60;
@@ -68,4 +68,22 @@ export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: numbe
 
 export function excludeCard(deck: Deck, id: CardId, excluded: number) {
     return deck.map(dc => dc.id === id? exclude(dc, excluded): dc);
+}
+
+function getRandomInt(max: number) {
+    return Math.floor(Math.random() * max);
+}
+
+function addRandomCard(deck: Deck, allCards: Card[]) {
+    const availableCards = deck.filter(dc => { return getAvailable(dc) > 0; });
+    const pickedCard = availableCards[getRandomInt(availableCards.length)];
+    return pickCard(deck, allCards, pickedCard.id, pickedCard.selected + 1);
+}
+
+export function completeDeck(deck: Deck, allCards: Card[]) {
+    var result = deck;
+    while (getDeckSize(result) < DECK_SIZE) {
+        result = addRandomCard(deck, allCards);
+    }
+    return result;
 }
