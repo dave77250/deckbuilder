@@ -1,4 +1,4 @@
-import { FormItem, StepInput, Form, Label, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button } from "@ui5/webcomponents-react";
+import { FormItem, StepInput, Form, Label, Text, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
 import { createDeck, pickCard, excludeCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
@@ -55,7 +55,7 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
         return <MessageStrip design="Information" hideCloseButton={true}>Choisissez des cartes de 2 couleurs différentes pour créer votre deck.</MessageStrip>
       case DeckBuilderState.PartialDeck:
         return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
-            <MessageStrip design="Positive" hideCloseButton={true}>Cliquez sur le bouton pour compléter automatiquement ce deck.</MessageStrip>
+            <Text>Cliquez sur le bouton pour compléter automatiquement ce deck.</Text>
             <Button onClick={() => doCompleteDeck()}>Compléter</Button>
         </FlexBox>
       case DeckBuilderState.CompleteDeck:
