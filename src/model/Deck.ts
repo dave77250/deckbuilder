@@ -81,7 +81,9 @@ function addRandomCard(deck: Deck, allCards: Card[]) {
         return deck;
     }
     const pickedCard = availableCards[getRandomInt(availableCards.length)];
-    return pickCard(deck, allCards, pickedCard.id, pickedCard.selected + 1);
+    const updatedSelected = pickedCard.selected + 1;
+    debugLog('picking card ' + pickedCard.id + ' with selected = ' + updatedSelected);
+    return pickCard(deck, allCards, pickedCard.id, updatedSelected);
 }
 
 export function completeDeck(deck: Deck, allCards: Card[]) {
