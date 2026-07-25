@@ -20,6 +20,8 @@ enum DeckBuilderState {
 };
 
 function computeDeckState(deck: Deck, allCards: Card[]): DeckBuilderState {
+  debugLog('Computing deck state');
+  debugLog('deck size = ' + getDeckSize(deck).toString());
     if (getDeckSize(deck) === DECK_SIZE) {
         return DeckBuilderState.CompleteDeck;
     }
@@ -31,10 +33,12 @@ function computeDeckState(deck: Deck, allCards: Card[]): DeckBuilderState {
         const deckCard = deckMap.get(card.id);
         return total + getAvailable(deckCard) + (deckCard?.selected ?? 0);
     }, 0);
+    debugLog('cards potential = ' + cards4Deck.toString());
     if (cards4Deck < DECK_SIZE) {
         return DeckBuilderState.NotEnoughCards;
     }
     const deckColors = getDeckColors(deck, allCards);
+    debugLog('deck colors = ' + JSON.stringify(deckColors));
     if (deckColors.length < MAX_COLORS) {
         return DeckBuilderState.NeedMoreColors;
     }
