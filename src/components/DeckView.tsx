@@ -5,6 +5,7 @@ import { DeckCard, getAvailable } from "../model/DeckCard";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
 import { CardCollection } from "../model/Collection";
+import { debugLog } from "../tools/Debug";
 
 export type DeckViewProps = {
     collection: CardCollection,
@@ -101,7 +102,7 @@ export function DeckView(props: DeckViewProps) {
       };
     return (
       <>
-        {getHeaderMessage(deckState, () => {console.log("complete deck placeholder")}, () => {console.log("New deck placeholder")})}
+        {getHeaderMessage(deckState, () => {debugLog("complete deck placeholder")}, () => {debugLog("New deck placeholder")})}
         <SearchableCardGrid cardCollection={displayedCards} getExtraCardComponent={getDeckDetailsView}/>
       </>
     );

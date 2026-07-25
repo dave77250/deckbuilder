@@ -2,6 +2,7 @@ import { FlexBox, FlexBoxDirection, FlexBoxJustifyContent, StepInput, Button, Fi
 import { Card, CardId } from "../model/Card"
 import { CardCollection, DreambornCollection, DreambornCollectionCard, importDreambornCollection } from "../model/Collection";
 import { SearchableCardGrid } from "./SearchableCardGrid";
+import { debugLog } from "../tools/Debug";
 import "@ui5/webcomponents-icons/dist/upload.js"
 
 export type CardCollectionViewProps = {
@@ -29,7 +30,7 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                 accept=".csv"
                 multiple={false}
                 onChange={(event) => {
-                    console.log("Evenement upload");
+                    debugLog("Evenement upload");
                     const files = event?.detail?.files;
                     if ((files?.length ?? 0) > 0) {
                         const file = files?.item(0);
@@ -37,12 +38,12 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                         reader.readAsText(file as any as Blob, "UTF-8");
                         reader.onloadend = (readerEvent) => {
                             if (readerEvent?.target?.result) {
-                                console.log("csv");
-                                console.log(readerEvent?.target?.result);
+                                debugLog("csv");
+                                debugLog(readerEvent?.target?.result);
                                 const csv = readerEvent?.target?.result.toString();
                                 const lines = csv.split("\n");
-                                console.log("lines:");
-                                console.log(lines);
+                                debugLog("lines:");
+                                debugLog(lines);
                                 const dbItems: DreambornCollection = [];
                                 lines.filter((_, index) => index > 0).forEach(line => {
                                     const values = line.split(",");
@@ -55,9 +56,9 @@ export function CardCollectionView(props: CardCollectionViewProps) {
                                         dbItems.push(dbCard);
                                     }
                                 });
-                                console.log("Appel de importDreambornCollection");
+                                debugLog("Appel de importDreambornCollection");
                                 const newCollection = importDreambornCollection(dbItems, props.cardDefinitions);
-                                console.log("Appel de setCollection");
+                                debugLog("Appel de setCollection");
                                 props.setCollection(newCollection);
                             }
                         }

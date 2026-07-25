@@ -8,6 +8,7 @@ import { loadCollection, setOwned, replaceCollection } from '../model/Collection
 import { DeckView } from './DeckView';
 import { map2Json } from '../model/Helpers';
 import { CardCollection } from '../model/Collection';
+import { debugLog } from '../tools/Debug';
 
 export interface TabWrapperProps {
     cards: Card[]
@@ -22,15 +23,15 @@ function getCollectionKey(collection: CardCollection) {
 }
 
 export function TabWrapper(props: TabWrapperProps) {
-  console.log('Rendering TabWrapper')
+  debugLog('Rendering TabWrapper')
   const [collection, setCollection] = useState(loadCollection(props.cards));
-  console.log(JSON.stringify(map2Json(collection)));
+  debugLog(JSON.stringify(map2Json(collection)));
   const setInCollection = (id: CardId, owned: number) => {
-    console.log('Collection updated');
+    debugLog('Collection updated');
     setCollection(setOwned(collection, id, owned));
   };
   const updateCollection = (collection: CardCollection) => {
-    console.log('Collection replaced');
+    debugLog('Collection replaced');
     replaceCollection(props.cards, collection);
     setCollection(collection);
   };

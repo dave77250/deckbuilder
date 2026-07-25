@@ -1,4 +1,5 @@
 import { Card, CardId } from "./Card";
+import { debugLog } from "../tools/Debug";
 
 export type CardCollection = Map<CardId, number>;
 
@@ -53,7 +54,7 @@ export function replaceCollection(existingCards: Card[], collection: CardCollect
 export function importDreambornCollection(exported: DreambornCollection, existingCards: Card[]): CardCollection {
     const result = new Map<CardId, number>();
     exported.forEach(expCard => {
-        console.log("Recherche de setCode " + expCard.setCode + " et number " + expCard.number);
+        debugLog("Recherche de setCode " + expCard.setCode + " et number " + expCard.number);
         const knownCard = existingCards.find(card => Number.parseInt(card.setCode) === Number.parseInt(expCard.setCode) && card.number === expCard.number);
         if (knownCard !== undefined) {
             result.set(knownCard.id, expCard.owned);
