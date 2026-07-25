@@ -20,7 +20,8 @@ enum DeckBuilderState {
 };
 
 function computeDeckState(deck: Deck, allCards: Card[]): DeckBuilderState {
-  debugLog('Computing deck state');
+  debugLog('Computing deck state for deck');
+  debugLog(deck);
   debugLog('deck size = ' + getDeckSize(deck).toString());
     if (getDeckSize(deck) === DECK_SIZE) {
         return DeckBuilderState.CompleteDeck;
