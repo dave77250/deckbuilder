@@ -77,6 +77,9 @@ function getRandomInt(max: number) {
 
 function addRandomCard(deck: Deck, allCards: Card[]) {
     const availableCards = deck.filter(dc => { return getAvailable(dc) > 0; });
+    if (availableCards.length === 0) {
+        return deck;
+    }
     const pickedCard = availableCards[getRandomInt(availableCards.length)];
     return pickCard(deck, allCards, pickedCard.id, pickedCard.selected + 1);
 }
@@ -84,11 +87,18 @@ function addRandomCard(deck: Deck, allCards: Card[]) {
 export function completeDeck(deck: Deck, allCards: Card[]) {
     debugLog('Appel de completeDeck');
     var result = deck;
-    debugLog('deck size = ' + getDeckSize(result).toString());
-    // while (getDeckSize(result) < DECK_SIZE) {
-        debugLog('dans while, deck size = ' + getDeckSize(result).toString());
+    var deckSize = getDeckSize(result);
+    debugLog('deck size = ' + deckSize.toString());
+    while (deckSize < DECK_SIZE) {
+        debugLog('dans while, deck size = ' + deckSize.toString());
         result = addRandomCard(deck, allCards);
-    // }
+        const updatedDeckSize = getDeckSize(result);
+        debugLog('deck size apres pick = ' + updatedDeckSize.toString());
+        if (updatedDeckSize === deckSize) {
+            break;
+        }
+        deckSize = updatedDeckSize;
+    }
     debugLog('completeDeck fini, deck size = ' + getDeckSize(result).toString());
     return result;
 }
