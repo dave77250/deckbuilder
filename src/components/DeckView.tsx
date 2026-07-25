@@ -56,12 +56,12 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
       case DeckBuilderState.PartialDeck:
         return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
             <Text>Cliquez sur le bouton pour compléter automatiquement ce deck.</Text>
-            <Button onClick={() => { debugLog('Calling doCompleteDeck'); doCompleteDeck();}}>Compléter</Button>
+            <Button onClick={doCompleteDeck}>Compléter</Button>
         </FlexBox>
       case DeckBuilderState.CompleteDeck:
         return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
             <MessageStrip design="Positive" hideCloseButton={true}>Deck complet, cliquez sur le bouton pour créer un autre deck sans ces cartes.</MessageStrip>
-            <Button onClick={() => doNextDeck()}>Deck suivant</Button>
+            <Button onClick={doNextDeck}>Deck suivant</Button>
         </FlexBox>
     }
 }
