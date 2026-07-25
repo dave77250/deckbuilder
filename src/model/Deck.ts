@@ -21,7 +21,11 @@ function makeCardMap(cards: Card[]) {
 export function getDeckColors(deck: Deck, allCards: Card[]) {
     const colorMap = new Map<string, boolean>();
     const cardMap = makeCardMap(allCards);
-    deck.forEach(card => colorMap.set(cardMap.get(card.id)?.color ?? 'unknown', true));
+    deck.forEach(card => {
+        if (card.selected > 0) {
+            colorMap.set(cardMap.get(card.id)?.color ?? 'unknown', true);
+        }
+    });
     return colorMap.keys().toArray();
 }
 
