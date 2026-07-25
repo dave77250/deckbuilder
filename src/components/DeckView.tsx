@@ -56,7 +56,7 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
       case DeckBuilderState.PartialDeck:
         return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
             <Text>Cliquez sur le bouton pour compléter automatiquement ce deck.</Text>
-            <Button onClick={() => doCompleteDeck()}>Compléter</Button>
+            <Button onClick={() => { debugLog('Calling doCompleteDeck'); doCompleteDeck();}}>Compléter</Button>
         </FlexBox>
       case DeckBuilderState.CompleteDeck:
         return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
@@ -107,7 +107,10 @@ export function DeckView(props: DeckViewProps) {
       };
     return (
       <>
-        {getHeaderMessage(deckState, () => { setDeck(completeDeck(deck, props.cardDefinitions)); }, () => {debugLog("New deck placeholder")})}
+        {getHeaderMessage(deckState, () => {
+          debugLog('Now calling completeDeck');
+          setDeck(completeDeck(deck, props.cardDefinitions));
+          }, () => {debugLog("New deck placeholder")})}
         <SearchableCardGrid cardCollection={displayedCards} getExtraCardComponent={getDeckDetailsView}/>
       </>
     );
