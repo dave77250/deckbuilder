@@ -1,7 +1,7 @@
 const isDebugLogEnabled = true;
 
 export function debugLog(message: any) {
-    if (globalThis.isDebugLogEnabled) {
+    if (isDebugLogEnabled) {
         console.log(message);
     }
 }
