@@ -85,10 +85,10 @@ export function completeDeck(deck: Deck, allCards: Card[]) {
     debugLog('Appel de completeDeck');
     var result = deck;
     debugLog('deck size = ' + getDeckSize(result).toString());
-    while (getDeckSize(result) < DECK_SIZE) {
+    // while (getDeckSize(result) < DECK_SIZE) {
         debugLog('dans while, deck size = ' + getDeckSize(result).toString());
         result = addRandomCard(deck, allCards);
-    }
+    // }
     debugLog('completeDeck fini, deck size = ' + getDeckSize(result).toString());
     return result;
 }
