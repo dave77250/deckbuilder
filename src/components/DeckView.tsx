@@ -68,6 +68,7 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
 
 export function DeckView(props: DeckViewProps) {
     const [deck, setDeck] = useState(createDeck(props.collection));
+    const [showDeckCardsOnly, setShowDeckCardsOnly] = useState(false);
     const deckState = computeDeckState(deck, props.cardDefinitions);
     const deckMap = new Map<CardId, DeckCard>();
     deck.forEach(dc => {
@@ -75,7 +76,11 @@ export function DeckView(props: DeckViewProps) {
     });
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
-        return getAvailable(deckCard) > 0 || (deckCard?.selected ?? 0) > 0;
+        if (showDeckCardsOnly) {
+          return (deckCard?.selected ?? 0) > 0
+        } else {
+          return getAvailable(deckCard) > 0 || (deckCard?.selected ?? 0) > 0;
+        }
     });
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
@@ -105,13 +110,20 @@ export function DeckView(props: DeckViewProps) {
           </Form>
         );
       };
+    const extraToolbar = <FlexBox direction={FlexBoxDirection.Row}>
+      <Switch checked={showDeckCardsOnly} textOff="Toutes les cartes" textOn="Cartes du deck" onChange={() => setShowDeckCardsOnly(!showDeckCardsOnly)}/>
+    </FlexBox>;
     return (
       <>
         {getHeaderMessage(deckState, () => {
           debugLog('Now calling completeDeck');
           setDeck(completeDeck(deck, props.cardDefinitions));
           }, () => {debugLog("New deck placeholder")})}
-        <SearchableCardGrid cardCollection={displayedCards} getExtraCardComponent={getDeckDetailsView}/>
+        <SearchableCardGrid
+          cardCollection={displayedCards}
+          getExtraCardComponent={getDeckDetailsView}
+          extraToolBarComponent={extraToolbar}
+        />
       </>
     );
 }
