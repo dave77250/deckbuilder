@@ -111,6 +111,7 @@ export function DeckView(props: DeckViewProps) {
           </Form>
         );
       };
+    // la toolbar pour le switch et le bouton reset
     const extraToolbar = <FlexBox direction={FlexBoxDirection.Row}>
       <Switch checked={showDeckCardsOnly} onChange={() => {setShowDeckCardsOnly(!showDeckCardsOnly);}}/>
       <Label>{showDeckCardsOnly?"Cartes du deck":"Toutes les cartes"}</Label>
