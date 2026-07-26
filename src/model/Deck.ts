@@ -93,7 +93,7 @@ export function completeDeck(deck: Deck, allCards: Card[]) {
     debugLog('deck size = ' + deckSize.toString());
     while (deckSize < DECK_SIZE) {
         debugLog('dans while, deck size = ' + deckSize.toString());
-        result = addRandomCard(deck, allCards);
+        result = addRandomCard(result, allCards);
         const updatedDeckSize = getDeckSize(result);
         debugLog('deck size apres pick = ' + updatedDeckSize.toString());
         if (updatedDeckSize === deckSize) {
