@@ -76,10 +76,11 @@ export function DeckView(props: DeckViewProps) {
     });
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
+        const nbSelected = deckCard?.selected ?? 0;
         if (showDeckCardsOnly) {
-          return (deckCard?.selected ?? 0) > 0
+          return nbSelected > 0;
         } else {
-          return getAvailable(deckCard) > 0 || (deckCard?.selected ?? 0) > 0;
+          return getAvailable(deckCard) > 0 || nbSelected > 0;
         }
     });
     const setIncluded = (id: CardId, nb:number) => {
