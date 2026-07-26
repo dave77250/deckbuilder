@@ -111,7 +111,8 @@ export function DeckView(props: DeckViewProps) {
         );
       };
     const extraToolbar = <FlexBox direction={FlexBoxDirection.Row}>
-      <Switch checked={showDeckCardsOnly} textOff="Toutes les cartes" textOn="Cartes du deck" onChange={() => setShowDeckCardsOnly(!showDeckCardsOnly)}/>
+      <Switch checked={showDeckCardsOnly} onChange={() => {setShowDeckCardsOnly(!showDeckCardsOnly);}}/>
+      <Label>{showDeckCardsOnly?"Cartes du deck":"Toutes les cartes"}</Label>
     </FlexBox>;
     return (
       <>
