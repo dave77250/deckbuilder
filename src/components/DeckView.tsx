@@ -74,14 +74,12 @@ export function DeckView(props: DeckViewProps) {
     deck.forEach(dc => {
         deckMap.set(dc.id, dc);
     });
+    const shouldDisplayCard: (card: DeckCard) => boolean = showDeckCardsOnly
+      ? (card) => card.selected > 0
+      : (card) => (getAvailable(card) || (card.selected > 0));
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
-        const nbSelected = deckCard?.selected ?? 0;
-        if (showDeckCardsOnly) {
-          return nbSelected > 0;
-        } else {
-          return getAvailable(deckCard) > 0 || nbSelected > 0;
-        }
+        return deckCard ? shouldDisplayCard(deckCard): false;
     });
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
@@ -112,7 +110,7 @@ export function DeckView(props: DeckViewProps) {
         );
       };
     // la toolbar pour le switch et le bouton reset
-    const extraToolbar = <FlexBox direction={FlexBoxDirection.Row}>
+    const extraToolbar = <FlexBox direction={FlexBoxDirection.Row} alignItems="Center">
       <Switch checked={showDeckCardsOnly} onChange={() => {setShowDeckCardsOnly(!showDeckCardsOnly);}}/>
       <Label>{showDeckCardsOnly?"Cartes du deck":"Toutes les cartes"}</Label>
     </FlexBox>;
