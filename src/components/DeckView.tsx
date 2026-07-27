@@ -79,7 +79,11 @@ export function DeckView(props: DeckViewProps) {
       : (card) => ((getAvailable(card) > 0) || (card.selected > 0));
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
-        return deckCard ? shouldDisplayCard(deckCard): false;
+        debugLog("=== Card filter ===");
+        debugLog(deckCard);
+        const outcome = deckCard ? shouldDisplayCard(deckCard): false;
+        debugLog("showDeck = " + showDeckCardsOnly.toString() + " => " + outcome.toString());
+        return outcome;
     });
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
