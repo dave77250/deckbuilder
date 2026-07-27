@@ -72,19 +72,17 @@ export function DeckView(props: DeckViewProps) {
     const deckState = computeDeckState(deck, props.cardDefinitions);
     const deckMap = new Map<CardId, DeckCard>();
     deck.forEach(dc => {
-        deckMap.set(dc.id, dc);
+      deckMap.set(dc.id, dc);
     });
     const shouldDisplayCard: (card: DeckCard) => boolean = showDeckCardsOnly
       ? (card) => (card.selected > 0)
       : (card) => ((getAvailable(card) > 0) || (card.selected > 0));
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
-        debugLog("=== Card filter ===");
-        debugLog(deckCard);
         const outcome = deckCard ? shouldDisplayCard(deckCard): false;
-        debugLog("showDeck = " + showDeckCardsOnly.toString() + " => " + outcome.toString());
         return outcome;
     });
+    debugLog("displayedCards has length " + displayedCards.length.toString());
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
     }
