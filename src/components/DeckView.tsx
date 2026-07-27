@@ -76,7 +76,7 @@ export function DeckView(props: DeckViewProps) {
     });
     const shouldDisplayCard: (card: DeckCard) => boolean = showDeckCardsOnly
       ? (card) => (card.selected > 0)
-      : (card) => (getAvailable(card) || (card.selected > 0));
+      : (card) => ((getAvailable(card) > 0) || (card.selected > 0));
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
         return deckCard ? shouldDisplayCard(deckCard): false;
