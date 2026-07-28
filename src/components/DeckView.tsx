@@ -6,6 +6,7 @@ import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
 import { CardCollection } from "../model/Collection";
 import { debugLog } from "../tools/Debug";
+import { SliderAndValue } from "./SliderAndValue";
 
 export type DeckViewProps = {
     collection: CardCollection,
@@ -90,10 +91,7 @@ export function DeckView(props: DeckViewProps) {
         const deckCard = deckMap.get(id);
         return (
           <FlexBox direction={FlexBoxDirection.Column}>
-            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
-              <Slider min={0} max={getAvailable(deckCard)} step={1} value={deckCard?.selected ?? 0} onChange={(event) => setIncluded(id, event.target.value)}/>
-              <Text>{deckCard?.selected ?? 0}</Text>
-            </FlexBox>
+            <SliderAndValue max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onChange={(value) => { setIncluded(id, value); }}/>
             <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
             <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
             <Text>{`Unavail. : ${deckCard?.unavailable ?? 0}`}</Text>
