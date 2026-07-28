@@ -9,7 +9,7 @@ type SliderAndValueProps = {
 
 export function SliderAndValue(props: SliderAndValueProps) {
     const [currentValue, setCurrentValue] = useState(props.value);
-    return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+    return <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween} alignItems="Center">
         <Slider min={0} max={props.max} step={1} value={props.value} onChange={(event) => {
             const updatedValue = event.target.value;
             setCurrentValue(updatedValue);
