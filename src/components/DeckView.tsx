@@ -1,6 +1,6 @@
-import { Label, Switch, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
+import { Slider, Label, Switch, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { createDeck, pickCard, excludeCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck } from "../model/Deck";
+import { createDeck, pickCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
@@ -85,9 +85,6 @@ export function DeckView(props: DeckViewProps) {
     debugLog("displayedCards has length " + displayedCards.length.toString());
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
-    }
-    const setExcluded = (id: CardId, nb: number) => {
-      setDeck(excludeCard(deck, id, nb));
     }
     const getDeckDetailsView = (id: CardId) => {
         const deckCard = deckMap.get(id);
