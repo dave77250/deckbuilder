@@ -92,23 +92,16 @@ export function DeckView(props: DeckViewProps) {
     const getDeckDetailsView = (id: CardId) => {
         const deckCard = deckMap.get(id);
         return (
-          <Form layout="S1 M2 L2 XL2">
-            <FormItem labelContent={<Label>Sél.</Label>}>
-              <StepInput value={deckCard?.selected} onChange={(event) => setIncluded(id, event.target.value)} min={0} max={getAvailable(deckCard)}/>
-            </FormItem>
-            <FormItem labelContent={<Label>Excl.</Label>}>
-              <StepInput value={deckCard?.excluded} onChange={(event) => setExcluded(id, event.target.value)} min={0} max={getAvailable(deckCard)}/>
-            </FormItem>
-            <FormItem labelContent={<Label>Poss.</Label>}>
-              <Label>{deckCard?.owned}</Label>
-            </FormItem>
-            <FormItem labelContent={<Label>Ind.</Label>}>
-              <Label>{deckCard?.unavailable}</Label>
-            </FormItem>
-            <FormItem labelContent={<Label>Dispo</Label>}>
-              <Label>{getAvailable(deckCard)}</Label>
-            </FormItem>
-          </Form>
+          <FlexBox direction={FlexBoxDirection.Column}>
+            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+              <Slider min={0} max={getAvailable(deckCard)} step={1} value={deckCard?.selected ?? 0} onChange={(event) => setIncluded(id, event.target.value)}/>
+              <Text>{deckCard?.selected ?? 0}</Text>
+            </FlexBox>
+            <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
+            <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
+            <Text>{`Unavail. : ${deckCard?.unavailable ?? 0}`}</Text>
+            <Text>{`Avail. : ${getAvailable(deckCard)}`}</Text>
+          </FlexBox>
         );
       };
     // la toolbar pour le switch et le bouton reset
