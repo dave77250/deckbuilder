@@ -91,7 +91,10 @@ export function DeckView(props: DeckViewProps) {
         const deckCard = deckMap.get(id);
         return (
           <FlexBox direction={FlexBoxDirection.Column}>
-            <SliderAndValue max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onChange={(value) => { setIncluded(id, value); }}/>
+            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+              <Text>In deck:</Text>
+              <StepInput min={0} max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onInput={(event) => { setIncluded(id, event.target.value); }}/>
+            </FlexBox>
             <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
             <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
             <Text>{`Unavail. : ${deckCard?.unavailable ?? 0}`}</Text>
