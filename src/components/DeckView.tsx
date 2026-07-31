@@ -1,4 +1,4 @@
-import { Label, Switch, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
+import { StepInput, Label, Switch, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
 import { createDeck, pickCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
@@ -6,7 +6,6 @@ import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
 import { CardCollection } from "../model/Collection";
 import { debugLog } from "../tools/Debug";
-import { SliderAndValue } from "./SliderAndValue";
 
 export type DeckViewProps = {
     collection: CardCollection,
