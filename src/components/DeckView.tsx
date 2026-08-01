@@ -86,9 +86,9 @@ export function DeckView(props: DeckViewProps) {
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
     }
-    const nbSelected = deckCard?.selected ?? 0;
     const getDeckDetailsView = (id: CardId) => {
         const deckCard = deckMap.get(id);
+        const nbSelected = deckCard?.selected ?? 0; // max selectable = available + currently selected
         return (
           <FlexBox direction={FlexBoxDirection.Column}>
             <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween} alignItems="Center">
