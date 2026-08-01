@@ -67,9 +67,9 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
 }
 
 function getDeckKey(deck: Deck) {
-  const BASE="DECK";
+  const BASE="DECK-";
   const nbCards = deck.reduce((total, card) => total + (card?.selected ?? 0), 0);
-  return ˋ${BASE}-${nbCards}ˋ;
+  return BASE + nbCards.toString();
 }
 
 export function DeckView(props: DeckViewProps) {
