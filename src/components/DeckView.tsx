@@ -7,6 +7,9 @@ import { useState } from "react";
 import { CardCollection } from "../model/Collection";
 import { debugLog } from "../tools/Debug";
 
+// TODO Ajouter une FlexBox pour faire l'arrangement vertical (au lieu du composant vide)
+// TODO Comprendre pourquoi le displayedCards ne descend pas correctement
+
 export type DeckViewProps = {
     collection: CardCollection,
     cardDefinitions: Card[]
