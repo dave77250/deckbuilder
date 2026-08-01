@@ -86,13 +86,14 @@ export function DeckView(props: DeckViewProps) {
     const setIncluded = (id: CardId, nb:number) => {
       setDeck(pickCard(deck, props.cardDefinitions, id, nb));
     }
+    const nbSelected = deckCard?.selected ?? 0;
     const getDeckDetailsView = (id: CardId) => {
         const deckCard = deckMap.get(id);
         return (
           <FlexBox direction={FlexBoxDirection.Column}>
             <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween} alignItems="Center">
               <Text>In deck:</Text>
-              <StepInput min={0} max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onChange={(event) => {
+              <StepInput min={0} max={nbSelected + getAvailable(deckCard)} value={nbSelected} onChange={(event) => {
                 setIncluded(id, event.target.value);
               }}/>
             </FlexBox>
