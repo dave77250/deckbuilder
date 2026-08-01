@@ -90,7 +90,7 @@ export function DeckView(props: DeckViewProps) {
         const deckCard = deckMap.get(id);
         return (
           <FlexBox direction={FlexBoxDirection.Column}>
-            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
+            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween} alignItems="Center">
               <Text>In deck:</Text>
               <StepInput min={0} max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onChange={(event) => {
                 setIncluded(id, event.target.value);
