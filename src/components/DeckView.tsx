@@ -92,7 +92,11 @@ export function DeckView(props: DeckViewProps) {
           <FlexBox direction={FlexBoxDirection.Column}>
             <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween}>
               <Text>In deck:</Text>
-              <StepInput min={0} max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onInput={(event) => { setIncluded(id, event.target.value); }}/>
+              <StepInput min={0} max={getAvailable(deckCard)} value={deckCard?.selected ?? 0} onInput={(event) => {
+                debugLog("stepInput onInput");
+                debugLog(event);
+                setIncluded(id, event.target.value);
+              }}/>
             </FlexBox>
             <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
             <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
