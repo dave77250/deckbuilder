@@ -66,6 +66,12 @@ function getHeaderMessage(state: DeckBuilderState, doCompleteDeck: () => void, d
     }
 }
 
+function getDeckKey(deck: Deck) {
+  const BASE="DECK";
+  const nbCards = deck.reduce((total, card) => total + (card?.selected ?? 0), 0);
+  return ˋ${BASE}-${nbCards}ˋ;
+}
+
 export function DeckView(props: DeckViewProps) {
     const [deck, setDeck] = useState(createDeck(props.collection));
     const [showDeckCardsOnly, setShowDeckCardsOnly] = useState(false);
@@ -120,6 +126,7 @@ export function DeckView(props: DeckViewProps) {
           setDeck(completeDeck(deck, props.cardDefinitions));
           }, () => {debugLog("New deck placeholder")})}
         <SearchableCardGrid
+          key={getDeckKey(deck)}
           cardCollection={displayedCards}
           getExtraCardComponent={getDeckDetailsView}
           extraToolBarComponent={extraToolbar}
