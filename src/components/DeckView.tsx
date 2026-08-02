@@ -107,6 +107,7 @@ export function DeckView(props: DeckViewProps) {
                 setIncluded(id, event.target.value);
               }}/>
             </FlexBox>
+            <Text>{`Card id : ${id}`}</Text>
             <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
             <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
             <Text>{`Unavail. : ${deckCard?.unavailable ?? 0}`}</Text>
