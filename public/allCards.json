@@ -1,7 +1,7 @@
 {
   "metadata": {
     "formatVersion": "2.3.4",
-    "generatedOn": "2026-07-24T17:37:25",
+    "generatedOn": "2026-07-28T19:05:03",
     "language": "fr"
   },
   "sets": {
@@ -321,8 +321,8 @@
       "cardCounts": {
         "base": 207,
         "nonBase": 38,
-        "promo": 11,
-        "total": 256
+        "promo": 16,
+        "total": 261
       }
     },
     "14": {
@@ -577,6 +577,9 @@
       "lore": 1,
       "name": "Ariel",
       "number": 2,
+      "promoIds": [
+        3237
+      ],
       "rarity": "Tr\u00e8s Rare",
       "setCode": "1",
       "simpleName": "ariel chanteuse exceptionnelle",
@@ -2128,7 +2131,8 @@
       "number": 23,
       "promoIds": [
         660,
-        688
+        688,
+        3245
       ],
       "rarity": "Tr\u00e8s Rare",
       "reprintedAsIds": [
@@ -13930,7 +13934,8 @@
       "name": "La F\u00e9e Clochette",
       "number": 193,
       "promoIds": [
-        2188
+        2188,
+        3242
       ],
       "rarity": "Tr\u00e8s Rare",
       "reprintedAsIds": [
@@ -15644,7 +15649,8 @@
       "name": "La F\u00e9e Clochette",
       "number": 216,
       "promoIds": [
-        2188
+        2188,
+        3242
       ],
       "rarity": "Enchant\u00e9e",
       "setCode": "1",
@@ -56070,7 +56076,8 @@
       "name": "Mulan",
       "number": 114,
       "promoIds": [
-        948
+        948,
+        3240
       ],
       "rarity": "L\u00e9gendaire",
       "reprintedAsIds": [
@@ -58881,6 +58888,9 @@
       "lore": 3,
       "name": "Raiponce",
       "number": 153,
+      "promoIds": [
+        3243
+      ],
       "rarity": "Rare",
       "setCode": "4",
       "simpleName": "raiponce artiste sensible",
@@ -73869,6 +73879,9 @@
       "lore": 1,
       "name": "Donald",
       "number": 107,
+      "promoIds": [
+        3244
+      ],
       "rarity": "L\u00e9gendaire",
       "setCode": "5",
       "simpleName": "donald lanceur de tartes",
@@ -81296,6 +81309,9 @@
       "lore": 1,
       "name": "Donald",
       "number": 214,
+      "promoIds": [
+        3244
+      ],
       "rarity": "Enchant\u00e9e",
       "setCode": "5",
       "simpleName": "donald lanceur de tartes",
@@ -87286,6 +87302,9 @@
       "lore": 1,
       "name": "Jasmine",
       "number": 70,
+      "promoIds": [
+        3239
+      ],
       "rarity": "Rare",
       "setCode": "6",
       "simpleName": "jasmine navigatrice royale",
@@ -102617,6 +102636,9 @@
       "lore": 1,
       "name": "Elsa",
       "number": 55,
+      "promoIds": [
+        3238
+      ],
       "rarity": "Commune",
       "setCode": "7",
       "simpleName": "elsa soeur de confiance",
@@ -126509,6 +126531,9 @@
       "lore": 2,
       "name": "Anna",
       "number": 157,
+      "promoIds": [
+        3241
+      ],
       "rarity": "Commune",
       "setCode": "8",
       "simpleName": "anna soeur confiante",
@@ -134795,7 +134820,8 @@
       "number": 3,
       "promoIds": [
         660,
-        688
+        688,
+        3245
       ],
       "rarity": "Tr\u00e8s Rare",
       "reprintOfId": 23,
@@ -143610,7 +143636,8 @@
       "name": "Mulan",
       "number": 126,
       "promoIds": [
-        948
+        948,
+        3240
       ],
       "rarity": "Tr\u00e8s Rare",
       "reprintOfId": 805,
@@ -147997,7 +148024,8 @@
       "name": "La F\u00e9e Clochette",
       "number": 188,
       "promoIds": [
-        2188
+        2188,
+        3242
       ],
       "rarity": "Tr\u00e8s Rare",
       "reprintOfId": 193,
@@ -205854,6 +205882,9 @@
       "lore": 2,
       "name": "Woody",
       "number": 1,
+      "promoIds": [
+        3236
+      ],
       "rarity": "Rare",
       "setCode": "13",
       "simpleName": "woody aide une amie",
@@ -207485,6 +207516,9 @@
       "lore": 1,
       "name": "Sulli",
       "number": 24,
+      "promoIds": [
+        3235
+      ],
       "rarity": "Tr\u00e8s Rare",
       "setCode": "13",
       "simpleName": "sulli le nouveau boss",
@@ -208167,6 +208201,9 @@
       "inkwell": true,
       "name": "Si je ne t'avais pas",
       "number": 32,
+      "promoIds": [
+        3222
+      ],
       "rarity": "Commune",
       "setCode": "13",
       "simpleName": "si je ne t'avais pas",
@@ -214806,6 +214843,9 @@
       "lore": 0,
       "name": "Tigrou",
       "number": 126,
+      "promoIds": [
+        3220
+      ],
       "rarity": "Rare",
       "setCode": "13",
       "simpleName": "tigrou barbare mellifique",
@@ -216363,6 +216403,9 @@
       "lore": 1,
       "name": "Belle",
       "number": 148,
+      "promoIds": [
+        3221
+      ],
       "rarity": "Commune",
       "setCode": "13",
       "simpleName": "belle toujours en train de lire",
@@ -220229,6 +220272,7 @@
       ],
       "id": 3176,
       "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set13/205_a30575e72bcb5ed1da653e8dd98a3c6802919b70.jpg",
         "full": "https://api.lorcana.ravensburger.com/images/fr/set13/205_586ae8eaee396c73715fddbdd39215746598c601.jpg",
         "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set13/205_0352f12caf6a530468180c64ef0acd918cf4c077.jpg"
       },
@@ -220293,6 +220337,7 @@
       ],
       "id": 3177,
       "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set13/206_1e54cc14315c1401e6cf148ecf1178c6858beb7a.jpg",
         "full": "https://api.lorcana.ravensburger.com/images/fr/set13/206_a770b8f2bcb5406273867c3a5be9f57d9bf1e9b7.jpg",
         "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set13/206_eaf003f334bd1bb33f695f9701ffa77b5dcc3541.jpg"
       },
@@ -220350,6 +220395,7 @@
       ],
       "id": 3178,
       "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set13/207_8174703424233720a994fd251f08fa0e01396970.jpg",
         "full": "https://api.lorcana.ravensburger.com/images/fr/set13/207_dc273ef6ae2c7797b2846dc446267a3008281265.jpg",
         "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set13/207_b9da85c14306c18191fa4e01dc61bf1b227114a2.jpg"
       },
@@ -223706,6 +223752,217 @@
     {
       "abilities": [
         {
+          "fullText": "Combattant (Ce personnage ne peut pas \u00eatre envoy\u00e9 \u00e0\nl'aventure et doit d\u00e9fier \u00e0 chaque tour s'il le peut.)",
+          "keyword": "Combattant",
+          "reminderText": "Ce personnage ne peut pas \u00eatre envoy\u00e9 \u00e0 l'aventure et doit d\u00e9fier \u00e0 chaque tour s'il le peut.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Une fois durant votre tour, lorsque ce personnage en d\u00e9fie un autre, vous pouvez choisir un personnage Miel et le redresser. Si vous le faites, ce personnage-l\u00e0 ne peut pas \u00eatre envoy\u00e9 \u00e0 l'aventure pour le reste de ce tour.",
+          "fullText": "CHARGE PROTECTRICE Une fois durant votre tour, lorsque\nce personnage en d\u00e9fie un autre, vous pouvez choisir\nun personnage Miel et le redresser. Si vous le faites, ce\npersonnage-l\u00e0 ne peut pas \u00eatre envoy\u00e9 \u00e0 l'aventure pour\nle reste de ce tour.",
+          "name": "CHARGE PROTECTRICE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-07-17",
+      "artists": [
+        "Simone Giovanardi"
+      ],
+      "artistsText": "Simone Giovanardi",
+      "baseId": 3097,
+      "code": "PW",
+      "color": "Rubis",
+      "cost": 4,
+      "externalLinks": {
+        "cardTraderId": 401866,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/401866",
+        "cardmarketId": 898172,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-4/Tigger-Hunny-Barbarian?language=2"
+      },
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "12/P4 \u2022 FR \u2022 13",
+      "fullName": "Tigrou - Barbare mellifique",
+      "fullText": "Combattant (Ce personnage ne peut pas \u00eatre envoy\u00e9 \u00e0\nl'aventure et doit d\u00e9fier \u00e0 chaque tour s'il le peut.)\nCHARGE PROTECTRICE Une fois durant votre tour, lorsque\nce personnage en d\u00e9fie un autre, vous pouvez choisir\nun personnage Miel et le redresser. Si vous le faites, ce\npersonnage-l\u00e0 ne peut pas \u00eatre envoy\u00e9 \u00e0 l'aventure pour\nle reste de ce tour.",
+      "fullTextSections": [
+        "Combattant (Ce personnage ne peut pas \u00eatre envoy\u00e9 \u00e0\nl'aventure et doit d\u00e9fier \u00e0 chaque tour s'il le peut.)",
+        "CHARGE PROTECTRICE Une fois durant votre tour, lorsque\nce personnage en d\u00e9fie un autre, vous pouvez choisir\nun personnage Miel et le redresser. Si vous le faites, ce\npersonnage-l\u00e0 ne peut pas \u00eatre envoy\u00e9 \u00e0 l'aventure pour\nle reste de ce tour."
+      ],
+      "id": 3220,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo4/12_2ce924d063ecb0497cb8175393ac6ede83042c1c.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo4/12_edb026c90926f558610c3317199e334f92e6ae0b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo4/12_98fb4cc4acccb005f4e33b0463bf70838743d410.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Combattant"
+      ],
+      "lore": 0,
+      "name": "Tigrou",
+      "number": 12,
+      "promoGrouping": "P4",
+      "promoSourceCategory": "Promo",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "13",
+      "simpleName": "tigrou barbare mellifique",
+      "story": "Winnie l'Ourson",
+      "strength": 5,
+      "subtypes": [
+        "Dreamborn",
+        "Alli\u00e9",
+        "Tigrou",
+        "Miel"
+      ],
+      "subtypesText": "Dreamborn \u2022 Alli\u00e9 \u2022 Tigrou \u2022 Miel",
+      "type": "Personnage",
+      "version": "Barbare mellifique",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Jouer un personnage sur ce personnage-ci via une capacit\u00e9 Alter vous co\u00fbte 1 \u2b21 de moins.",
+          "fullText": "R\u00caVE DE MIEUX Jouer un personnage sur ce\npersonnage-ci via une capacit\u00e9 Alter vous co\u00fbte 1 \u2b21\nde moins.",
+          "name": "R\u00caVE DE MIEUX",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-07-17",
+      "artists": [
+        "Pauline Voss"
+      ],
+      "artistsText": "Pauline Voss",
+      "baseId": 3119,
+      "code": "PX",
+      "color": "Saphir",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 401872,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/401872",
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-4/Belle-Always-Reading?language=2"
+      },
+      "flavorText": "\u201cJe viens de terminer une merveilleuse histoire \u00e0 propos\nd'un ogre, du roi, des haricots et\u2026\u201d",
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "13/P4 \u2022 FR \u2022 13",
+      "fullName": "Belle - Toujours en train de lire",
+      "fullText": "R\u00caVE DE MIEUX Jouer un personnage sur ce\npersonnage-ci via une capacit\u00e9 Alter vous co\u00fbte 1 \u2b21\nde moins.",
+      "fullTextSections": [
+        "R\u00caVE DE MIEUX Jouer un personnage sur ce\npersonnage-ci via une capacit\u00e9 Alter vous co\u00fbte 1 \u2b21\nde moins."
+      ],
+      "id": 3221,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo4/13_7154cb9b774313966560c39132004bc9f558932e.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo4/13_d4b202a60fc9d61f65cedd25a2ed65637a009812.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo4/13_d6f6565a5cdd8987f2a9f0535467ca0a6b0fe1e0.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Belle",
+      "number": 13,
+      "promoGrouping": "P4",
+      "promoSourceCategory": "Jeu Organis\u00e9",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "13",
+      "simpleName": "belle toujours en train de lire",
+      "story": "La Belle et la B\u00eate",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "H\u00e9ros",
+        "Princesse"
+      ],
+      "subtypesText": "Storyborn \u2022 H\u00e9ros \u2022 Princesse",
+      "type": "Personnage",
+      "version": "Toujours en train de lire",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Vous pouvez \u27f3 un personnage co\u00fbtant 3 ou plus pour chanter cette chanson gratuitement.",
+          "fullText": "(Vous pouvez \u27f3 un personnage co\u00fbtant 3 ou plus pour\nchanter cette chanson gratuitement.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-07-17",
+      "artists": [
+        "Saulo Nate"
+      ],
+      "artistsText": "Saulo Nate",
+      "baseId": 3003,
+      "code": "PY",
+      "color": "Ambre",
+      "cost": 3,
+      "effects": [
+        "Vous et un autre joueur de votre choix piochez chacun\n2 cartes."
+      ],
+      "externalLinks": {
+        "cardTraderId": 401871,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/401871",
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-4/If-I-Didnt-Have-You?language=2"
+      },
+      "foilTypes": [
+        "Silver"
+      ],
+      "fullIdentifier": "14/P4 \u2022 FR \u2022 13",
+      "fullName": "Si je ne t'avais pas",
+      "fullText": "(Vous pouvez \u27f3 un personnage co\u00fbtant 3 ou plus pour\nchanter cette chanson gratuitement.)\nVous et un autre joueur de votre choix piochez chacun\n2 cartes.",
+      "fullTextSections": [
+        "(Vous pouvez \u27f3 un personnage co\u00fbtant 3 ou plus pour\nchanter cette chanson gratuitement.)",
+        "Vous et un autre joueur de votre choix piochez chacun\n2 cartes."
+      ],
+      "id": 3222,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo4/14_bd5cb18815f9e48f2bc35881ad8b05974b6cceac.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo4/14_12cfe0c54a3db9b837be58c19cc2c359c13d5b22.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo4/14_027eeca2819485f466215569e22385869aca2950.jpg"
+      },
+      "inkwell": true,
+      "name": "Si je ne t'avais pas",
+      "number": 14,
+      "promoGrouping": "P4",
+      "promoSourceCategory": "Jeu Organis\u00e9",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "13",
+      "simpleName": "si je ne t'avais pas",
+      "story": "Monstres & Cie",
+      "subtypes": [
+        "Chanson"
+      ],
+      "subtypesText": "Chanson",
+      "type": "Action"
+    },
+    {
+      "abilities": [
+        {
           "effect": "Une fois durant votre tour, vous pouvez d\u00e9fausser une carte pour donner +1 \u25ca et Insaisissable \u00e0 ce personnage jusqu'au d\u00e9but de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent d\u00e9fier ce personnage.)",
           "fullText": "SOIF D'AVENTURE Une fois durant votre tour, vous\npouvez d\u00e9fausser une carte pour donner +1 \u25ca et\nInsaisissable \u00e0 ce personnage jusqu'au d\u00e9but de\nvotre prochain tour. (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
           "name": "SOIF D'AVENTURE",
@@ -224439,6 +224696,142 @@
       "type": "Personnage",
       "version": "\u00c9talon implacable",
       "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Rempart (Ce personnage peut entrer en jeu \u00e9puis\u00e9. Lorsqu'il\nd\u00e9fie l'un de vos personnages, un personnage adverse doit,\ns'il le peut, choisir l'un de vos personnages avec Rempart.)",
+          "keyword": "Rempart",
+          "reminderText": "Ce personnage peut entrer en jeu \u00e9puis\u00e9. Lorsqu'il d\u00e9fie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Lorsque vous jouez ce personnage, vous pouvez renvoyer dans votre main une carte Personnage de votre d\u00e9fausse.",
+          "fullText": "R\u00c9EMBAUCHER Lorsque vous jouez ce personnage, vous\npouvez renvoyer dans votre main une carte Personnage\nde votre d\u00e9fausse.",
+          "name": "R\u00c9EMBAUCHER",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-07-17",
+      "artists": [
+        "Anna Stosik"
+      ],
+      "artistsText": "Anna Stosik",
+      "baseId": 2995,
+      "code": "Qb",
+      "color": "Ambre",
+      "cost": 5,
+      "externalLinks": {},
+      "foilTypes": [
+        "RainbowPillars"
+      ],
+      "fullIdentifier": "58/P3 \u2022 FR \u2022 13",
+      "fullName": "Sulli - Le nouveau Boss",
+      "fullText": "Rempart (Ce personnage peut entrer en jeu \u00e9puis\u00e9. Lorsqu'il\nd\u00e9fie l'un de vos personnages, un personnage adverse doit,\ns'il le peut, choisir l'un de vos personnages avec Rempart.)\nR\u00c9EMBAUCHER Lorsque vous jouez ce personnage, vous\npouvez renvoyer dans votre main une carte Personnage\nde votre d\u00e9fausse.",
+      "fullTextSections": [
+        "Rempart (Ce personnage peut entrer en jeu \u00e9puis\u00e9. Lorsqu'il\nd\u00e9fie l'un de vos personnages, un personnage adverse doit,\ns'il le peut, choisir l'un de vos personnages avec Rempart.)",
+        "R\u00c9EMBAUCHER Lorsque vous jouez ce personnage, vous\npouvez renvoyer dans votre main une carte Personnage\nde votre d\u00e9fausse."
+      ],
+      "id": 3235,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo3/58_4b3ad72c5c10bfc4a05f538b10d26088bb8f2dc6.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/58_c3db361aef8028db50d265d98b71214796ab4f36.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/58_23fc0c7819121d08354e04b257743519c86f9e56.jpg"
+      },
+      "inkwell": false,
+      "keywordAbilities": [
+        "Rempart"
+      ],
+      "lore": 1,
+      "name": "Sulli",
+      "number": 58,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Promo",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "13",
+      "simpleName": "sulli le nouveau boss",
+      "story": "Monstres & Cie",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "H\u00e9ros",
+        "Monstre"
+      ],
+      "subtypesText": "Storyborn \u2022 H\u00e9ros \u2022 Monstre",
+      "type": "Personnage",
+      "version": "Le nouveau Boss",
+      "willpower": 4
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, choisissez l'une de ces options. Si vous avez un autre personnage Jouet en jeu, choisissez les deux \u00e0 la place : \u2022 Vous pouvez renvoyer dans votre main une carte Personnage co\u00fbtant 2 ou moins de votre d\u00e9fausse. \u2022 Vous pouvez jouer gratuitement un personnage co\u00fbtant 2 ou moins.",
+          "fullText": "TIENS BON ! Lorsque vous jouez ce personnage, choisissez\nl'une de ces options. Si vous avez un autre personnage Jouet\nen jeu, choisissez les deux \u00e0 la place :\n\u2022 Vous pouvez renvoyer dans votre main une carte Personnage\nco\u00fbtant 2 ou moins de votre d\u00e9fausse.\n\u2022 Vous pouvez jouer gratuitement un personnage co\u00fbtant\n2 ou moins.",
+          "name": "TIENS BON !",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-07-17",
+      "artists": [
+        "Marcel Berg"
+      ],
+      "artistsText": "Marcel Berg",
+      "baseId": 2972,
+      "code": "Qc",
+      "color": "Ambre",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "RainbowPillars"
+      ],
+      "fullIdentifier": "60/P3 \u2022 FR \u2022 13",
+      "fullName": "Woody - Aide une amie",
+      "fullText": "TIENS BON ! Lorsque vous jouez ce personnage, choisissez\nl'une de ces options. Si vous avez un autre personnage Jouet\nen jeu, choisissez les deux \u00e0 la place :\n\u2022 Vous pouvez renvoyer dans votre main une carte Personnage\nco\u00fbtant 2 ou moins de votre d\u00e9fausse.\n\u2022 Vous pouvez jouer gratuitement un personnage co\u00fbtant\n2 ou moins.",
+      "fullTextSections": [
+        "TIENS BON ! Lorsque vous jouez ce personnage, choisissez\nl'une de ces options. Si vous avez un autre personnage Jouet\nen jeu, choisissez les deux \u00e0 la place :\n\u2022 Vous pouvez renvoyer dans votre main une carte Personnage\nco\u00fbtant 2 ou moins de votre d\u00e9fausse.\n\u2022 Vous pouvez jouer gratuitement un personnage co\u00fbtant\n2 ou moins."
+      ],
+      "id": 3236,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo3/60_d63a163e84493024f9453227db3dab10e7a62c01.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/60_e88cec006ac2c11c67caa3d66f9313f3e22d73e2.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/60_cb10fefadc600804118502e34660c8129077c446.jpg"
+      },
+      "inkwell": false,
+      "lore": 2,
+      "name": "Woody",
+      "number": 60,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Promo",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "13",
+      "simpleName": "woody aide une amie",
+      "story": "Toy Story",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "H\u00e9ros",
+        "Jouet"
+      ],
+      "subtypesText": "Storyborn \u2022 H\u00e9ros \u2022 Jouet",
+      "type": "Personnage",
+      "version": "Aide une amie",
+      "willpower": 4
     }
   ]
 }
