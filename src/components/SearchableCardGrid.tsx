@@ -46,7 +46,7 @@ colorMap.set("Saphir-Acier", SAPPHIRE + " " + STEEL);
 
 export function SearchableCardGrid(props: SeachableCardGridProps) {
     const [cardCollection, setCardCollection] = useState(props.cardCollection);
-    const [displayedCards, setDisplayedCards] = useState(props.cardCollection);
+    const [displayedCards, setDisplayedCards] = useState(cardCollection);
     const [nbCols, setNbCols] = useState(getColumns()) ;
 
     if (cardCollection !== props.cardCollection) {
