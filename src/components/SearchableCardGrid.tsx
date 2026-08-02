@@ -45,14 +45,20 @@ colorMap.set("Rubis-Saphir", RUBY + " " + SAPPHIRE);
 colorMap.set("Saphir-Acier", SAPPHIRE + " " + STEEL);
 
 export function SearchableCardGrid(props: SeachableCardGridProps) {
+    const [cardCollection, setCardCollection] = useState(props.cardCollection);
     const [displayedCards, setDisplayedCards] = useState(props.cardCollection);
     const [nbCols, setNbCols] = useState(getColumns()) ;
+
+    if (cardCollection !== props.cardCollection) {
+        setCardCollection(props.cardCollection);
+    }
+
     const changeNbCols = (nbCols: number) => {
         setNbCols(nbCols);
         setColumns(nbCols);
     }
     const performSearch = (searchedText: string) => {
-        const foundCards = props.cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchedText.toLocaleUpperCase()) !== -1);
+        const foundCards = cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchedText.toLocaleUpperCase()) !== -1);
         setDisplayedCards(foundCards);
     }
     return (
