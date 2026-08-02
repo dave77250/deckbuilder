@@ -83,7 +83,7 @@ export function DeckView(props: DeckViewProps) {
     deck.forEach(dc => {
       deckMap.set(dc.id, dc);
     });
-    debugLog("showDeckCardsOnly is " + (showDeckCardsOnly?"true":"false"));
+    debugLog("rendering DeckView");
     const shouldDisplayCard: (card: DeckCard) => boolean = showDeckCardsOnly
       ? (card) => (card.selected > 0)
       : (card) => ((getAvailable(card) > 0) || (card.selected > 0));
@@ -122,6 +122,8 @@ export function DeckView(props: DeckViewProps) {
       }}/>
       <Label>{showDeckCardsOnly?"Cartes du deck":"Toutes les cartes"}</Label>
     </FlexBox>;
+    const deckKey = getDeckKey(deck);
+    debugLog("deck key is " + deckKey);
     return (
       <>
         {getHeaderMessage(deckState, () => {
@@ -129,7 +131,7 @@ export function DeckView(props: DeckViewProps) {
           setDeck(completeDeck(deck, props.cardDefinitions));
           }, () => {debugLog("New deck placeholder")})}
         <SearchableCardGrid
-          key={getDeckKey(deck)}
+          key={deckKey}
           cardCollection={displayedCards}
           getExtraCardComponent={getDeckDetailsView}
           extraToolBarComponent={extraToolbar}
