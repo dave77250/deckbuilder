@@ -1,6 +1,6 @@
 import { FlexBox, FlexBoxDirection } from "@ui5/webcomponents-react";
 import { PropsWithChildren, ReactElement } from "react";
-import { useIsVisible } from "./UseIsVisible";
+import { useIsVisible } from './UseIsVisible';
 
 export type GridProps = {
     columns: number
@@ -20,9 +20,9 @@ function GridRow(props: GridRowProps) {
   return (
     <div ref={ref} style={{ minHeight: 200 }}>
       {isVisible ? (
-        <FlexBox key={`row-${position}`}direction={FlexBoxDirection.Row} style={{width: '100%'}}>
+        <FlexBox direction={FlexBoxDirection.Row} style={{width: '100%'}}>
             {props.elements.map((i, index) => (
-                <FlexBox key={`cell-${position+index}`}direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/props.columns)}%`}}>
+                <FlexBox direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/props.columns)}%`}}>
                     {i}
                 </FlexBox>
             ))}
@@ -36,7 +36,7 @@ function GridRow(props: GridRowProps) {
 
 function renderRow(elements: ReactElement[], position: number, columns: number) {
     const items = elements.slice(position, Math.min(position + columns, elements.length))
-    return <GridRow elements={items} columns={props.columns}/>;
+    return <GridRow elements={items} columns={columns}/>;
 }
 
 export function BasicGrid(props: PropsWithChildren<GridProps>) {

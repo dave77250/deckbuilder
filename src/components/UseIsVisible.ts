@@ -9,7 +9,7 @@ interface UseIsVisibleOptions {
 
 function useIsVisible<T extends Element = HTMLDivElement>(
   { root = null, rootMargin = '0px', threshold = 0, once = false }: UseIsVisibleOptions = {}
-): [RefObject<T>, boolean] {
+): [RefObject<T | null>, boolean] {
   const ref = useRef<T>(null);
   const [isVisible, setIsVisible] = useState(false);
 
