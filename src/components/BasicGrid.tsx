@@ -21,7 +21,7 @@ function GridRow(props: GridRowProps) {
     <div ref={ref} style={{ minHeight: 200 }}>
       {isVisible ? (
         <FlexBox direction={FlexBoxDirection.Row} style={{width: '100%'}}>
-            {props.elements.map((i, index) => (
+            {props.elements.map((i) => (
                 <FlexBox direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/props.columns)}%`}}>
                     {i}
                 </FlexBox>

@@ -7,7 +7,7 @@ interface UseIsVisibleOptions {
   once?: boolean; // disconnect after first time it becomes visible
 }
 
-function useIsVisible<T extends Element = HTMLDivElement>(
+export function useIsVisible<T extends Element = HTMLDivElement>(
   { root = null, rootMargin = '0px', threshold = 0, once = false }: UseIsVisibleOptions = {}
 ): [RefObject<T | null>, boolean] {
   const ref = useRef<T>(null);
@@ -33,5 +33,3 @@ function useIsVisible<T extends Element = HTMLDivElement>(
 
   return [ref, isVisible];
 }
-
-export default useIsVisible;
