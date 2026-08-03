@@ -28,7 +28,7 @@ function GridRow(props: GridRowProps) {
             ))}
         </FlexBox>
       ) : (
-        <div className="placeholder" style={{ width: '100%', height: 200, background: 'green' }} />
+        <div className="placeholder" style={{ width: '100%', height: 200, background: 'white' }} />
       )}
     </div>
   );
