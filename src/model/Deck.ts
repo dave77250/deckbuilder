@@ -38,8 +38,7 @@ export function createDeck(collection: CardCollection): Deck {
             result.push(createDeckCardFrom(id, owned));
         }
     });
-    // Now ensure that at most 4 of each card is available
-    return result.map(dc => setMaxSelectable(dc, 4));
+    return result;
 }
 
 export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: number) {
