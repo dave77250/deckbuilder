@@ -111,7 +111,6 @@ export function DeckView(props: DeckViewProps) {
             <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
             <Text>{`Usable : ${deckCard?.isUsable ?? 'unknown'}`}</Text>
             <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
-            <Text>{`Unavail. : ${deckCard?.unavailable ?? 0}`}</Text>
             <Text>{`Avail. : ${getAvailable(deckCard)}`}</Text>
           </FlexBox>
         );

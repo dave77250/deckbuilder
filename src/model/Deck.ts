@@ -1,5 +1,5 @@
 import { CardId, Card } from "./Card";
-import { DeckCard, createDeckCardFrom, getAvailable, setUsable, pick, setMaxSelectable, exclude } from "./DeckCard";
+import { DeckCard, createDeckCardFrom, getAvailable, setUsable, pick, exclude } from "./DeckCard";
 import { CardCollection } from "./Collection";
 import { debugLog } from "../tools/Debug";
 
@@ -44,7 +44,7 @@ export function createDeck(collection: CardCollection): Deck {
 
 export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: number) {
     // reset usability for all cards
-    var result = deck.map(c => setUsable(true));
+    var result = deck.map(c => setUsable(c, true));
     // pick the desired card
     result = result.map( c => c.id === id? pick(c, picked): c);
     // now check the colors rule, and exclude cards of the wrong colors
