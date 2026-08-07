@@ -45,25 +45,20 @@ colorMap.set("Rubis-Saphir", RUBY + " " + SAPPHIRE);
 colorMap.set("Saphir-Acier", SAPPHIRE + " " + STEEL);
 
 export function SearchableCardGrid(props: SeachableCardGridProps) {
-    const [cardCollection, setCardCollection] = useState(props.cardCollection);
-    const [displayedCards, setDisplayedCards] = useState(cardCollection);
+    const [searchText, setSearchText] = useState("");
     const [nbCols, setNbCols] = useState(getColumns()) ;
-
-    if (cardCollection !== props.cardCollection) {
-        setCardCollection(props.cardCollection);
-    }
 
     const changeNbCols = (nbCols: number) => {
         setNbCols(nbCols);
         setColumns(nbCols);
     }
-    const performSearch = (searchedText: string) => {
-        const foundCards = cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchedText.toLocaleUpperCase()) !== -1);
-        setDisplayedCards(foundCards);
-    }
+    const displayedCards = searchText !== ""
+        ? props.cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchText.toLocaleUpperCase()) !== -1)
+        : props.cardCollection;
+
     return (
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
-            <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={performSearch} extraToolBarComponent={props.extraToolBarComponent}/>
+            <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={setSearchText} extraToolBarComponent={props.extraToolBarComponent}/>
             { displayedCards.length > 0
             ? <BasicGrid columns={nbCols}>
                 {displayedCards.map(card => {
