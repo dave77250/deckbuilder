@@ -123,7 +123,7 @@ export function DeckView(props: DeckViewProps) {
       }}/>
       <Label>{showDeckCardsOnly?"Cartes du deck":"Toutes les cartes"}</Label>
     </FlexBox>;
-    const deckKey = getDeckKey(deck) + '-' + showDeckCardsOnly?'deckOnly':'allCards';
+    const deckKey = getDeckKey(deck) + '-' + (showDeckCardsOnly?'deckOnly':'allCards');
     debugLog("deck key is " + deckKey);
     return (
       <>
