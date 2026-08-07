@@ -1,6 +1,6 @@
 import { StepInput, Label, Switch, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
-import { createDeck, pickCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck } from "../model/Deck";
+import { createDeck, pickCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck, MAX_IDENTICAL_CARDS } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
 import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
@@ -86,7 +86,7 @@ export function DeckView(props: DeckViewProps) {
     debugLog("rendering DeckView");
     const shouldDisplayCard: (card: DeckCard) => boolean = showDeckCardsOnly
       ? (card) => (card.selected > 0)
-      : (card) => ((getAvailable(card) > 0) || (card.selected > 0));
+      : (card) => card.isUsable;
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
         const outcome = deckCard ? shouldDisplayCard(deckCard): false;
@@ -103,12 +103,13 @@ export function DeckView(props: DeckViewProps) {
           <FlexBox direction={FlexBoxDirection.Column}>
             <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween} alignItems="Center">
               <Text>In deck:</Text>
-              <StepInput min={0} max={nbSelected + getAvailable(deckCard)} value={nbSelected} onChange={(event) => {
+              <StepInput disabled={deckState === DeckBuilderState.CompleteDeck} min={0} max={Math.min(nbSelected + getAvailable(deckCard), MAX_IDENTICAL_CARDS)} value={nbSelected} onChange={(event) => {
                 setIncluded(id, event.target.value);
               }}/>
             </FlexBox>
             <Text>{`Card id : ${id}`}</Text>
             <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
+            <Text>{`Usable : ${deckCard?.isUsable ?? 'unknown'}`}</Text>
             <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
             <Text>{`Unavail. : ${deckCard?.unavailable ?? 0}`}</Text>
             <Text>{`Avail. : ${getAvailable(deckCard)}`}</Text>

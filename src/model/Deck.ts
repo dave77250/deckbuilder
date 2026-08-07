@@ -1,5 +1,5 @@
 import { CardId, Card } from "./Card";
-import { DeckCard, createDeckCardFrom, getAvailable, makeAvailable, makeUnavailable, pick, setMaxSelectable, exclude } from "./DeckCard";
+import { DeckCard, createDeckCardFrom, getAvailable, setUsable, pick, setMaxSelectable, exclude } from "./DeckCard";
 import { CardCollection } from "./Collection";
 import { debugLog } from "../tools/Debug";
 
@@ -43,8 +43,8 @@ export function createDeck(collection: CardCollection): Deck {
 }
 
 export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: number) {
-    // reset availability for all cards
-    var result = deck.map(makeAvailable);
+    // reset usability for all cards
+    var result = deck.map(c => setUsable(true));
     // pick the desired card
     result = result.map( c => c.id === id? pick(c, picked): c);
     // now check the colors rule, and exclude cards of the wrong colors
@@ -56,15 +56,17 @@ export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: numbe
             if (colors.find(col => col === color) !== undefined) {
                 return c;
             } else {
-                return makeUnavailable(c);
+                return setUsable(c, false);
             }
         });
     }
-    // Finally ensure there are no more than 4 of each card
+    // Finally ensure that if the deck is full, all non-selected cards are not usable
     // and the deck remains under the allowed size
     const currentDeckSize = getDeckSize(deck);
-    const remainingSize4Card = Math.min(DECK_SIZE - currentDeckSize, MAX_IDENTICAL_CARDS);
-    return result.map(c => setMaxSelectable(c, remainingSize4Card));
+    if (currentDeckSize >= DECK_SIZE) {
+        result = result.map(c => c.selected > 0 ? c : setUsable(c, false));
+    }
+    return result;
 }
 
 export function excludeCard(deck: Deck, id: CardId, excluded: number) {

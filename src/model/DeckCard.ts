@@ -3,7 +3,7 @@ import { CardId } from "./Card";
 export type DeckCard = {
     id: CardId,
     owned: number,
-    unavailable: number,
+    isUsable: boolean,
     excluded: number,
     selected: number
 }
@@ -12,7 +12,7 @@ export function createDeckCardFrom(id: CardId, owned: number): DeckCard {
     return {
         id,
         owned,
-        unavailable: 0,
+        isUsable: true,
         excluded: 0,
         selected: 0
     };
@@ -32,30 +32,13 @@ export function exclude(card: DeckCard, excluded: number): DeckCard {
     };
 }
 
-export function setMaxSelectable(card: DeckCard, maxSelectable: number): DeckCard {
-    const currentlyAvailable = card.owned - card.excluded - card.selected;
-    const unavailable = Math.max(0, currentlyAvailable - maxSelectable);
+export function setUsable(card: DeckCard, isUsable: boolean): DeckCard {
     return {
         ...card,
-        unavailable
-    };
-}
-
-export function makeUnavailable(card: DeckCard): DeckCard {
-    const currentlyAvailable = card.owned - card.excluded - card.selected;
-    return {
-        ...card,
-        unavailable: currentlyAvailable
-    };
-}
-
-export function makeAvailable(card: DeckCard): DeckCard {
-    return {
-        ...card,
-        unavailable: 0
+        isUsable
     };
 }
 
 export function getAvailable(card?: DeckCard): number {
-    return card? card.owned - card.unavailable - card.excluded - card.selected: 0;
+    return card? card.owned - card.excluded - card.selected: 0;
 }
