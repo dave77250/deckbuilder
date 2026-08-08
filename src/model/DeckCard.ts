@@ -40,5 +40,5 @@ export function setUsable(card: DeckCard, isUsable: boolean): DeckCard {
 }
 
 export function getAvailable(card?: DeckCard): number {
-    return card? card.owned - card.excluded - card.selected: 0;
+    return card?.isUsable ? card.owned - card.excluded - card.selected: 0;
 }
