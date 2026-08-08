@@ -61,7 +61,7 @@ export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: numbe
     }
     // Finally ensure that if the deck is full, all non-selected cards are not usable
     // and the deck remains under the allowed size
-    const currentDeckSize = getDeckSize(deck);
+    const currentDeckSize = getDeckSize(result);
     if (currentDeckSize >= DECK_SIZE) {
         result = result.map(c => c.selected > 0 ? c : setUsable(c, false));
     }
