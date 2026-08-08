@@ -47,7 +47,7 @@ export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: numbe
     // pick the desired card
     result = result.map( c => c.id === id? pick(c, picked): c);
     // now check the colors rule, and exclude cards of the wrong colors
-    const colors = getDeckColors(deck, allCards);
+    const colors = getDeckColors(result, allCards);
     if (colors.length >= MAX_COLORS) {
         const cardMap = makeCardMap(allCards);
         result = result.map(c => {
