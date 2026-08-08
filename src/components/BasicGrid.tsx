@@ -21,9 +21,9 @@ function GridRow(props: GridRowProps) {
     <div ref={ref} style={{ minHeight: 200 }}>
       {isVisible ? (
         <FlexBox direction={FlexBoxDirection.Row} style={{width: '100%'}}>
-            {props.elements.map((i) => (
-                <FlexBox direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/props.columns)}%`}}>
-                    {i}
+            {props.elements.map((el, idx) => (
+                <FlexBox key={(el.key ?? idx) as React.Key} direction={FlexBoxDirection.Row} style={{width: `${Math.floor(100/props.columns)}%`}}>
+                    {el}
                 </FlexBox>
             ))}
         </FlexBox>
@@ -35,8 +35,9 @@ function GridRow(props: GridRowProps) {
 }
 
 function renderRow(elements: ReactElement[], position: number, columns: number) {
-    const items = elements.slice(position, Math.min(position + columns, elements.length))
-    return <GridRow elements={items} columns={columns}/>;
+    const items = elements.slice(position, Math.min(position + columns, elements.length));
+    const rowKey = items.map(el => el.key).join('|') || `row-${position}`;
+    return <GridRow key={rowKey} elements={items} columns={columns}/>;
 }
 
 export function BasicGrid(props: PropsWithChildren<GridProps>) {
