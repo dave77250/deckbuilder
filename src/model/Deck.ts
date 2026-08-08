@@ -77,7 +77,7 @@ function getRandomInt(max: number) {
 }
 
 function addRandomCard(deck: Deck, allCards: Card[]) {
-    const availableCards = deck.filter(dc => { return getAvailable(dc) > 0; });
+    const availableCards = deck.filter(dc => { return dc.isUsable && (getAvailable(dc) > 0); });
     if (availableCards.length === 0) {
         return deck;
     }
