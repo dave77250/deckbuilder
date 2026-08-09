@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "formatVersion": "2.3.4",
-    "generatedOn": "2026-07-28T19:05:03",
+    "formatVersion": "2.3.5",
+    "generatedOn": "2026-08-02T19:16:31",
     "language": "fr"
   },
   "sets": {
@@ -297,8 +297,8 @@
       "cardCounts": {
         "base": 204,
         "nonBase": 38,
-        "promo": 7,
-        "total": 249
+        "promo": 8,
+        "total": 250
       }
     },
     "13": {
@@ -134468,6 +134468,9 @@
         "tcgPlayerId": 648600,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/648600"
       },
+      "foilEffectColors": [
+        "#79CC5E"
+      ],
       "foilTypes": [
         "SeaWave"
       ],
@@ -149172,6 +149175,9 @@
         "tcgPlayerId": 651110,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651110"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149241,6 +149247,9 @@
         "tcgPlayerId": 651122,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651122"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149318,6 +149327,9 @@
         "tcgPlayerId": 649230,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/649230"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149393,6 +149405,9 @@
         "tcgPlayerId": 651121,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651121"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149463,6 +149478,9 @@
         "tcgPlayerId": 651107,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651107"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149548,6 +149566,9 @@
         "tcgPlayerId": 651119,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651119"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149627,6 +149648,9 @@
         "tcgPlayerId": 651118,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651118"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149707,6 +149731,9 @@
         "tcgPlayerId": 651113,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651113"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149772,6 +149799,9 @@
         "tcgPlayerId": 651112,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651112"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149845,6 +149875,9 @@
         "tcgPlayerId": 651123,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651123"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -149933,6 +149966,9 @@
         "tcgPlayerId": 649231,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/649231"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150010,6 +150046,9 @@
         "tcgPlayerId": 651116,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651116"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150078,6 +150117,9 @@
         "tcgPlayerId": 651111,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651111"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150154,6 +150196,9 @@
         "tcgPlayerId": 651120,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651120"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150224,6 +150269,9 @@
         "tcgPlayerId": 651117,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651117"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150300,6 +150348,9 @@
         "tcgPlayerId": 649236,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/649236"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150376,6 +150427,9 @@
         "tcgPlayerId": 651108,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651108"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -150457,6 +150511,9 @@
         "tcgPlayerId": 651114,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651114"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -151847,6 +151904,9 @@
         "tcgPlayerId": 651106,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/651106"
       },
+      "foilEffectColors": [
+        "#FFB348"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -151930,6 +151990,9 @@
         "tcgPlayerId": 647663,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/647663"
       },
+      "foilEffectColors": [
+        "#FF474B"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -168301,6 +168364,9 @@
         "tcgPlayerId": 660365,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660365"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168383,6 +168449,9 @@
         "tcgPlayerId": 658449,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/658449"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168474,6 +168543,9 @@
         "tcgPlayerId": 658884,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/658884"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168542,6 +168614,9 @@
         "tcgPlayerId": 660044,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660044"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168623,6 +168698,9 @@
         "tcgPlayerId": 658215,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/658215"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168690,6 +168768,9 @@
         "tcgPlayerId": 660041,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660041"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168766,6 +168847,9 @@
         "tcgPlayerId": 660173,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660173"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168847,6 +168931,9 @@
         "tcgPlayerId": 659443,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/659443"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168915,6 +169002,9 @@
         "tcgPlayerId": 660027,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660027"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -168985,6 +169075,9 @@
         "tcgPlayerId": 660012,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660012"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169062,6 +169155,9 @@
         "tcgPlayerId": 660042,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660042"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169138,6 +169234,9 @@
         "tcgPlayerId": 660028,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660028"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169206,6 +169305,9 @@
         "tcgPlayerId": 660043,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660043"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169280,6 +169382,9 @@
         "tcgPlayerId": 660029,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660029"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169345,6 +169450,9 @@
         "tcgPlayerId": 660011,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660011"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169411,6 +169519,9 @@
         "tcgPlayerId": 660035,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660035"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169489,6 +169600,9 @@
         "tcgPlayerId": 660030,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660030"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169569,6 +169683,9 @@
         "tcgPlayerId": 660031,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/660031"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -169640,6 +169757,9 @@
         "tcgPlayerId": 657885,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/657885"
       },
+      "foilEffectColors": [
+        "#FFB348"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -169715,6 +169835,9 @@
         "tcgPlayerId": 657889,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/657889"
       },
+      "foilEffectColors": [
+        "#754D8C"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -187384,6 +187507,9 @@
         "tcgPlayerId": 673298,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/673298"
       },
+      "foilEffectColors": [
+        "#FFB348"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -187458,6 +187584,9 @@
         "tcgPlayerId": 673300,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/673300"
       },
+      "foilEffectColors": [
+        "#20BACB"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -193473,6 +193602,9 @@
       "lore": 1,
       "name": "Buzz l'\u00c9clair",
       "number": 76,
+      "promoIds": [
+        3250
+      ],
       "rarity": "Commune",
       "setCode": "12",
       "simpleName": "buzz l'eclair ranger de l'espace",
@@ -194132,6 +194264,9 @@
       "lore": 1,
       "name": "Buzz l'\u00c9clair",
       "number": 85,
+      "promoIds": [
+        3249
+      ],
       "rarity": "Rare",
       "setCode": "12",
       "simpleName": "buzz l'eclair j'arrive",
@@ -202879,6 +203014,9 @@
       "lore": 1,
       "name": "Buzz l'\u00c9clair",
       "number": 211,
+      "promoIds": [
+        3250
+      ],
       "rarity": "\u00c9pique",
       "setCode": "12",
       "simpleName": "buzz l'eclair ranger de l'espace",
@@ -203729,6 +203867,9 @@
         "tcgPlayerId": 692217,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692217"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -203807,6 +203948,9 @@
         "tcgPlayerId": 692089,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692089"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -203876,6 +204020,9 @@
         "tcgPlayerId": 690747,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/690747"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -203945,6 +204092,9 @@
         "tcgPlayerId": 692090,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692090"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204030,6 +204180,9 @@
         "tcgPlayerId": 692218,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692218"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204115,6 +204268,9 @@
         "tcgPlayerId": 692219,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692219"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204182,6 +204338,9 @@
         "tcgPlayerId": 692220,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692220"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204265,6 +204424,9 @@
         "tcgPlayerId": 692221,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692221"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204334,6 +204496,9 @@
         "tcgPlayerId": 692222,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692222"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204394,6 +204559,9 @@
         "tcgPlayerId": 692223,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692223"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204464,6 +204632,9 @@
         "tcgPlayerId": 692224,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692224"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204547,6 +204718,9 @@
         "tcgPlayerId": 692225,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692225"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204629,6 +204803,9 @@
         "tcgPlayerId": 692226,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692226"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204719,6 +204896,9 @@
         "tcgPlayerId": 692227,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692227"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204789,6 +204969,9 @@
         "tcgPlayerId": 690556,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/690556"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204860,6 +205043,9 @@
         "tcgPlayerId": 692228,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692228"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -204948,6 +205134,9 @@
         "tcgPlayerId": 692229,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692229"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -205018,6 +205207,9 @@
         "tcgPlayerId": 692091,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/692091"
       },
+      "foilEffectColors": [
+        "#D9A36D"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -205095,6 +205287,9 @@
         "tcgPlayerId": 690216,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/690216"
       },
+      "foilEffectColors": [
+        "#8FD262"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -205177,6 +205372,9 @@
         "tcgPlayerId": 690217,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/690217"
       },
+      "foilEffectColors": [
+        "#B2B2B2"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -221750,6 +221948,9 @@
         "tcgPlayerId": 704717,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704717"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -221836,6 +222037,9 @@
         "tcgPlayerId": 704718,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704718"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -221934,6 +222138,9 @@
         "tcgPlayerId": 704719,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704719"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222026,6 +222233,9 @@
         "tcgPlayerId": 704720,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704720"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222116,6 +222326,9 @@
         "tcgPlayerId": 704721,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704721"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222196,6 +222409,9 @@
         "tcgPlayerId": 704722,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704722"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222280,6 +222496,9 @@
         "tcgPlayerId": 704723,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704723"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222369,6 +222588,9 @@
         "tcgPlayerId": 704724,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704724"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222459,6 +222681,9 @@
         "tcgPlayerId": 704725,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704725"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222556,6 +222781,9 @@
         "tcgPlayerId": 704726,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704726"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222642,6 +222870,9 @@
         "tcgPlayerId": 704727,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704727"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222733,6 +222964,9 @@
         "tcgPlayerId": 704728,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704728"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222822,6 +223056,9 @@
         "tcgPlayerId": 704729,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704729"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -222917,6 +223154,9 @@
         "tcgPlayerId": 704730,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704730"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -223005,6 +223245,9 @@
         "tcgPlayerId": 704731,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704731"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -223102,6 +223345,9 @@
         "tcgPlayerId": 704732,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704732"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -223200,6 +223446,9 @@
         "tcgPlayerId": 704733,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704733"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -223288,6 +223537,9 @@
         "tcgPlayerId": 704734,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/704734"
       },
+      "foilEffectColors": [
+        "#99A2A6"
+      ],
       "foilTypes": [
         "Magma"
       ],
@@ -223375,6 +223627,10 @@
         "tcgPlayerId": 702666,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/702666"
       },
+      "foilEffectColors": [
+        "#FFB348",
+        "#B2B2B2"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -223391,7 +223647,8 @@
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set13/244_230e4c659fe03350e17dfc76237b95f382f386d7.jpg",
         "full": "https://api.lorcana.ravensburger.com/images/fr/set13/244_c5c46cf4de9e5035ad5cdc735507e8cb33d30756.jpg",
         "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set13/244_ca6332fff641295b0781c5bb664fa3e4459bb801.jpg",
-        "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set13/244_f17adb2a7b4d305dc5c7c1b449cde48696d0bc9d.jpg"
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set13/244_f17adb2a7b4d305dc5c7c1b449cde48696d0bc9d.jpg",
+        "varnishMask2": "https://api.lorcana.ravensburger.com/images/fr/set13/244_4a6867dd98ca88edd597de5fa2f8105e28356fa3.jpg"
       },
       "inkwell": true,
       "keywordAbilities": [
@@ -223478,6 +223735,10 @@
         "tcgPlayerId": 702667,
         "tcgPlayerUrl": "https://www.tcgplayer.com/product/702667"
       },
+      "foilEffectColors": [
+        "#FF474B",
+        "#20BACB"
+      ],
       "foilTypes": [
         "Lore"
       ],
@@ -223494,7 +223755,8 @@
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set13/245_1093d6229caaeed4ff0de0626b5694204a67479c.jpg",
         "full": "https://api.lorcana.ravensburger.com/images/fr/set13/245_75aa446a44e2a5f14b4cb7e6252843114b744ece.jpg",
         "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set13/245_0ffa020a5762855678e2f4cd9ff8b73d269972a2.jpg",
-        "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set13/245_df7bb94802109337f87753ca11a3d27a8aa90480.jpg"
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set13/245_df7bb94802109337f87753ca11a3d27a8aa90480.jpg",
+        "varnishMask2": "https://api.lorcana.ravensburger.com/images/fr/set13/245_83a87431c9af152a4426c0a10e5e55543336a55d.jpg"
       },
       "inkwell": false,
       "keywordAbilities": [
@@ -224832,6 +225094,66 @@
       "type": "Personnage",
       "version": "Aide une amie",
       "willpower": 4
+    },
+    {
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-05-08",
+      "artists": [
+        "Max Grecke"
+      ],
+      "artistsText": "Max Grecke",
+      "baseId": 2791,
+      "code": "Qq",
+      "color": "\u00c9meraude",
+      "cost": 2,
+      "externalLinks": {
+        "cardTraderId": 401849,
+        "cardTraderUrl": "https://www.cardtrader.com/cards/401849",
+        "cardmarketId": 891471,
+        "cardmarketUrl": "https://www.cardmarket.com/fr/Lorcana/Products/Singles/Promos-Year-3/Buzz-Lightyear-Space-Ranger-V1?language=2"
+      },
+      "flavorText": "\u201cL'environnement para\u00eet habitable, mais la flore\nsemble avoir subi d'\u00e9tranges mutations. Ce\npourrait \u00eatre l'influence de Zurg.\u201d",
+      "foilTypes": [
+        "RainbowPillars"
+      ],
+      "fullIdentifier": "57/P3 \u2022 FR \u2022 12",
+      "fullName": "Buzz l'\u00c9clair - Ranger de l'espace",
+      "fullText": "",
+      "fullTextSections": [],
+      "id": 3250,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo3/57_5ce6926b9b1308a0f10328319239d8f87ff65d00.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/57_f2a5f2e08aa9cfc486daebd314f7ef961d47c78b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/57_fee4368076e31cea259d10d97c115c48d20266e5.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Buzz l'\u00c9clair",
+      "number": 57,
+      "promoGrouping": "P3",
+      "promoSourceCategory": "Promo",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "12",
+      "simpleName": "buzz l'eclair ranger de l'espace",
+      "story": "Toy Story",
+      "strength": 3,
+      "subtypes": [
+        "Storyborn",
+        "H\u00e9ros",
+        "Jouet",
+        "Capitaine"
+      ],
+      "subtypesText": "Storyborn \u2022 H\u00e9ros \u2022 Jouet \u2022 Capitaine",
+      "type": "Personnage",
+      "version": "Ranger de l'espace",
+      "willpower": 3
     }
   ]
 }
