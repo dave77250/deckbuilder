@@ -85,7 +85,8 @@ export function DeckView(props: DeckViewProps) {
     debugLog("rendering DeckView");
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
-        return deckCard?.isUsable ?? false;
+        const isUsableCard = deckCard?.isUsable ?? false;
+        return isUsableCard && (getAvailable(deckCard) > 0);
     });
     debugLog("displayedCards has length " + displayedCards.length.toString());
     const setIncluded = (id: CardId, nb:number) => {
