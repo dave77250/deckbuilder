@@ -6,6 +6,7 @@ import { SearchableCardGrid } from "./SearchableCardGrid";
 import { useState } from "react";
 import { CardCollection } from "../model/Collection";
 import { debugLog } from "../tools/Debug";
+import "@ui5/webcomponents-icons/dist/reset.js"
 
 // TODO Ajouter une FlexBox pour faire l'arrangement vertical (au lieu du composant vide)
 // TODO Comprendre pourquoi le displayedCards ne descend pas correctement
@@ -115,6 +116,7 @@ export function DeckView(props: DeckViewProps) {
       };
     // la toolbar pour le switch et le bouton reset
     const extraToolbar = <FlexBox direction={FlexBoxDirection.Row} alignItems="Center">
+      <Button icon="reset"/>
     </FlexBox>;
     const deckKey = getDeckKey(deck);
     debugLog("deck key is " + deckKey);
