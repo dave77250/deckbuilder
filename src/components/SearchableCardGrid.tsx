@@ -57,7 +57,8 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
         ? props.cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchText.toLocaleUpperCase()) !== -1)
         : props.cardCollection;
 
-    const shouldHighlightCard: (cardId: CardId) = props.shouldHighlight ?? () => false;
+    const noHighlight = (_cardId: CardId) => false;
+    const shouldHighlightCard: (cardId: CardId) = props.shouldHighlight ?? noHighlight;
 
     return (
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
