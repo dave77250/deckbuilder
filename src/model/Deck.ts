@@ -108,6 +108,6 @@ export function completeDeck(deck: Deck, allCards: Card[]) {
 
 export function excludeAllSelected(deck: Deck) {
     return deck.map(dc => {
-        return { ...dc, excluded: dc.selected, selected: 0 };
+        return { ...dc, excluded: dc.selected, selected: 0, isUsable: true };
     });
 }
