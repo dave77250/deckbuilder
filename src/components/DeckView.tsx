@@ -133,6 +133,7 @@ export function DeckView(props: DeckViewProps) {
           cardCollection={displayedCards}
           getExtraCardComponent={getDeckDetailsView}
           extraToolBarComponent={extraToolbar}
+          shouldHighlight={() => true}
         />
       </>
     );

@@ -10,7 +10,8 @@ import "@ui5/webcomponents-fiori/dist/illustrations/NoEntries.js"
 export type SeachableCardGridProps = {
     cardCollection: Card[],
     extraToolBarComponent?: ReactNode,
-    getExtraCardComponent?: (cardId: CardId) => ReactNode
+    getExtraCardComponent?: (cardId: CardId) => ReactNode,
+    shouldHighlight?: (cardId: CardId) => boolean
 };
 
 const colorMap =new Map<string, string>();
@@ -56,6 +57,8 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
         ? props.cardCollection.filter(c => c.name.toLocaleUpperCase().indexOf(searchText.toLocaleUpperCase()) !== -1)
         : props.cardCollection;
 
+    const shouldHighlightCard: (cardId: CardId) = props.shouldHighlight ?? () => false;
+
     return (
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
             <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={setSearchText} extraToolBarComponent={props.extraToolBarComponent}/>
@@ -63,8 +66,11 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
             ? <BasicGrid columns={nbCols}>
                 {displayedCards.map(card => {
                     const cardColor = colorMap.get(card.color) ?? "";
+                    const normalStyle: React.CSSProperties = { padding: '5px', width: '100%', margin: '2px' };
+                    const highlightedStyle: React.CSSProperties = { padding: '5px', width: '100%', borderColor: cardColor, borderStyle: 'solid', borderWidth: 'thick', borderRadius: '5%', margin: '2px' };
+                    const cardStyle = shouldHighlightCard(card.id) ? highlightStyle : normalStyle;
                     return (
-                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={{ padding: '5px', width: '100%', borderColor: cardColor, borderStyle: 'solid', borderWidth: 'thick', borderRadius: '5%', margin: '2px' }}>
+                        <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={cardStyle}>
                             <CardView card={card}/>
                             { props.getExtraCardComponent ? props.getExtraCardComponent(card.id) : null }
                         </FlexBox>);
