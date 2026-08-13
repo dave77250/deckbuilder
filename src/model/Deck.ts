@@ -105,3 +105,9 @@ export function completeDeck(deck: Deck, allCards: Card[]) {
     debugLog('completeDeck fini, deck size = ' + getDeckSize(result).toString());
     return result;
 }
+
+export function excludeAllSelected(deck: Deck) {
+    return deck.map(dc => {
+        return { ...dc, excluded: dc.selected, selected: 0 };
+    });
+}
