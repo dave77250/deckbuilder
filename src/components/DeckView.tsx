@@ -1,4 +1,4 @@
-import { StepInput, Label, Switch, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
+import { StepInput, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
 import { createDeck, pickCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck, MAX_IDENTICAL_CARDS } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
@@ -83,11 +83,9 @@ export function DeckView(props: DeckViewProps) {
       deckMap.set(dc.id, dc);
     });
     debugLog("rendering DeckView");
-    const shouldDisplayCard = (card) => card.isUsable;
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
-        const outcome = deckCard ? shouldDisplayCard(deckCard): false;
-        return outcome;
+        return deckCard?.isUsable ?? false;
     });
     debugLog("displayedCards has length " + displayedCards.length.toString());
     const setIncluded = (id: CardId, nb:number) => {
