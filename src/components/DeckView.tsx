@@ -116,7 +116,7 @@ export function DeckView(props: DeckViewProps) {
       };
     // la toolbar pour le switch et le bouton reset
     const extraToolbar = <FlexBox direction={FlexBoxDirection.Row} alignItems="Center">
-      <Button icon="reset"/>
+      <Button icon="reset" onClick={() => { setDeck(createDeck(props.collection)); }}/>
     </FlexBox>;
     const deckKey = getDeckKey(deck);
     debugLog("deck key is " + deckKey);
