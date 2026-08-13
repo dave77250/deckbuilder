@@ -86,7 +86,8 @@ export function DeckView(props: DeckViewProps) {
     const displayedCards = props.cardDefinitions.filter(card => {
         const deckCard = deckMap.get(card.id);
         const isUsableCard = deckCard?.isUsable ?? false;
-        const isAvailableOrSelected = (getAvailable(deckCard) > 0) || (deckCard.selected > 0);
+        const nbSelected = deckCard?.selected ?? 0;
+        const isAvailableOrSelected = (getAvailable(deckCard) > 0) || (nbSelected > 0);
         return isUsableCard && isAvailableOrSelected;
     });
     debugLog("displayedCards has length " + displayedCards.length.toString());
