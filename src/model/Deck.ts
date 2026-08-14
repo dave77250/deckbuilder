@@ -41,11 +41,11 @@ export function createDeck(collection: CardCollection): Deck {
     return result;
 }
 
-export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: number) {
+export function pickCard(deck: Deck, allCards: Card[], id: CardId, picked: number, isAutoPicked = false) {
     // reset usability for all cards
     var result = deck.map(c => setUsable(c, true));
     // pick the desired card
-    result = result.map( c => c.id === id? pick(c, picked): c);
+    result = result.map( c => c.id === id? pick(c, picked, isAutoPicked): c);
     // now check the colors rule, and exclude cards of the wrong colors
     const colors = getDeckColors(result, allCards);
     if (colors.length >= MAX_COLORS) {
@@ -84,7 +84,7 @@ function addRandomCard(deck: Deck, allCards: Card[]) {
     const pickedCard = availableCards[getRandomInt(availableCards.length)];
     const updatedSelected = pickedCard.selected + 1;
     debugLog('picking card ' + pickedCard.id + ' with selected = ' + updatedSelected);
-    return pickCard(deck, allCards, pickedCard.id, updatedSelected);
+    return pickCard(deck, allCards, pickedCard.id, updatedSelected, true);
 }
 
 export function completeDeck(deck: Deck, allCards: Card[]) {
@@ -108,6 +108,6 @@ export function completeDeck(deck: Deck, allCards: Card[]) {
 
 export function excludeAllSelected(deck: Deck) {
     return deck.map(dc => {
-        return { ...dc, excluded: dc.selected, selected: 0, isUsable: true };
+        return { ...dc, excluded: dc.selected, selected: 0, isUsable: true, isAutoPicked:false };
     });
 }

@@ -114,6 +114,10 @@ export function DeckView(props: DeckViewProps) {
           </FlexBox>
         );
       };
+    const shouldHighlightCard = (cardId: CardId) => {
+      const deckCard = deckMap.get(cardId);
+      return deckCard?.isAutoPicked ?? false;
+    }
     // la toolbar pour le switch et le bouton reset
     const extraToolbar = <FlexBox direction={FlexBoxDirection.Row} alignItems="Center">
       <Button icon="reset" onClick={() => { setDeck(createDeck(props.collection)); }}/>
@@ -133,7 +137,7 @@ export function DeckView(props: DeckViewProps) {
           cardCollection={displayedCards}
           getExtraCardComponent={getDeckDetailsView}
           extraToolBarComponent={extraToolbar}
-          shouldHighlight={() => true}
+          shouldHighlight={shouldHighlightCard}
         />
       </>
     );

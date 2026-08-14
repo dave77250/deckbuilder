@@ -5,7 +5,8 @@ export type DeckCard = {
     owned: number,
     isUsable: boolean,
     excluded: number,
-    selected: number
+    selected: number,
+    isAutoPicked: boolean
 }
 
 export function createDeckCardFrom(id: CardId, owned: number): DeckCard {
@@ -14,14 +15,16 @@ export function createDeckCardFrom(id: CardId, owned: number): DeckCard {
         owned,
         isUsable: true,
         excluded: 0,
-        selected: 0
+        selected: 0,
+        isAutoPicked: false
     };
 }
 
-export function pick(card: DeckCard, picked: number): DeckCard {
+export function pick(card: DeckCard, picked: number, isAutoPicked = false): DeckCard {
     return {
         ...card,
-        selected: picked
+        selected: picked,
+        isAutoPicked
     };
 }
 
