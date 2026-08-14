@@ -69,7 +69,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
                     const cardColor = colorMap.get(card.color) ?? "";
                     const normalStyle: React.CSSProperties = { padding: '5px', width: '100%', margin: '2px' };
                     const highlightedStyle: React.CSSProperties = { padding: '5px', width: '100%', borderColor: cardColor, borderStyle: 'solid', borderWidth: 'thick', borderRadius: '5%', margin: '2px' };
-                    const cardStyle = shouldHighlightCard(card.id) ? highlightStyle : normalStyle;
+                    const cardStyle = shouldHighlightCard(card.id) ? highlightedStyle : normalStyle;
                     return (
                         <FlexBox key={card.id} direction={FlexBoxDirection.Column} style={cardStyle}>
                             <CardView card={card}/>
