@@ -100,17 +100,11 @@ export function DeckView(props: DeckViewProps) {
         const nbSelected = deckCard?.selected ?? 0; // max selectable = available + currently selected
         return (
           <FlexBox direction={FlexBoxDirection.Column}>
-            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.SpaceBetween} alignItems="Center">
-              <Text>In deck:</Text>
+            <FlexBox direction={FlexBoxDirection.Row} justifyContent={FlexBoxJustifyContent.Center}>
               <StepInput disabled={deckState === DeckBuilderState.CompleteDeck} min={0} max={Math.min(nbSelected + getAvailable(deckCard), MAX_IDENTICAL_CARDS)} value={nbSelected} onChange={(event) => {
                 setIncluded(id, event.target.value);
               }}/>
             </FlexBox>
-            <Text>{`Card id : ${id}`}</Text>
-            <Text>{`Excluded : ${deckCard?.excluded ?? 0}`}</Text>
-            <Text>{`Usable : ${deckCard?.isUsable ?? 'unknown'}`}</Text>
-            <Text>{`Owned : ${deckCard?.owned ?? 0}`}</Text>
-            <Text>{`Avail. : ${getAvailable(deckCard)}`}</Text>
           </FlexBox>
         );
       };
