@@ -1,4 +1,4 @@
-import { StepInput, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button, Text } from "@ui5/webcomponents-react";
+import { StepInput, MessageStrip, FlexBox, FlexBoxDirection, FlexBoxJustifyContent, Button } from "@ui5/webcomponents-react";
 import { Card, CardId } from "../model/Card"
 import { createDeck, pickCard, DECK_SIZE, Deck, getDeckSize, getDeckColors, MAX_COLORS, completeDeck, MAX_IDENTICAL_CARDS, excludeAllSelected } from "../model/Deck";
 import { DeckCard, getAvailable } from "../model/DeckCard";
