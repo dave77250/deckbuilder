@@ -1,7 +1,7 @@
 {
   "metadata": {
     "formatVersion": "2.3.5",
-    "generatedOn": "2026-08-02T19:16:31",
+    "generatedOn": "2026-08-15T19:23:46",
     "language": "fr"
   },
   "sets": {
@@ -365,6 +365,29 @@
       },
       "allowedInTournamentsFromDate": null,
       "name": "Entrez en Encresombre",
+      "cardCounts": {
+        "base": 0,
+        "nonBase": 0,
+        "promo": 0
+      }
+    },
+    "16": {
+      "prereleaseDate": null,
+      "releaseDate": null,
+      "hasAllCards": false,
+      "type": "expansion",
+      "number": 16,
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "rotationGroup": 4
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "name": "Aventure Cosmique",
       "cardCounts": {
         "base": 0,
         "nonBase": 0,
