@@ -71,7 +71,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
 
     return (
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
-            <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={performSearch} extraToolBarComponent={props.extraToolBarComponent}/>
+            <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} searchText={searchText} onSearch={performSearch} extraToolBarComponent={props.extraToolBarComponent}/>
             { displayedCards.length > 0
             ? <BasicGrid columns={nbCols}>
                 {displayedCards.map(card => {
