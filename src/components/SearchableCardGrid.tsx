@@ -63,7 +63,7 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
     const shouldHighlightCard = props.shouldHighlight ?? noHighlight;
 
     const performSearch = (searchText: string) => {
-        setSearch(searchText);
+        setSearchText(searchText);
         if (props.onSearchTextChange) {
             props.onSearchTextChange(searchText);
         }
