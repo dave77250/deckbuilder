@@ -8,9 +8,6 @@ import { CardCollection } from "../model/Collection";
 import { debugLog } from "../tools/Debug";
 import "@ui5/webcomponents-icons/dist/reset.js"
 
-// TODO Ajouter une FlexBox pour faire l'arrangement vertical (au lieu du composant vide)
-// TODO Comprendre pourquoi le displayedCards ne descend pas correctement
-
 export type DeckViewProps = {
     collection: CardCollection,
     cardDefinitions: Card[]
@@ -78,6 +75,7 @@ function getDeckKey(deck: Deck) {
 
 export function DeckView(props: DeckViewProps) {
     const [deck, setDeck] = useState(createDeck(props.collection));
+    const [searchText, setSearchText] = useState("");
     const deckState = computeDeckState(deck, props.cardDefinitions);
     const deckMap = new Map<CardId, DeckCard>();
     deck.forEach(dc => {
@@ -132,6 +130,8 @@ export function DeckView(props: DeckViewProps) {
           getExtraCardComponent={getDeckDetailsView}
           extraToolBarComponent={extraToolbar}
           shouldHighlight={shouldHighlightCard}
+          searchText={searchText}
+          onSearchTextChange={setSearchText}
         />
       </>
     );

@@ -11,7 +11,9 @@ export type SeachableCardGridProps = {
     cardCollection: Card[],
     extraToolBarComponent?: ReactNode,
     getExtraCardComponent?: (cardId: CardId) => ReactNode,
-    shouldHighlight?: (cardId: CardId) => boolean
+    shouldHighlight?: (cardId: CardId) => boolean,
+    searchText?: string,
+    onSearchTextChange?: (searchText: string) => void
 };
 
 const colorMap =new Map<string, string>();
@@ -46,7 +48,7 @@ colorMap.set("Rubis-Saphir", RUBY + " " + SAPPHIRE);
 colorMap.set("Saphir-Acier", SAPPHIRE + " " + STEEL);
 
 export function SearchableCardGrid(props: SeachableCardGridProps) {
-    const [searchText, setSearchText] = useState("");
+    const [searchText, setSearchText] = useState(props.searchText ?? "");
     const [nbCols, setNbCols] = useState(getColumns()) ;
 
     const changeNbCols = (nbCols: number) => {
@@ -60,9 +62,16 @@ export function SearchableCardGrid(props: SeachableCardGridProps) {
     const noHighlight = (_cardId: CardId) => false;
     const shouldHighlightCard = props.shouldHighlight ?? noHighlight;
 
+    const performSearch = (searchText: string) => {
+        setSearch(searchText);
+        if (props.onSearchTextChange) {
+            props.onSearchTextChange(searchText);
+        }
+    }
+
     return (
         <FlexBox direction={FlexBoxDirection.Column} style={{width: '100%'}}>
-            <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={setSearchText} extraToolBarComponent={props.extraToolBarComponent}/>
+            <CardGridToolBar nbCols={nbCols} onColumnNbChange={changeNbCols} onSearch={performSearch} extraToolBarComponent={props.extraToolBarComponent}/>
             { displayedCards.length > 0
             ? <BasicGrid columns={nbCols}>
                 {displayedCards.map(card => {
