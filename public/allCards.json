@@ -1,7 +1,7 @@
 {
   "metadata": {
     "formatVersion": "2.3.5",
-    "generatedOn": "2026-09-04T17:01:15",
+    "generatedOn": "2026-09-24T19:22:19",
     "language": "fr"
   },
   "sets": {
@@ -126,8 +126,8 @@
       "cardCounts": {
         "base": 204,
         "nonBase": 19,
-        "promo": 8,
-        "total": 231
+        "promo": 9,
+        "total": 232
       }
     },
     "6": {
@@ -249,8 +249,8 @@
       "cardCounts": {
         "base": 204,
         "nonBase": 38,
-        "promo": 10,
-        "total": 252
+        "promo": 11,
+        "total": 253
       }
     },
     "11": {
@@ -297,8 +297,8 @@
       "cardCounts": {
         "base": 204,
         "nonBase": 38,
-        "promo": 8,
-        "total": 250
+        "promo": 9,
+        "total": 251
       }
     },
     "13": {
@@ -321,8 +321,8 @@
       "cardCounts": {
         "base": 207,
         "nonBase": 38,
-        "promo": 16,
-        "total": 261
+        "promo": 17,
+        "total": 262
       }
     },
     "14": {
@@ -343,14 +343,15 @@
       "allowedInTournamentsFromDate": null,
       "name": "Hyperia City",
       "cardCounts": {
-        "base": 0,
+        "base": 11,
         "nonBase": 0,
-        "promo": 0
+        "promo": 0,
+        "total": 11
       }
     },
     "15": {
-      "prereleaseDate": null,
-      "releaseDate": null,
+      "prereleaseDate": "2027-02-05",
+      "releaseDate": "2027-02-12",
       "hasAllCards": false,
       "type": "expansion",
       "number": 15,
@@ -441,8 +442,8 @@
       }
     },
     "Q3": {
-      "prereleaseDate": "2026-10-01",
-      "releaseDate": "2026-10-01",
+      "prereleaseDate": "2026-10-02",
+      "releaseDate": "2026-10-02",
       "hasAllCards": false,
       "type": "quest",
       "number": 3,
@@ -735,9 +736,6 @@
       "allowedInTournamentsFromDate": "2023-09-08",
       "artists": [
         "Jochem Van Gool"
-      ],
-      "artistsNormalized": [
-        "Jochem van Gool"
       ],
       "artistsText": "Jochem Van Gool",
       "code": "04",
@@ -1368,7 +1366,8 @@
       "name": "Mickey Mouse",
       "number": 12,
       "promoIds": [
-        2432
+        2432,
+        3595
       ],
       "rarity": "Inhabituelle",
       "reprintedAsIds": [
@@ -1732,9 +1731,6 @@
       "allowedInTournamentsFromDate": "2023-09-08",
       "artists": [
         "Jochem Van Gool"
-      ],
-      "artistsNormalized": [
-        "Jochem van Gool"
       ],
       "artistsText": "Jochem Van Gool",
       "code": "0i",
@@ -6133,9 +6129,6 @@
       "allowedInTournamentsFromDate": "2023-09-08",
       "artists": [
         "Jochem Van Gool"
-      ],
-      "artistsNormalized": [
-        "Jochem van Gool"
       ],
       "artistsText": "Jochem Van Gool",
       "code": "1j",
@@ -13353,9 +13346,6 @@
       "artists": [
         "Jochem Van Gool"
       ],
-      "artistsNormalized": [
-        "Jochem van Gool"
-      ],
       "artistsText": "Jochem Van Gool",
       "code": "30",
       "color": "Acier",
@@ -16185,9 +16175,9 @@
       },
       "allowedInTournamentsFromDate": "2023-12-08",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "3C",
       "color": "Ambre",
       "cost": 3,
@@ -16210,11 +16200,20 @@
       "fullTextSections": [
         "M\u00e9lomane 5 (Ce personnage est consid\u00e9r\u00e9 comme\nayant un co\u00fbt de 5 pour chanter des chansons.)"
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 224,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set2/8_ee03b64af6a2bb7b26fd064451b6f5cd86e6a142.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set2/8_733a5e8119eab4a533555e0cd64696fed6c890d8.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set2/8_3e7b54433dbb7fbb3ea92651b25e00659b45fbd9.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set2/8_35c261f00a2a74e477a157acdf264cab46907aac.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set2/8_0cda191d08588924cfcfb7e1a4e70c7fa23ed2f7.jpg"
       },
       "inkwell": true,
       "keywordAbilities": [
@@ -27211,9 +27210,9 @@
       },
       "allowedInTournamentsFromDate": "2023-12-08",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "67",
       "color": "Saphir",
       "cost": 4,
@@ -27239,11 +27238,20 @@
         "(Vous pouvez \u27f3 un personnage co\u00fbtant 4 ou plus pour\nchanter cette chanson gratuitement.)",
         "Vos personnages gagnent R\u00e9sistance +2 jusqu'au\nd\u00e9but de votre prochain tour. (Les dommages qui leur\nsont inflig\u00e9s sont r\u00e9duits de 2.)"
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 379,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set2/163_d55777a9bcf5cc75853ef7059ea3418ef377665e.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set2/163_7a53c5bdcc18bbda6c19293947dc6cc92e9833a1.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set2/163_50398f311d910af603af067dfaaebf2e019af45e.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set2/163_94611d5bc53c47be520fbc61347752b36ef87230.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set2/163_afa57d1cc9af11bc7e648efaffddaa3379f824de.jpg"
       },
       "inkwell": true,
       "name": "Quatre douzaines d'\u0153ufs",
@@ -27335,9 +27343,9 @@
       "allowedInTournamentsFromDate": "2023-12-08",
       "artists": [
         "Man\u00e9 Kandalyan",
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Man\u00e9 Kandalyan / Jochem van Gool",
+      "artistsText": "Man\u00e9 Kandalyan / Jochem Van Gool",
       "code": "69",
       "color": "Saphir",
       "cost": 1,
@@ -27363,11 +27371,21 @@
       "fullTextSections": [
         "Chaque adversaire r\u00e9v\u00e8le sa main. Piochez une\ncarte."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Man\u00e9 Kandalyan",
+            "Jochem van Gool"
+          ],
+          "artistsText": "Man\u00e9 Kandalyan / Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 381,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set2/165_826f88241a96c6c38354b161f38921e795eb0fa3.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set2/165_952b87147b180df87431af7e4ab1f236ddc504f3.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set2/165_7f3c61d6a4989910d1329de37e93436e7466b725.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set2/165_5e14178c2654158e7b710bad518ee377714a52ad.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set2/165_1eb838c7ffd009f31e986405eace9c2aac4ce365.jpg"
       },
       "inkwell": true,
       "name": "Rien \u00e0 cacher",
@@ -31303,9 +31321,9 @@
       "allowedInTournamentsFromDate": "2024-03-15",
       "artists": [
         "Evana Kisa",
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Evana Kisa / Jochem van Gool",
+      "artistsText": "Evana Kisa / Jochem Van Gool",
       "clarifications": [
         "Q : Si j'ai 10 cartes personnage dans ma d\u00e9fausse, puis-je utiliser la capacit\u00e9 \"Allons, les enfants\" de Perdita - M\u00e8re d\u00e9vou\u00e9e pour jouer Chernabog - r\u00e9pand le mal depuis ma d\u00e9fausse ?\nR : Non, vous ne pouvez pas le jouer via la capacit\u00e9 de Perdita. La capacit\u00e9 \"Le pouvoir du mal\" de Chernabog ne permet de diminuer son co\u00fbt en encre qu'au moment de le jouer, sans que cela modifie son co\u00fbt r\u00e9el. Ainsi, m\u00eame si vous avez 10 cartes personnage dans votre d\u00e9fausse, Chernabog est toujours consid\u00e9r\u00e9 comme un personnage ayant un co\u00fbt de 10 encres."
       ],
@@ -31333,11 +31351,21 @@
         "LE POUVOIR DU MAL Ce personnage vous co\u00fbte 1 \u2b21 de\nmoins pour chaque carte Personnage dans votre d\u00e9fausse.",
         "INVOCATION DES ESPRITS Lorsque vous jouez ce\npersonnage, remettez tous les personnages de votre\nd\u00e9fausse dans votre pioche, puis m\u00e9langez-la."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Evana Kisa",
+            "Jochem van Gool"
+          ],
+          "artistsText": "Evana Kisa / Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 435,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set3/3_b872d9ec6161fa47c6048d3df6db176141e9a7e6.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set3/3_a3d2d3ec46a1573ab2503d1cd0092b6e5d9b12eb.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set3/3_4e16f9e529fe30bbd4a96eb5ee2d977a8657a0f6.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set3/3_85ade463e2669694095925ba502645bc3b5e5d6b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set3/3_07312dea23b4722d817802dc46e163efe12c8d96.jpg"
       },
       "inkwell": false,
       "lore": 3,
@@ -37454,9 +37482,9 @@
       },
       "allowedInTournamentsFromDate": "2024-03-15",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "8p",
       "color": "\u00c9meraude",
       "cost": 4,
@@ -37480,11 +37508,20 @@
         "LAISSE, J'M'EN OCCUPE Tant que ce personnage se\ntrouve sur un lieu, il gagne +3 \u00a4.",
         "RIEN NE PRESSE Si ce personnage se trouve sur un lieu et\nd\u00e9fie un autre personnage, vous pouvez piocher une carte."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 521,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set3/85_5101a6a86e799e024ef34b5779a4233994069538.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set3/85_67361675c18fb57db2ff45edbbc0ee745de179e1.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set3/85_5a1d2a61477ba79093db028b2e4d772090117ac4.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set3/85_b9bfde4ec3178d85d7a8e2c072a016b3405d5624.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set3/85_5017899ef0dfcb557137062d4621c6ebeaba9b4d.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -39075,9 +39112,9 @@
       },
       "allowedInTournamentsFromDate": "2024-03-15",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "clarifications": [
         "Q : Si je donne R\u00e9sistance +1 \u00e0 L'Hydre - Serpent mortel gr\u00e2ce \u00e0 la capacit\u00e9 de Armure de souris et que je l'utilise pour d\u00e9fier un personnage avec 1 de Force tel que Minnie - Toujours \u00e9l\u00e9gante, est-ce que la capacit\u00e9 \"Attention aux dents\" de L'hydre se d\u00e9clenche ?\nR : Non, vous ne pouvez pas la d\u00e9clencher. Au moment o\u00f9 Minnie - Toujours \u00e9l\u00e9gante inflige 1 dommage \u00e0 L'Hydre - Serpent mortel, ce dommage est r\u00e9duit de 1 par l'effet de la R\u00e9sistance avant qu'aucun dommage ne soit inflig\u00e9 \u00e0 L'Hydre, et par cons\u00e9quent, elle n'infligera aucun dommage en retour."
       ],
@@ -39103,11 +39140,20 @@
       "fullTextSections": [
         "ATTENTION AUX DENTS Chaque fois que ce\npersonnage subit des dommages, choisissez\nun personnage adverse et infligez-lui le m\u00eame\nnombre de dommages."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 544,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set3/108_18ee598e14c220573d342632ab0035b83dccd967.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set3/108_91fdb834f453aada6d19e19ce74a822d21670571.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set3/108_223e34634dc8fafbc6fa10697d56c98801c936ec.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set3/108_07770073ec660f193b91e0d8809a5c13f9ef1c42.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set3/108_3f5dd6832311aca70e4ec03bbbb58aa14c17c954.jpg"
       },
       "inkwell": false,
       "lore": 2,
@@ -48496,9 +48542,9 @@
       },
       "allowedInTournamentsFromDate": "2024-06-07",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "bh",
       "color": "Ambre",
       "cost": 3,
@@ -48521,11 +48567,20 @@
         "Rempart (Ce personnage peut entrer en jeu \u00e9puis\u00e9.\nLorsqu'un adversaire d\u00e9fie l'un de vos personnages, il doit,\nsi possible, choisir l'un de vos personnages avec Rempart.)",
         "ATTENDEZ-MOI ! Lorsque vous jouez ce personnage,\nchoisissez un personnage qui gagne +1 \u25ca pour le\nreste de ce tour."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 699,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set4/8_526fef681ca142eaca296687db450021e63a3e62.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set4/8_5e04466ab9ac648b53337627ea3a0d578388afae.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set4/8_b01f8b478d81ea93775289005389f2a07828d866.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set4/8_e1bc4d29a92ea3449e961e7bf0ae30fba6ae6a29.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set4/8_2b53c481193441863bf9c0d585e601332a9d4896.jpg"
       },
       "inkwell": true,
       "keywordAbilities": [
@@ -49083,9 +49138,9 @@
       },
       "allowedInTournamentsFromDate": "2024-06-07",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "bp",
       "color": "Ambre",
       "cost": 7,
@@ -49109,11 +49164,20 @@
         "Rempart, Soutien",
         "MOUSQUETAIRES UNIS Si vous jouez ce personnage\nen utilisant sa capacit\u00e9 Alter, vous pouvez piocher une\ncarte pour chaque personnage avec Rempart que vous\navez en jeu."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 707,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set4/16_d991ef947d501545d7dbab7a153041c935151394.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set4/16_d415d18c48e08423a5d183d7cfb722fb07da6997.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set4/16_7eaf4384b43c2bf6db562529d5a736a9416e26a7.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set4/16_50fa82f9ea9006fc82f42dbe770eac64118d3569.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set4/16_812ce726fd84e82f154cb32d0a58cf56aebcec64.jpg"
       },
       "inkwell": false,
       "keywordAbilities": [
@@ -67335,9 +67399,9 @@
       },
       "allowedInTournamentsFromDate": "2024-08-30",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "fD",
       "color": "Ambre",
       "cost": 9,
@@ -67360,11 +67424,20 @@
         "CHANT DU TROUPEAU Jouer ce personnage vous co\u00fbte\n1 \u2b21 de moins par carte Chanson dans votre d\u00e9fausse.",
         "Rempart (Ce personnage peut entrer en jeu \u00e9puis\u00e9.\nLorsqu'un adversaire d\u00e9fie l'un de vos personnages, il doit,\nsi possible, choisir l'un de vos personnages avec Rempart.)"
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 969,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set5/13_f96377014cd1abe37e81a62e57336aba89787e8d.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set5/13_d76b5f8c667bea3a75f61d740f3f8e0822bd496d.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set5/13_c95b7115175b21d317ce74beeb14efda43fb5ade.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set5/13_073114c5451a2d1d5126612f44ea3d84d0f657e4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set5/13_45c7567eb75bef47c83ce7bd9eb1acc19ab8fd7d.jpg"
       },
       "inkwell": false,
       "keywordAbilities": [
@@ -69821,7 +69894,8 @@
       "name": "Elsa",
       "number": 48,
       "promoIds": [
-        2184
+        2184,
+        3247
       ],
       "rarity": "Tr\u00e8s Rare",
       "setCode": "5",
@@ -81507,9 +81581,9 @@
       },
       "allowedInTournamentsFromDate": "2024-08-30",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 1106,
       "code": "iV",
       "color": "Saphir",
@@ -81532,11 +81606,20 @@
         "UN \u00c9QUILIBRE D\u00c9LICAT Lorsque vous jouez ce\npersonnage, \u00e9puisez toutes les cartes de votre r\u00e9serve\nd'encre. Ensuite, renvoyez 2 cartes au hasard de votre\nr\u00e9serve d'encre dans votre main.",
         "CETTE IMMENSIT\u00c9 BAIGN\u00c9E DE LUMI\u00c8RE Chaque fois\nque ce personnage est envoy\u00e9 \u00e0 l'aventure, redressez\ntoutes les cartes de votre r\u00e9serve d'encre."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1173,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set5/217_751acc46dd7c3e2d646b7fb1d5e906f46a27c780.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set5/217_aba558eea6d3384750fff4ac4fbd5d36278c2b1c.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set5/217_22e1113a72d50d3d25b4ab8766964640b7c5dfbb.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set5/217_1a07781b84ba855ee40b7bf0886e6fc97a3f9cae.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set5/217_1fba0e59e709b86474d340656fbad47b65f16b9d.jpg"
       },
       "inkwell": false,
       "lore": 4,
@@ -82090,9 +82173,9 @@
       },
       "allowedInTournamentsFromDate": "2024-08-30",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 969,
       "code": "j3",
       "color": "Ambre",
@@ -82115,11 +82198,20 @@
         "CHANT DU TROUPEAU Jouer ce personnage vous co\u00fbte\n1 \u2b21 de moins par carte Chanson dans votre d\u00e9fausse.",
         "Rempart (Ce personnage peut entrer en jeu \u00e9puis\u00e9.\nLorsqu'un adversaire d\u00e9fie l'un de vos personnages, il doit,\nsi possible, choisir l'un de vos personnages avec Rempart.)"
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1181,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo2/2_7ac3137830cf741c068c16001eb38876dd3f5e93.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/promo2/2_9d5f10adb0d11c406d83685c2d519a512e89f471.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo2/2_5fd6de0cdb973cd3c88e75e825ce53608ed7b7a6.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo2/2_41ed34722ce02132bd60db0a934e88addf598c75.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo2/2_4ec3e1542e4e4a925bdd754bffa587bb12867ec0.jpg"
       },
       "inkwell": false,
       "keywordAbilities": [
@@ -88015,9 +88107,9 @@
       },
       "allowedInTournamentsFromDate": "2024-12-06",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "kD",
       "color": "\u00c9meraude",
       "cost": 3,
@@ -88040,11 +88132,20 @@
       "fullTextSections": [
         "CAPITAINE SUR LE PONT Tant que vous avez un\npersonnage Capitaine en jeu, ce personnage-ci\ngagne +2 \u25ca."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1279,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set6/80_d53b482cf934226c24d0521b6869ad44eaf2a9d6.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set6/80_f2d58a87b2e1fbfdd46ff13fa30ffcbd2b4ecd58.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set6/80_324280f91ab5bf6cb59b4ebc2f5be99a03f1fdbe.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set6/80_b34c7e12a1b1108e678c1ebcc1efb5cbe192b929.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set6/80_1b97c01cccd77419104fbc3572f689aa5c0122c6.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -88085,9 +88186,9 @@
       },
       "allowedInTournamentsFromDate": "2024-12-06",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "kE",
       "color": "\u00c9meraude",
       "cost": 4,
@@ -88111,11 +88212,20 @@
       "fullTextSections": [
         "RIVAGES LOINTAINS Chaque fois que l'un de\nvos personnages Pirate sur un lieu est envoy\u00e9 \u00e0\nl'aventure, piochez une carte."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1280,
       "images": {
         "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set6/81_92d1fa51e647e000519c67c4d0e04597398c32d7.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set6/81_4189018515b5382f45324c370bebdaf314089db0.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set6/81_b7c21b8246b708ac1b7e302ad9f951da99423b6e.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set6/81_9f89b3e763aeb4305fe0390d606783350af17888.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set6/81_015707c2c807d7a8f290f7bddf43f20805249ca0.jpg"
       },
       "inkwell": true,
       "lore": 2,
@@ -99493,9 +99603,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "nj",
       "color": "Ambre-Rubis",
       "colors": [
@@ -99522,11 +99632,20 @@
         "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
         "NE RACONTE PAS D'HISTOIRES Chaque fois que\nl'un de vos autres personnages est banni, vous\npouvez choisir un personnage et lui retirer tous\nses dommages."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1445,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/12_33472a93c7cfa29f8df7860c1a9989a549b97566.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/12_68cca3ec0b88111ffc25ec977d3496a140c2081d.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/12_cbf1f6fefbd918779a9b982180c7a32d450b9963.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/12_c1997f7cc0601724f6d9521763b2abdf33f750d7.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/12_70abb16fa1e082556267e9a84639bf4c999d0716.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/12_dfc6c7038e6744c3f182b05aa2eace0e3054b491.jpg"
       },
       "inkwell": true,
       "keywordAbilities": [
@@ -104717,9 +104836,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "os",
       "color": "Am\u00e9thyste-Acier",
       "colors": [
@@ -104749,11 +104868,20 @@
       "fullTextSections": [
         "\u00c9puisez tous les personnages adverses. Chaque fois que\nl'un de vos personnages en bannit un autre via un d\u00e9fi ce\ntour-ci, gagnez 2 \u00e9clats de Lore."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1516,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/83_b280398f3f8ca2685c94a0119c82054c6cc62e68.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/83_eb393098becf30d6d1e8f8dc3f02508cf2c56990.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/83_68fbd9c490cc460dd12da4ee7293f67de10b55b7.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/83_8193e4bb1eb059d28487a5d9f79f4482f6001f61.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/83_13f3ae0f2a477abdf83ed7f6718d98c01ef86614.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/83_af2a8ce0bb3a4493cf3f51f8fd0af6e88542eff8.jpg"
       },
       "inkwell": false,
       "name": "Restaurer la Couronne",
@@ -108922,9 +109050,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "po",
       "color": "Rubis-Acier",
       "colors": [
@@ -108952,11 +109080,20 @@
         "Insaisissable (Seuls les personnages avec Insaisissable peuvent\nd\u00e9fier ce personnage.)",
         "MENEUSE EXCEPTIONNELLE Chaque fois que ce personnage en\nd\u00e9fie un autre, vos autres personnages gagnent \u201cCe personnage\npeut d\u00e9fier des personnages redress\u00e9s.\u201d pour le reste de ce tour."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1574,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/141_7f6bed9d9bc40a7dbca8ef2bf3b402f890cc7306.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/141_efbc79fe8d7c6792f58d33dbc8ff28ac6b6a22c8.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/141_699008617f0faff51c7754d4eecbb78f7582f7db.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/141_ba060be3230362b7c2e861b7000d83be8217b646.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/141_b622c433f19d3c6e645ce9787efb6855881ebc9f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/141_6a59951f61aaa24cf18a0635a648089bbe38a901.jpg"
       },
       "inkwell": true,
       "keywordAbilities": [
@@ -110130,9 +110267,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "pG",
       "color": "Saphir",
       "cost": 3,
@@ -110155,11 +110292,20 @@
       "fullTextSections": [
         "QUELLE PAGAILLE ! Durant votre tour, vous pouvez\nchoisir l'un de vos objets et le bannir pour jouer\nce personnage gratuitement."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1592,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/159_8388adeb071be521abfb7322b1fc47973d7ac745.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/159_fdb1d5b89fb673ce0864752bf43acf56374fd94f.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/159_b1d5a708eca002ae8e1820c9421335bdab8fbece.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/159_16bb0e235eb0663ff875cb584b47b001e80d9b64.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/159_c22beeecc03e25b9d47acbed86a3c9090999c93f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/159_b21d415b93dd83aa5e99c2dfbeb8799fd87bd29d.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -112553,9 +112699,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "qe",
       "color": "Acier",
       "cost": 1,
@@ -112578,11 +112724,20 @@
       "fullTextSections": [
         "O\u00d9 EST-CE QUE JE DOIS SIGNER ? Lorsque vous jouez\nce personnage, vous pouvez piocher une carte puis\nen d\u00e9fausser une."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1626,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/193_d23edc3b5ca7fc13d65386c647ff5cf5df02e6cb.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/193_75154c2c38b2d9e5473ba174393d3e6634c7edf6.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/193_5a93c2fe81da7a52f25f2608ae305b149274b9fb.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/193_b7926dc7e199f7fcc066b44ce1bbc41cabdb29fc.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/193_ec45d743dea0a4b23aa647a6a7b4ad6482774c1a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/193_f6b239cda320fa0541ba19e8544d873df925ba8b.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -113773,9 +113928,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 1484,
       "code": "qv",
       "color": "Am\u00e9thyste-Acier",
@@ -113801,11 +113956,20 @@
       "fullTextSections": [
         "JE N'AI PAS DIT MON DERNIER MOT Durant\nle tour d'un adversaire, chaque fois que l'un\nde vos personnages Illusion est banni, vous\npouvez le renvoyer dans votre main."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1643,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/210_2a41abb74893f96c5541a53e42c3291a40b86eac.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/210_a068a40b90be2a72ee46fc17cdefe41842f2b30b.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/210_2ce59bdd03948428c6fc6856c4b4049f6b3cafe5.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/210_d9cdf5799badedde2be5b03235be6e51a8859905.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/210_c44cfdb9a6975594347a5a800cde0de9377f494b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/210_11413af58c696305c1f0aff4e8db0432b6eede64.jpg"
       },
       "inkwell": true,
       "lore": 2,
@@ -114273,9 +114437,9 @@
       },
       "allowedInTournamentsFromDate": "2025-03-28",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 1559,
       "code": "qC",
       "color": "Rubis-Saphir",
@@ -114303,11 +114467,20 @@
         "R\u00c9CUP\u00c9RATION Jouer ce personnage en utilisant sa capacit\u00e9\nAlter vous co\u00fbte 1 \u2b21 de moins pour chaque carte Objet dans\nvotre d\u00e9fausse.",
         "RECYCLAGE Chaque fois que ce personnage est envoy\u00e9 \u00e0\nl'aventure, vous pouvez placer jusqu'\u00e0 3 cartes Objet de votre\nd\u00e9fausse sous votre pioche pour gagner 1 \u00e9clat de Lore par\ncarte plac\u00e9e ainsi."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 1650,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/217_3f677cde2ca31b89e2537015bb13d722fe27c80b.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/217_be8cf00e9760de791fffbeab0798cdd112834132.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/217_5fcda404cfdb3728940f961f40ca7d9ae6a410f7.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set7/217_a3d9b4827f9bb24b041b5bf866ed8704b954a8a6.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set7/217_5ad5e26b7fca8dc3c6762798f3dd9ca35552a613.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set7/217_1c97ca47849549651007db68e2dc16830203e41e.jpg"
       },
       "inkwell": true,
       "keywordAbilities": [
@@ -135537,7 +135710,8 @@
       "name": "Mickey Mouse",
       "number": 13,
       "promoIds": [
-        2432
+        2432,
+        3595
       ],
       "rarity": "Inhabituelle",
       "reprintOfId": 12,
@@ -140794,9 +140968,9 @@
       },
       "allowedInTournamentsFromDate": "2024-03-15",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "wD",
       "color": "\u00c9meraude",
       "cost": 4,
@@ -140820,11 +140994,20 @@
         "LAISSE, J'M'EN OCCUPE Tant que ce personnage se trouve\nsur un lieu, il gagne +3 \u00a4.",
         "RIEN NE PRESSE Si ce personnage se trouve sur un lieu,\nchaque fois qu'il d\u00e9fie un autre personnage, vous pouvez\npiocher une carte."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2023,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set9/87_7c8cd9f1ecf8da36881690dd7835103427a2044c.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set9/87_3c67b22582eaf69d0b2c5f590502d7872de686a4.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set9/87_f9e43e54a8f0e48b2d474507a78e2e8c14084dbe.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set9/87_cebd7ac8038e286cbf889036882a5e0c87a94b31.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set9/87_c6e2945e653833e9a3e6d2623569dea680292adb.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set9/87_7bb4c03a84f001a24347cf403b11bc429746daea.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -146298,9 +146481,9 @@
       },
       "allowedInTournamentsFromDate": "2023-12-08",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "xS",
       "color": "Saphir",
       "cost": 4,
@@ -146326,11 +146509,20 @@
         "(Vous pouvez \u27f3 un personnage co\u00fbtant 4 ou plus pour\nchanter cette chanson gratuitement.)",
         "Vos personnages gagnent R\u00e9sistance +2 jusqu'au\nd\u00e9but de votre prochain tour. (Les dommages qui leur\nsont inflig\u00e9s sont r\u00e9duits de 2.)"
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2100,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set9/164_a2b633f9a0da8d31f99b3a09cbf7e00376242920.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set9/164_30e7230741760154dc14a1f1ec2216c17a83bda1.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set9/164_900fa6c7a9893f6fa675f5260875a9e7292f6714.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set9/164_2f512d47d7f38aa603dfa8deef01ff0282ca7053.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set9/164_322a75c7b3046d8ea87ba49d87000b7afc6f1564.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set9/164_d1459bf86c6e91f1fa95017e16032fdff8925909.jpg"
       },
       "inkwell": true,
       "name": "Quatre douzaines d'\u0153ufs",
@@ -150051,9 +150243,9 @@
       },
       "allowedInTournamentsFromDate": "2025-09-19",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 2066,
       "code": "yI",
       "color": "Rubis",
@@ -150082,11 +150274,20 @@
         "\u00c0 l'unisson 9",
         "Chaque joueur pioche 2 cartes et gagne 2 \u00e9clats\nde Lore. Si 2 personnages ou plus ont chant\u00e9 cette\nchanson, redressez-les. Ces personnages ne peuvent\npas \u00eatre envoy\u00e9s \u00e0 l'aventure pour le reste de ce tour."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2152,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set9/234_5d8fa38728d9f63d84e3102f9a4937d4cf29a0fe.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set9/234_0c12a1f32a6125614b73ceed6698410c36e40464.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set9/234_eb8b6d172f7bbf67dee01e392e8e7d36fd0c6422.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set9/234_b5b2458f9c4663fc92162558c4cb519c8447a600.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set9/234_bbd940d81b198b8aa0d7f864bd4261c39e0fc834.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set9/234_c9b67390dd1bd7e2bb22b5c024ac73d8278b5634.jpg",
         "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set9/234_105333017e755f7c74ae1f9b9fcf97da22f759af.jpg"
       },
       "inkwell": true,
@@ -154471,6 +154672,9 @@
       "lore": 1,
       "name": "Mickey Mouse",
       "number": 23,
+      "promoIds": [
+        3246
+      ],
       "rarity": "Rare",
       "setCode": "10",
       "simpleName": "mickey mouse champion ambre",
@@ -157657,9 +157861,9 @@
       },
       "allowedInTournamentsFromDate": "2025-11-07",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "Ar",
       "color": "\u00c9meraude",
       "cost": 1,
@@ -157680,11 +157884,20 @@
       "fullName": "L'amoureux - Po\u00e8te \u00e9perdu d'amour",
       "fullText": "",
       "fullTextSections": [],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2259,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set10/70_daf86d22eea95d75b8499ce48a76bc5395dc0d99.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set10/70_b579df982146ff088606b830e49ce61eedc80cab.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set10/70_29b9deec580b8cb0a04f342a026a7083b3a6670f.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set10/70_22e291c0df02e4f64683070a88d7ed8b13f52460.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set10/70_9d8928f1feab58711a83ed721db748b568ffeacc.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set10/70_9e56cd48e2c2df21b8bc778c4ffc7b52010d3eda.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -158002,9 +158215,9 @@
       },
       "allowedInTournamentsFromDate": "2025-11-07",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "Aw",
       "color": "\u00c9meraude",
       "cost": 6,
@@ -158027,11 +158240,20 @@
       "fullTextSections": [
         "GRANDES EXIGENCES Chaque fois que ce\npersonnage est envoy\u00e9 \u00e0 l'aventure, vous pouvez\nchoisir un objet et le bannir."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2264,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set10/75_7464c29c586776cd1fa50e27ae5937958345fdb7.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set10/75_fe1170dad326c23aeabff8a644bd743aa609348e.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set10/75_7c3088708f118c32c8c4f3e1d4d5644013b2d134.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set10/75_2775bd2f5d0b4ee379f57a0a60e1948affe11668.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set10/75_3d768ab9752f4a048c3fb4ac25536fd07d3841c9.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set10/75_a54d244384c5fee077da0e98eb86cbbfa7e1bc48.jpg"
       },
       "inkwell": true,
       "lore": 2,
@@ -158198,9 +158420,9 @@
       },
       "allowedInTournamentsFromDate": "2025-11-07",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "Az",
       "color": "\u00c9meraude",
       "cost": 5,
@@ -158221,11 +158443,20 @@
       "fullName": "La Main Froide - \u00c9tonnement amical",
       "fullText": "",
       "fullTextSections": [],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2267,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set10/78_733ad7d567fa2658dc83a17efc3d3a3b473c1679.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set10/78_e9a7bb198d2a2127ebce2e1ab735e21464b98de1.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set10/78_b2875345bf821e1cad05f3627176746c9c2adb88.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set10/78_01c4b3439e6190f10eb909a518cadd2e0cd83a51.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set10/78_aa0ac96e9b5454aa288422c861cb26d3a3cecc8b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set10/78_69834ec0d812eb824f2b2f6537b1a7fef5235e0d.jpg"
       },
       "inkwell": true,
       "lore": 2,
@@ -163719,6 +163950,9 @@
       "lore": 1,
       "name": "Judy Hopps",
       "number": 156,
+      "promoIds": [
+        3590
+      ],
       "rarity": "Tr\u00e8s Rare",
       "setCode": "10",
       "simpleName": "judy hopps decouvrant des indices",
@@ -172345,6 +172579,9 @@
       "lore": 1,
       "name": "Angel",
       "number": 25,
+      "promoIds": [
+        3586
+      ],
       "rarity": "Inhabituelle",
       "setCode": "11",
       "simpleName": "angel chanteuse sirene",
@@ -173451,6 +173688,9 @@
       "lore": 1,
       "name": "Pocahontas",
       "number": 42,
+      "promoIds": [
+        3587
+      ],
       "rarity": "Tr\u00e8s Rare",
       "setCode": "11",
       "simpleName": "pocahontas suit le vent",
@@ -181684,8 +181924,8 @@
           "type": "triggered"
         },
         {
-          "effect": "Lorsque ce personnage est banni via un d\u00e9fi, vous pouvez placer toutes les cartes qui \u00e9taient sous lui, sous l'un de vos autres personnages ou de vos lieux.",
-          "fullText": "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+          "effect": "Lorsque ce personnage est banni via un d\u00e9fi, vous pouvez placer sous l'un de vos autres personnages ou de vos lieux toutes les cartes qui \u00e9taient sous ce personnage-ci, face cach\u00e9e.",
+          "fullText": "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer sous l'un de vos autres\npersonnages ou de vos lieux toutes les cartes qui\n\u00e9taient sous ce personnage-ci, face cach\u00e9e.",
           "name": "UN C\u0152UR G\u00c9N\u00c9REUX",
           "type": "triggered"
         }
@@ -181721,16 +181961,40 @@
       ],
       "fullIdentifier": "159/204 \u2022 FR \u2022 11",
       "fullName": "Mickey Mouse - Bob Cratchit",
-      "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.\nUN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+      "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.\nUN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer sous l'un de vos autres\npersonnages ou de vos lieux toutes les cartes qui\n\u00e9taient sous ce personnage-ci, face cach\u00e9e.",
       "fullTextSections": [
         "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.",
-        "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux."
+        "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer sous l'un de vos autres\npersonnages ou de vos lieux toutes les cartes qui\n\u00e9taient sous ce personnage-ci, face cach\u00e9e."
+      ],
+      "historicData": [
+        {
+          "abilities": [
+            {
+              "effect": "Chaque fois que ce personnage est envoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre pioche, face cach\u00e9e, sous lui.",
+              "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.",
+              "name": "DUR LABEUR",
+              "type": "triggered"
+            },
+            {
+              "effect": "Lorsque ce personnage est banni via un d\u00e9fi, vous pouvez placer toutes les cartes qui \u00e9taient sous lui, sous l'un de vos autres personnages ou de vos lieux.",
+              "fullText": "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+              "name": "UN C\u0152UR G\u00c9N\u00c9REUX",
+              "type": "triggered"
+            }
+          ],
+          "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.\nUN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+          "fullTextSections": [
+            "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.",
+            "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux."
+          ],
+          "usedUntil": "2026-09-22"
+        }
       ],
       "id": 2622,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set11/159_663166fb4d2ec1a3146c20471468cd272df3ec3c.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set11/159_057fdbb0220de43d8ed445c21fb6076895036698.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set11/159_d1b24bae1bedc15df19fdfcfe965036bfabb2a96.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set11/159_54cd9a99279ede49da9c713ab5099e8f5a57b1e3.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set11/159_4505b1e2dc4ce04ae8e934e5f6cfad474d3659bd.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set11/159_da99008b4f2623efde973e39f640654b6f0ba7ff.jpg"
       },
       "inkwell": true,
       "lore": 1,
@@ -184991,9 +185255,9 @@
       },
       "allowedInTournamentsFromDate": "2026-02-13",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 2470,
       "code": "H4",
       "color": "Ambre",
@@ -185016,11 +185280,20 @@
       "fullTextSections": [
         "AM\u00c8NE TES AMIS Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, si vous avez 2 autres personnages\nou plus en jeu, vous pouvez piocher une carte."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2670,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set11/207_66502165dd0317c1fe36d55664226c5f35ffade9.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set11/207_53c9de65e1fab9d5c1bd35461c71ead59c6d6238.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set11/207_0989fdd3048a28e188ae86ec31b9e9ba03d06833.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set11/207_ffd13d9bdb3041702fc4a363f7444b1c068ea9c6.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set11/207_8495370e606a155217b7f6598ab4b0974729819f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set11/207_c7cd63527fa5be646d3439fc3c1163659a6ba7eb.jpg",
         "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set11/207_cf2b700dc877b9ceb6e7db7091b0357ccb48039e.jpg"
       },
       "inkwell": true,
@@ -185880,8 +186153,8 @@
           "type": "triggered"
         },
         {
-          "effect": "Lorsque ce personnage est banni via un d\u00e9fi, vous pouvez placer toutes les cartes qui \u00e9taient sous lui, sous l'un de vos autres personnages ou de vos lieux.",
-          "fullText": "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+          "effect": "Lorsque ce personnage est banni via un d\u00e9fi, vous pouvez placer sous l'un de vos autres personnages ou de vos lieux toutes les cartes qui \u00e9taient sous ce personnage-ci, face cach\u00e9e.",
+          "fullText": "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer sous l'un de vos autres\npersonnages ou de vos lieux toutes les cartes qui\n\u00e9taient sous ce personnage-ci, face cach\u00e9e.",
           "name": "UN C\u0152UR G\u00c9N\u00c9REUX",
           "type": "triggered"
         }
@@ -185916,16 +186189,40 @@
       ],
       "fullIdentifier": "219/204 \u2022 FR \u2022 11",
       "fullName": "Mickey Mouse - Bob Cratchit",
-      "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.\nUN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+      "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.\nUN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer sous l'un de vos autres\npersonnages ou de vos lieux toutes les cartes qui\n\u00e9taient sous ce personnage-ci, face cach\u00e9e.",
       "fullTextSections": [
         "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.",
-        "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux."
+        "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer sous l'un de vos autres\npersonnages ou de vos lieux toutes les cartes qui\n\u00e9taient sous ce personnage-ci, face cach\u00e9e."
+      ],
+      "historicData": [
+        {
+          "abilities": [
+            {
+              "effect": "Chaque fois que ce personnage est envoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre pioche, face cach\u00e9e, sous lui.",
+              "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.",
+              "name": "DUR LABEUR",
+              "type": "triggered"
+            },
+            {
+              "effect": "Lorsque ce personnage est banni via un d\u00e9fi, vous pouvez placer toutes les cartes qui \u00e9taient sous lui, sous l'un de vos autres personnages ou de vos lieux.",
+              "fullText": "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+              "name": "UN C\u0152UR G\u00c9N\u00c9REUX",
+              "type": "triggered"
+            }
+          ],
+          "fullText": "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.\nUN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux.",
+          "fullTextSections": [
+            "DUR LABEUR Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, placez la carte du dessus de votre\npioche, face cach\u00e9e, sous lui.",
+            "UN C\u0152UR G\u00c9N\u00c9REUX Lorsque ce personnage est banni\nvia un d\u00e9fi, vous pouvez placer toutes les cartes qui\n\u00e9taient sous lui, sous l'un de vos autres personnages ou\nde vos lieux."
+          ],
+          "usedUntil": "2026-09-22"
+        }
       ],
       "id": 2682,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set11/219_f47dfc4981bd82a9a23d10f0a8621a73fd9b3dfd.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set11/219_2d788e951ebfca25c9aebb20b4f1574f291ceda5.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set11/219_3f86e391690a1614fb7f4ec4eef7500f887828ab.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set11/219_508f112120973444af5b397777059177c4da092c.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set11/219_07dd682b1729c3721b6a5cd01b7ebea55459e180.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set11/219_dc82e86fc208e04b40386548805c67db5b736486.jpg",
         "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set11/219_9e74499e5f27bee4f59160bea1cb565b1662413c.jpg"
       },
       "inkwell": true,
@@ -189334,9 +189631,9 @@
       },
       "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "code": "I2",
       "color": "Ambre",
       "cost": 5,
@@ -189360,11 +189657,20 @@
         "ALLONS-Y ! Chaque fois que ce personnage est envoy\u00e9 \u00e0\nl'aventure, piochez une carte. Ensuite, vous pouvez jouer\ngratuitement un personnage co\u00fbtant 2 ou moins.",
         "QUE TOUT LE MONDE SE RASSEMBLE Vos autres personnages\nJouet gagnent +1 \u26c9."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2730,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set12/15_f5085d5ebfbb8cb415b1777ba59f5bae04698c78.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/set12/15_11ce1baa701dbea9c57ccabb47569e10a21ce3be.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set12/15_b217cb420ae24c917d61979942250d59482074ee.jpg",
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set12/15_b16a534e2583d2a1eff05c01c8c54e11b11cb0e0.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set12/15_c977475695515c7f476a764621e5e5740a437d9a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set12/15_f959f1697d72533a58d2c9513fa02eae5c53d9dc.jpg",
         "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set12/15_210d131186778cf9d1de30e8cb58c2886da303af.jpg"
       },
       "inkwell": false,
@@ -189830,6 +190136,9 @@
       "lore": 1,
       "name": "Woody",
       "number": 21,
+      "promoIds": [
+        3585
+      ],
       "rarity": "Inhabituelle",
       "setCode": "12",
       "simpleName": "woody meneur des jouets",
@@ -195754,6 +196063,9 @@
       "lore": 1,
       "name": "P\u00e9gase",
       "number": 106,
+      "promoIds": [
+        3594
+      ],
       "rarity": "Commune",
       "setCode": "12",
       "simpleName": "pegase cherche entre ciel et terre",
@@ -201227,6 +201539,9 @@
       "lore": 1,
       "name": "M. Indestructible",
       "number": 185,
+      "promoIds": [
+        3591
+      ],
       "rarity": "Inhabituelle",
       "setCode": "12",
       "simpleName": "m indestructible elimine les dechets",
@@ -205755,9 +206070,9 @@
       },
       "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 2730,
       "code": "LS",
       "color": "Ambre",
@@ -205781,10 +206096,19 @@
         "ALLONS-Y ! Chaque fois que ce personnage est envoy\u00e9 \u00e0\nl'aventure, piochez une carte. Ensuite, vous pouvez jouer\ngratuitement un personnage co\u00fbtant 2 ou moins.",
         "QUE TOUT LE MONDE SE RASSEMBLE Vos autres personnages\nJouet gagnent +1 \u26c9."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2968,
       "images": {
-        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/53_0850d22b5bf5f599f7aee63339749f7d7e276b9b.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/53_86718da993cf49947f34760fd7eeff10b97ef704.jpg"
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/53_63cf2d65346f2297155b441d4ab54089ac5da695.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/53_4751963ca82864764c46e7e577f2055b798eb3a1.jpg"
       },
       "inkwell": false,
       "keywordAbilities": [
@@ -205843,9 +206167,9 @@
       },
       "allowedInTournamentsFromDate": "2026-05-08",
       "artists": [
-        "Jochem van Gool"
+        "Jochem Van Gool"
       ],
-      "artistsText": "Jochem van Gool",
+      "artistsText": "Jochem Van Gool",
       "baseId": 2730,
       "code": "LT",
       "color": "Ambre",
@@ -205869,11 +206193,20 @@
         "ALLONS-Y ! Chaque fois que ce personnage est envoy\u00e9 \u00e0\nl'aventure, piochez une carte. Ensuite, vous pouvez jouer\ngratuitement un personnage co\u00fbtant 2 ou moins.",
         "QUE TOUT LE MONDE SE RASSEMBLE Vos autres personnages\nJouet gagnent +1 \u26c9."
       ],
+      "historicData": [
+        {
+          "artists": [
+            "Jochem van Gool"
+          ],
+          "artistsText": "Jochem van Gool",
+          "usedUntil": "2026-09-22"
+        }
+      ],
       "id": 2969,
       "images": {
-        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo3/54_ecaeb36a78e958c0b76b65831701e7587ab0c79a.jpg",
-        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/54_369419183428510f0041e727ed0e43ddfe4177d8.jpg",
-        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/54_be24d321704ad7a518e30f3f121f7f94cf49f51d.jpg"
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/promo3/54_aaabab8aebe7ad2e541ec3c9bc8ef5d04b3c53d7.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/promo3/54_ad40d229016b743c09641b0f3216ea61afa70c6a.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/promo3/54_d2a0ee7a7f7d94773f3cdc0d3f0a4f7dfebb2871.jpg"
       },
       "inkwell": false,
       "keywordAbilities": [
@@ -208869,6 +209202,9 @@
       "lore": 1,
       "name": "Mal\u00e9fique",
       "number": 39,
+      "promoIds": [
+        3251
+      ],
       "rarity": "Commune",
       "setCode": "13",
       "simpleName": "malefique lanceuse de sorts exultante",
@@ -211537,7 +211873,8 @@
       "name": "Buzz l'\u00c9clair",
       "number": 77,
       "promoIds": [
-        3229
+        3229,
+        3248
       ],
       "rarity": "Rare",
       "setCode": "13",
@@ -212979,6 +213316,9 @@
       "lore": 1,
       "name": "Mushu",
       "number": 97,
+      "promoIds": [
+        3588
+      ],
       "rarity": "L\u00e9gendaire",
       "setCode": "13",
       "simpleName": "mushu dragon furtif",
@@ -225119,6 +225459,222 @@
       "willpower": 4
     },
     {
+      "abilities": [
+        {
+          "effect": "Vos autres personnages Ambre gagnent +2 \u26c9.",
+          "fullText": "MONTRANT LA VOIE Vos autres personnages Ambre\ngagnent +2 \u26c9.",
+          "name": "MONTRANT LA VOIE",
+          "type": "static"
+        },
+        {
+          "effect": "Tant que vous avez 2 autres personnages Ambre ou plus en jeu, ce personnage-ci gagne M\u00e9lomane 8. (Ce personnage est consid\u00e9r\u00e9 comme ayant un co\u00fbt de 8 pour chanter des chansons.)",
+          "fullText": "EN REFRAIN LES AMIS Tant que vous avez 2 autres\npersonnages Ambre ou plus en jeu, ce personnage-ci\ngagne M\u00e9lomane 8. (Ce personnage est consid\u00e9r\u00e9\ncomme ayant un co\u00fbt de 8 pour chanter des chansons.)",
+          "name": "EN REFRAIN LES AMIS",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2025-11-07",
+      "artists": [
+        "Lisa Parfenova"
+      ],
+      "artistsText": "Lisa Parfenova",
+      "baseId": 2212,
+      "code": "Qm",
+      "color": "Ambre",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "FreeForm2"
+      ],
+      "fullIdentifier": "6/DIS \u2022 FR \u2022 10",
+      "fullName": "Mickey Mouse - Champion Ambre",
+      "fullText": "MONTRANT LA VOIE Vos autres personnages Ambre\ngagnent +2 \u26c9.\nEN REFRAIN LES AMIS Tant que vous avez 2 autres\npersonnages Ambre ou plus en jeu, ce personnage-ci\ngagne M\u00e9lomane 8. (Ce personnage est consid\u00e9r\u00e9\ncomme ayant un co\u00fbt de 8 pour chanter des chansons.)",
+      "fullTextSections": [
+        "MONTRANT LA VOIE Vos autres personnages Ambre\ngagnent +2 \u26c9.",
+        "EN REFRAIN LES AMIS Tant que vous avez 2 autres\npersonnages Ambre ou plus en jeu, ce personnage-ci\ngagne M\u00e9lomane 8. (Ce personnage est consid\u00e9r\u00e9\ncomme ayant un co\u00fbt de 8 pour chanter des chansons.)"
+      ],
+      "id": 3246,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/dis/6_eae33a247187446f74e5f4344849d4d2b4ca13f1.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/dis/6_6964ac5960d58a559e97c4956fd4a6939e5ca50f.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/dis/6_076cc97f360550a8d7bca0f07183d877d5bf76db.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Mickey Mouse",
+      "number": 6,
+      "promoGrouping": "DIS",
+      "promoSourceCategory": "Disney Parks & Stores",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "10",
+      "simpleName": "mickey mouse champion ambre",
+      "story": "Mickey Mouse et ses amis",
+      "strength": 2,
+      "subtypes": [
+        "Dreamborn",
+        "H\u00e9ros"
+      ],
+      "subtypesText": "Dreamborn \u2022 H\u00e9ros",
+      "type": "Personnage",
+      "version": "Champion Ambre",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Charge (Ce personnage peut d\u00e9fier le tour o\u00f9 il est jou\u00e9.)",
+          "keyword": "Charge",
+          "reminderText": "Ce personnage peut d\u00e9fier le tour o\u00f9 il est jou\u00e9.",
+          "type": "keyword"
+        },
+        {
+          "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+          "keyword": "Insaisissable",
+          "reminderText": "Seuls les personnages avec Insaisissable peuvent d\u00e9fier ce personnage.",
+          "type": "keyword"
+        },
+        {
+          "effect": "Lorsque vous jouez ce personnage, choisissez un personnage adverse et \u00e9puisez-le.",
+          "fullText": "CRISTALLISATION Lorsque vous jouez ce\npersonnage, choisissez un personnage adverse et\n\u00e9puisez-le.",
+          "name": "CRISTALLISATION",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false,
+          "allowedUntilDate": "2026-07-17"
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2024-08-30",
+      "artists": [
+        "Lisanne Koeteeuw"
+      ],
+      "artistsText": "Lisanne Koeteeuw",
+      "baseId": 1004,
+      "code": "Qn",
+      "color": "Am\u00e9thyste",
+      "cost": 5,
+      "externalLinks": {},
+      "foilTypes": [
+        "FreeForm2"
+      ],
+      "fullIdentifier": "7/DIS \u2022 FR \u2022 5",
+      "fullName": "Elsa - Le cinqui\u00e8me esprit",
+      "fullText": "Charge (Ce personnage peut d\u00e9fier le tour o\u00f9 il est jou\u00e9.)\nInsaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)\nCRISTALLISATION Lorsque vous jouez ce\npersonnage, choisissez un personnage adverse et\n\u00e9puisez-le.",
+      "fullTextSections": [
+        "Charge (Ce personnage peut d\u00e9fier le tour o\u00f9 il est jou\u00e9.)",
+        "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+        "CRISTALLISATION Lorsque vous jouez ce\npersonnage, choisissez un personnage adverse et\n\u00e9puisez-le."
+      ],
+      "id": 3247,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/dis/7_3c692bb46ef06fd98749610d6e61c5ab36c08d9d.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/dis/7_08d073d50f6dd9bfb732d4933ecd10a63a70207e.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/dis/7_719ee33fd1be4a09ec79f2574618d0b4eec145cf.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Charge",
+        "Insaisissable"
+      ],
+      "lore": 1,
+      "name": "Elsa",
+      "number": 7,
+      "promoGrouping": "DIS",
+      "promoSourceCategory": "Disney Parks & Stores",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "5",
+      "simpleName": "elsa le cinquieme esprit",
+      "story": "La Reine des neiges",
+      "strength": 2,
+      "subtypes": [
+        "Dreamborn",
+        "H\u00e9ros",
+        "Reine",
+        "Mage"
+      ],
+      "subtypesText": "Dreamborn \u2022 H\u00e9ros \u2022 Reine \u2022 Mage",
+      "type": "Personnage",
+      "version": "Le cinqui\u00e8me esprit",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, choisissez l'une de ces options. Si vous avez un autre personnage Jouet en jeu, choisissez les deux \u00e0 la place : \u2022 Vous pouvez renvoyer dans votre main une carte Action co\u00fbtant 2 ou moins de votre d\u00e9fausse. \u2022 Vous pouvez jouer gratuitement une action co\u00fbtant 2 ou moins.",
+          "fullText": "PANTIN ARTICUL\u00c9 Lorsque vous jouez ce personnage,\nchoisissez l'une de ces options. Si vous avez un autre\npersonnage Jouet en jeu, choisissez les deux \u00e0 la place :\n\u2022 Vous pouvez renvoyer dans votre main une carte Action\nco\u00fbtant 2 ou moins de votre d\u00e9fausse.\n\u2022 Vous pouvez jouer gratuitement une action co\u00fbtant\n2 ou moins.",
+          "name": "PANTIN ARTICUL\u00c9",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-07-17",
+      "artists": [
+        "Marcel Berg"
+      ],
+      "artistsText": "Marcel Berg",
+      "baseId": 3048,
+      "code": "Qo",
+      "color": "\u00c9meraude",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "FreeForm2"
+      ],
+      "fullIdentifier": "8/DIS \u2022 FR \u2022 13",
+      "fullName": "Buzz l'\u00c9clair - Assure la couverture",
+      "fullText": "PANTIN ARTICUL\u00c9 Lorsque vous jouez ce personnage,\nchoisissez l'une de ces options. Si vous avez un autre\npersonnage Jouet en jeu, choisissez les deux \u00e0 la place :\n\u2022 Vous pouvez renvoyer dans votre main une carte Action\nco\u00fbtant 2 ou moins de votre d\u00e9fausse.\n\u2022 Vous pouvez jouer gratuitement une action co\u00fbtant\n2 ou moins.",
+      "fullTextSections": [
+        "PANTIN ARTICUL\u00c9 Lorsque vous jouez ce personnage,\nchoisissez l'une de ces options. Si vous avez un autre\npersonnage Jouet en jeu, choisissez les deux \u00e0 la place :\n\u2022 Vous pouvez renvoyer dans votre main une carte Action\nco\u00fbtant 2 ou moins de votre d\u00e9fausse.\n\u2022 Vous pouvez jouer gratuitement une action co\u00fbtant\n2 ou moins."
+      ],
+      "id": 3248,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/dis/8_a38723e089df7f916e0de2833fbeb529125c5fa2.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/dis/8_f0bb7afe53c669da612a7e0669f34766b23ba31b.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/dis/8_fbe69c7d4955b597837b7bec0b698f27299dd065.jpg"
+      },
+      "inkwell": false,
+      "lore": 2,
+      "name": "Buzz l'\u00c9clair",
+      "number": 8,
+      "promoGrouping": "DIS",
+      "promoSourceCategory": "Disney Parks & Stores",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "13",
+      "simpleName": "buzz l'eclair assure la couverture",
+      "story": "Toy Story",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "H\u00e9ros",
+        "Jouet",
+        "Capitaine"
+      ],
+      "subtypesText": "Storyborn \u2022 H\u00e9ros \u2022 Jouet \u2022 Capitaine",
+      "type": "Personnage",
+      "version": "Assure la couverture",
+      "willpower": 2
+    },
+    {
       "allowedInFormats": {
         "Core": {
           "allowed": true
@@ -225177,6 +225733,758 @@
       "type": "Personnage",
       "version": "Ranger de l'espace",
       "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Une fois durant votre tour, lorsqu'un personnage est d\u00e9plac\u00e9 sur ce lieu, chaque joueur gagne 1 goutte d'encre et 1 \u00e9clat de Lore. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "fullText": "BIENVENUE EN VILLE Une fois durant votre tour, lorsqu'un personnage\nest d\u00e9plac\u00e9 sur ce lieu, chaque joueur gagne 1 goutte d'encre et 1 \u00e9clat\nde Lore. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "name": "BIENVENUE EN VILLE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Matthew Oates"
+      ],
+      "artistsText": "Matthew Oates",
+      "code": "Rd",
+      "color": "Ambre",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "34/204 \u2022 FR \u2022 14",
+      "fullName": "Autorit\u00e9 portuaire - Hub central",
+      "fullText": "BIENVENUE EN VILLE Une fois durant votre tour, lorsqu'un personnage\nest d\u00e9plac\u00e9 sur ce lieu, chaque joueur gagne 1 goutte d'encre et 1 \u00e9clat\nde Lore. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "BIENVENUE EN VILLE Une fois durant votre tour, lorsqu'un personnage\nest d\u00e9plac\u00e9 sur ce lieu, chaque joueur gagne 1 goutte d'encre et 1 \u00e9clat\nde Lore. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3299,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/34_6f5bc4f3260c84e9b47d266fc89ab86aa7022b8b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/34_fb01f88a307735b3b1a3a0a2e7698f758d7351a4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/34_6bd998110e50191c3163c0ecaec03fd0ad17afcd.jpg"
+      },
+      "inkwell": false,
+      "lore": 2,
+      "moveCost": 1,
+      "name": "Autorit\u00e9 portuaire",
+      "number": 34,
+      "rarity": "Inhabituelle",
+      "setCode": "14",
+      "simpleName": "autorite portuaire hub central",
+      "story": "Lorcana",
+      "subtypes": [
+        "Hyperia City"
+      ],
+      "subtypesText": "Hyperia City",
+      "type": "Lieu",
+      "version": "Hub central",
+      "willpower": 8
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, si vous avez un personnage nomm\u00e9 Arthur en jeu, gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "fullText": "MAT\u00c9RIAU BRUT Lorsque vous jouez ce personnage,\nsi vous avez un personnage nomm\u00e9 Arthur en jeu,\ngagnez 1 goutte d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)",
+          "name": "MAT\u00c9RIAU BRUT",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Laura De Pascale"
+      ],
+      "artistsText": "Laura De Pascale",
+      "code": "Ri",
+      "color": "Am\u00e9thyste",
+      "cost": 3,
+      "externalLinks": {},
+      "flavorText": "\u201cAh, dis-moi, tu les as enfin trouv\u00e9es ?\u201d",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "39/204 \u2022 FR \u2022 14",
+      "fullName": "Merlin - Expert en babioles",
+      "fullText": "MAT\u00c9RIAU BRUT Lorsque vous jouez ce personnage,\nsi vous avez un personnage nomm\u00e9 Arthur en jeu,\ngagnez 1 goutte d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "MAT\u00c9RIAU BRUT Lorsque vous jouez ce personnage,\nsi vous avez un personnage nomm\u00e9 Arthur en jeu,\ngagnez 1 goutte d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3304,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/39_f2f6f6a5038fe5a52c4450c0ea5f52d10cc35f08.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/39_204670ceefaee42f29b200432b8d2329242e4f1d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/39_aa1a3cd9790f28bd195094941ac1c57083077e68.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Merlin",
+      "number": 39,
+      "rarity": "Commune",
+      "setCode": "14",
+      "simpleName": "merlin expert en babioles",
+      "story": "Merlin l'Enchanteur",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Mentor",
+        "Mage"
+      ],
+      "subtypesText": "Storyborn \u2022 Mentor \u2022 Mage",
+      "type": "Personnage",
+      "version": "Expert en babioles",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, si vous avez retir\u00e9 une goutte d'encre pour le jouer, piochez 2 cartes.",
+          "fullText": "PRENDRE LA MAIN Lorsque vous jouez ce personnage,\nsi vous avez retir\u00e9 une goutte d'encre pour le jouer,\npiochez 2 cartes.",
+          "name": "PRENDRE LA MAIN",
+          "type": "triggered"
+        },
+        {
+          "effect": "Une fois durant votre tour, lorsque vous retirez une goutte d'encre, piochez une carte.",
+          "fullText": "JEU DE BABIOLES Une fois durant votre tour, lorsque\nvous retirez une goutte d'encre, piochez une carte.",
+          "name": "JEU DE BABIOLES",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Marcel Berg"
+      ],
+      "artistsText": "Marcel Berg",
+      "code": "RC",
+      "color": "Am\u00e9thyste",
+      "cost": 8,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver",
+        "RainbowPillars"
+      ],
+      "fullIdentifier": "59/204 \u2022 FR \u2022 14",
+      "fullName": "Madame Mime - Roublarde pleine de ressources",
+      "fullText": "PRENDRE LA MAIN Lorsque vous jouez ce personnage,\nsi vous avez retir\u00e9 une goutte d'encre pour le jouer,\npiochez 2 cartes.\nJEU DE BABIOLES Une fois durant votre tour, lorsque\nvous retirez une goutte d'encre, piochez une carte.",
+      "fullTextSections": [
+        "PRENDRE LA MAIN Lorsque vous jouez ce personnage,\nsi vous avez retir\u00e9 une goutte d'encre pour le jouer,\npiochez 2 cartes.",
+        "JEU DE BABIOLES Une fois durant votre tour, lorsque\nvous retirez une goutte d'encre, piochez une carte."
+      ],
+      "id": 3324,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/59_859fc27d3fa20aeec4e5fa20f8bbc79b0c940797.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/59_9cb687f012b113d2dff69fb4fff8df1c77c6d8d4.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/59_fd0b62eea45063f0b40d6ef38a7a533ecacfe72b.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set14/59_ac17c104f9574feba1ebcc8689cac76d56c01efd.jpg"
+      },
+      "inkwell": true,
+      "lore": 3,
+      "name": "Madame Mime",
+      "number": 59,
+      "rarity": "L\u00e9gendaire",
+      "setCode": "14",
+      "simpleName": "madame mime roublarde pleine de ressources",
+      "story": "Merlin l'Enchanteur",
+      "strength": 7,
+      "subtypes": [
+        "Dreamborn",
+        "M\u00e9chant",
+        "Mage"
+      ],
+      "subtypesText": "Dreamborn \u2022 M\u00e9chant \u2022 Mage",
+      "type": "Personnage",
+      "varnishType": "HighGloss",
+      "version": "Roublarde pleine de ressources",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Vous pouvez \u27f3 un personnage co\u00fbtant 6 ou plus pour chanter cette chanson gratuitement.",
+          "fullText": "(Vous pouvez \u27f3 un personnage co\u00fbtant 6 ou plus pour\nchanter cette chanson gratuitement.)",
+          "type": "static"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Julie Vu"
+      ],
+      "artistsText": "Julie Vu",
+      "code": "RF",
+      "color": "Am\u00e9thyste",
+      "cost": 6,
+      "effects": [
+        "Gagnez 3 gouttes d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "62/204 \u2022 FR \u2022 14",
+      "fullName": "Higitus Figitus",
+      "fullText": "(Vous pouvez \u27f3 un personnage co\u00fbtant 6 ou plus pour\nchanter cette chanson gratuitement.)\nGagnez 3 gouttes d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "(Vous pouvez \u27f3 un personnage co\u00fbtant 6 ou plus pour\nchanter cette chanson gratuitement.)",
+        "Gagnez 3 gouttes d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3327,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/62_fb59823bb4d7e7df7cb329cda86482d63736556b.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/62_365739b179e9ebe12221f5659a778b411e038cab.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/62_a374ef38445ce37b3c4f0d56bb5eff90fb8195ac.jpg"
+      },
+      "inkwell": true,
+      "name": "Higitus Figitus",
+      "number": 62,
+      "rarity": "Commune",
+      "setCode": "14",
+      "simpleName": "higitus figitus",
+      "story": "Merlin l'Enchanteur",
+      "subtypes": [
+        "Chanson"
+      ],
+      "subtypesText": "Chanson",
+      "type": "Action"
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, r\u00e9v\u00e9lez la carte du dessus de votre pioche. S'il s'agit d'une carte Objet nomm\u00e9e Guide touristique de Belle ou d'une carte Action, vous pouvez l'ajouter \u00e0 votre main. Sinon, placez-la sous votre pioche.",
+          "fullText": "AVENTURES EN VILLE Lorsque vous jouez ce\npersonnage, r\u00e9v\u00e9lez la carte du dessus de votre\npioche. S'il s'agit d'une carte Objet nomm\u00e9e Guide\ntouristique de Belle ou d'une carte Action, vous\npouvez l'ajouter \u00e0 votre main. Sinon, placez-la sous\nvotre pioche.",
+          "name": "AVENTURES EN VILLE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Maria Dresden"
+      ],
+      "artistsText": "Maria Dresden",
+      "code": "RS",
+      "color": "\u00c9meraude",
+      "cost": 2,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "75/204 \u2022 FR \u2022 14",
+      "fullName": "Belle - \u00c9crivaine songeuse",
+      "fullText": "AVENTURES EN VILLE Lorsque vous jouez ce\npersonnage, r\u00e9v\u00e9lez la carte du dessus de votre\npioche. S'il s'agit d'une carte Objet nomm\u00e9e Guide\ntouristique de Belle ou d'une carte Action, vous\npouvez l'ajouter \u00e0 votre main. Sinon, placez-la sous\nvotre pioche.",
+      "fullTextSections": [
+        "AVENTURES EN VILLE Lorsque vous jouez ce\npersonnage, r\u00e9v\u00e9lez la carte du dessus de votre\npioche. S'il s'agit d'une carte Objet nomm\u00e9e Guide\ntouristique de Belle ou d'une carte Action, vous\npouvez l'ajouter \u00e0 votre main. Sinon, placez-la sous\nvotre pioche."
+      ],
+      "id": 3340,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/75_3ecbde67945f816806653196bf555399a66508f9.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/75_7db5e86c985ace4c229e7499d66b3f1a332b067d.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/75_42174c62a04a0ba66085aca5b84ee86b12374459.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Belle",
+      "number": 75,
+      "rarity": "Inhabituelle",
+      "setCode": "14",
+      "simpleName": "belle ecrivaine songeuse",
+      "story": "La Belle et la B\u00eate",
+      "strength": 2,
+      "subtypes": [
+        "Dreamborn",
+        "H\u00e9ros",
+        "Princesse"
+      ],
+      "subtypesText": "Dreamborn \u2022 H\u00e9ros \u2022 Princesse",
+      "type": "Personnage",
+      "version": "\u00c9crivaine songeuse",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, chaque adversaire peut d\u00e9fausser une carte. Pour chaque adversaire qui ne le fait pas, gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "fullText": "ACCORD UNILAT\u00c9RAL Lorsque vous jouez ce\npersonnage, chaque adversaire peut d\u00e9fausser\nune carte. Pour chaque adversaire qui ne le fait\npas, gagnez 1 goutte d'encre. (Vous pouvez retirer\nl'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "name": "ACCORD UNILAT\u00c9RAL",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "David Forrest"
+      ],
+      "artistsText": "David Forrest",
+      "code": "RY",
+      "color": "\u00c9meraude",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "81/204 \u2022 FR \u2022 14",
+      "fullName": "Shere Khan - Magnat opportuniste",
+      "fullText": "ACCORD UNILAT\u00c9RAL Lorsque vous jouez ce\npersonnage, chaque adversaire peut d\u00e9fausser\nune carte. Pour chaque adversaire qui ne le fait\npas, gagnez 1 goutte d'encre. (Vous pouvez retirer\nl'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "ACCORD UNILAT\u00c9RAL Lorsque vous jouez ce\npersonnage, chaque adversaire peut d\u00e9fausser\nune carte. Pour chaque adversaire qui ne le fait\npas, gagnez 1 goutte d'encre. (Vous pouvez retirer\nl'une de vos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3346,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/81_5f59ddc91bf741e999bfa4f905e2787b928e9781.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/81_1f33e1c38c0a6b503a7e7bb79952086b259bfbda.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/81_7bd42e79ebf9e52551950fd77f4582afe904f372.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Shere Khan",
+      "number": 81,
+      "rarity": "Inhabituelle",
+      "setCode": "14",
+      "simpleName": "shere khan magnat opportuniste",
+      "story": "Super Baloo",
+      "strength": 4,
+      "subtypes": [
+        "Dreamborn",
+        "M\u00e9chant"
+      ],
+      "subtypesText": "Dreamborn \u2022 M\u00e9chant",
+      "type": "Personnage",
+      "version": "Magnat opportuniste",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage et chaque fois qu'il est envoy\u00e9 \u00e0 l'aventure, vous pouvez choisir l'un de vos objets et le bannir. Si vous le faites, piochez une carte et gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "fullText": "CHIMIE DE POINTE Lorsque vous jouez ce\npersonnage et chaque fois qu'il est envoy\u00e9 \u00e0\nl'aventure, vous pouvez choisir l'un de vos objets\net le bannir. Si vous le faites, piochez une carte et\ngagnez 1 goutte d'encre. (Vous pouvez retirer l'une\nde vos gouttes d'encre pour payer 1 \u2b21.)",
+          "name": "CHIMIE DE POINTE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Caelys"
+      ],
+      "artistsText": "Caelys",
+      "code": "Sa",
+      "color": "\u00c9meraude",
+      "cost": 3,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "93/204 \u2022 FR \u2022 14",
+      "fullName": "Honey Lemon - Teste les limites",
+      "fullText": "CHIMIE DE POINTE Lorsque vous jouez ce\npersonnage et chaque fois qu'il est envoy\u00e9 \u00e0\nl'aventure, vous pouvez choisir l'un de vos objets\net le bannir. Si vous le faites, piochez une carte et\ngagnez 1 goutte d'encre. (Vous pouvez retirer l'une\nde vos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "CHIMIE DE POINTE Lorsque vous jouez ce\npersonnage et chaque fois qu'il est envoy\u00e9 \u00e0\nl'aventure, vous pouvez choisir l'un de vos objets\net le bannir. Si vous le faites, piochez une carte et\ngagnez 1 goutte d'encre. (Vous pouvez retirer l'une\nde vos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3358,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/93_fe5e74fb3ffb54f2a74f525c21cfb3404ce464d0.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/93_3c15cebc853aa83a8be282357d7ff34dd7181cd5.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/93_ae99268fbd7c49ef79ac896875c283058e912aca.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Honey Lemon",
+      "number": 93,
+      "rarity": "Rare",
+      "setCode": "14",
+      "simpleName": "honey lemon teste les limites",
+      "story": "Les Nouveaux H\u00e9ros",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "Super",
+        "H\u00e9ros",
+        "Inventeur"
+      ],
+      "subtypesText": "Storyborn \u2022 Super \u2022 H\u00e9ros \u2022 Inventeur",
+      "type": "Personnage",
+      "version": "Teste les limites",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, si vous avez retir\u00e9 une goutte d'encre pour le jouer, vos autres personnages gagnent R\u00e9sistance +1 et Hors d'atteinte jusqu'au d\u00e9but de votre prochain tour. (Les dommages qui leur sont inflig\u00e9s sont r\u00e9duits de 1. Les adversaires ne peuvent pas choisir ces personnages, hormis pour un d\u00e9fi.)",
+          "fullText": "LA S\u00c9CURIT\u00c9 AVANT TOUT Lorsque vous jouez ce\npersonnage, si vous avez retir\u00e9 une goutte d'encre\npour le jouer, vos autres personnages gagnent\nR\u00e9sistance +1 et Hors d'atteinte jusqu'au d\u00e9but de\nvotre prochain tour. (Les dommages qui leur sont\ninflig\u00e9s sont r\u00e9duits de 1. Les adversaires ne peuvent\npas choisir ces personnages, hormis pour un d\u00e9fi.)",
+          "name": "LA S\u00c9CURIT\u00c9 AVANT TOUT",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "French Carlomagno"
+      ],
+      "artistsText": "French Carlomagno",
+      "code": "SU",
+      "color": "Saphir",
+      "cost": 5,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "139/204 \u2022 FR \u2022 14",
+      "fullName": "Wasabi - Pense le futur",
+      "fullText": "LA S\u00c9CURIT\u00c9 AVANT TOUT Lorsque vous jouez ce\npersonnage, si vous avez retir\u00e9 une goutte d'encre\npour le jouer, vos autres personnages gagnent\nR\u00e9sistance +1 et Hors d'atteinte jusqu'au d\u00e9but de\nvotre prochain tour. (Les dommages qui leur sont\ninflig\u00e9s sont r\u00e9duits de 1. Les adversaires ne peuvent\npas choisir ces personnages, hormis pour un d\u00e9fi.)",
+      "fullTextSections": [
+        "LA S\u00c9CURIT\u00c9 AVANT TOUT Lorsque vous jouez ce\npersonnage, si vous avez retir\u00e9 une goutte d'encre\npour le jouer, vos autres personnages gagnent\nR\u00e9sistance +1 et Hors d'atteinte jusqu'au d\u00e9but de\nvotre prochain tour. (Les dommages qui leur sont\ninflig\u00e9s sont r\u00e9duits de 1. Les adversaires ne peuvent\npas choisir ces personnages, hormis pour un d\u00e9fi.)"
+      ],
+      "id": 3404,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/139_641acece006cab510ff35050adb892f19ad2964a.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/139_892abbebe4455a2b47ceeb31b60f3f5189a44739.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/139_e378ea25302bb7f836ef41c7f56716cf9f42809a.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Wasabi",
+      "number": 139,
+      "rarity": "Inhabituelle",
+      "setCode": "14",
+      "simpleName": "wasabi pense le futur",
+      "story": "Les Nouveaux H\u00e9ros",
+      "strength": 5,
+      "subtypes": [
+        "Storyborn",
+        "Super",
+        "H\u00e9ros",
+        "Inventeur"
+      ],
+      "subtypesText": "Storyborn \u2022 Super \u2022 H\u00e9ros \u2022 Inventeur",
+      "type": "Personnage",
+      "version": "Pense le futur",
+      "willpower": 5
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Chaque fois que ce personnage est envoy\u00e9 \u00e0 l'aventure, chaque joueur r\u00e9v\u00e8le la carte du dessus de sa pioche. Ajoutez la carte ayant le co\u00fbt le plus \u00e9lev\u00e9 ainsi r\u00e9v\u00e9l\u00e9e, ou chaque carte \u00e0 \u00e9galit\u00e9 pour le co\u00fbt le plus \u00e9lev\u00e9, \u00e0 la main de son propri\u00e9taire. Placez les autres sous la pioche de leur propri\u00e9taire.",
+          "fullText": "COUP DE VEINE Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, chaque joueur r\u00e9v\u00e8le la carte du\ndessus de sa pioche. Ajoutez la carte ayant le co\u00fbt le\nplus \u00e9lev\u00e9 ainsi r\u00e9v\u00e9l\u00e9e, ou chaque carte \u00e0 \u00e9galit\u00e9 pour\nle co\u00fbt le plus \u00e9lev\u00e9, \u00e0 la main de son propri\u00e9taire.\nPlacez les autres sous la pioche de leur propri\u00e9taire.",
+          "name": "COUP DE VEINE",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Ada Devecchi"
+      ],
+      "artistsText": "Ada Devecchi",
+      "code": "T7",
+      "color": "Saphir",
+      "cost": 2,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "152/204 \u2022 FR \u2022 14",
+      "fullName": "Thomas O'Malley - Vagabond avis\u00e9",
+      "fullText": "COUP DE VEINE Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, chaque joueur r\u00e9v\u00e8le la carte du\ndessus de sa pioche. Ajoutez la carte ayant le co\u00fbt le\nplus \u00e9lev\u00e9 ainsi r\u00e9v\u00e9l\u00e9e, ou chaque carte \u00e0 \u00e9galit\u00e9 pour\nle co\u00fbt le plus \u00e9lev\u00e9, \u00e0 la main de son propri\u00e9taire.\nPlacez les autres sous la pioche de leur propri\u00e9taire.",
+      "fullTextSections": [
+        "COUP DE VEINE Chaque fois que ce personnage est\nenvoy\u00e9 \u00e0 l'aventure, chaque joueur r\u00e9v\u00e8le la carte du\ndessus de sa pioche. Ajoutez la carte ayant le co\u00fbt le\nplus \u00e9lev\u00e9 ainsi r\u00e9v\u00e9l\u00e9e, ou chaque carte \u00e0 \u00e9galit\u00e9 pour\nle co\u00fbt le plus \u00e9lev\u00e9, \u00e0 la main de son propri\u00e9taire.\nPlacez les autres sous la pioche de leur propri\u00e9taire."
+      ],
+      "id": 3417,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/152_d29b885f39b4d2d43cc3d3a58e97dfc30e7b06c1.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/152_1b95b4f7a78b4f36ef4045b6b419b8e975e309c6.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/152_1828ba703ac330b72d937d7fda63cfb7029894cd.jpg"
+      },
+      "inkwell": true,
+      "lore": 2,
+      "name": "Thomas O'Malley",
+      "number": 152,
+      "rarity": "Tr\u00e8s Rare",
+      "setCode": "14",
+      "simpleName": "thomas o'malley vagabond avise",
+      "story": "Les Aristochats",
+      "strength": 2,
+      "subtypes": [
+        "Storyborn",
+        "H\u00e9ros"
+      ],
+      "subtypesText": "Storyborn \u2022 H\u00e9ros",
+      "type": "Personnage",
+      "version": "Vagabond avis\u00e9",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, vous pouvez payer 1 \u2b21 pour gagner 1 goutte d'encre. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "fullText": "ARTISANAT SOIGN\u00c9 Lorsque vous jouez ce personnage,\nvous pouvez payer 1 \u2b21 pour gagner 1 goutte d'encre. (Vous\npouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "name": "ARTISANAT SOIGN\u00c9",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Leonardo Giammichele"
+      ],
+      "artistsText": "Leonardo Giammichele",
+      "code": "TE",
+      "color": "Acier",
+      "cost": 2,
+      "externalLinks": {},
+      "flavorText": "\u201cIl faut de la force et un mental d'acier pour fa\u00e7onner ces\ngouttes d'encre.\u201d\n\u2014Merlin",
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "185/204 \u2022 FR \u2022 14",
+      "fullName": "Arthur - Apprenti forgeron",
+      "fullText": "ARTISANAT SOIGN\u00c9 Lorsque vous jouez ce personnage,\nvous pouvez payer 1 \u2b21 pour gagner 1 goutte d'encre. (Vous\npouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "ARTISANAT SOIGN\u00c9 Lorsque vous jouez ce personnage,\nvous pouvez payer 1 \u2b21 pour gagner 1 goutte d'encre. (Vous\npouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3450,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/185_86dbb8ca47dedb2e7b1076290a7dc40adb35ff69.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/185_f2fc01683f758fcab12f6f5fae2a7bc804d83900.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/185_6659958eb093a000c14c1ef34f560b6612a91eb3.jpg"
+      },
+      "inkwell": true,
+      "lore": 1,
+      "name": "Arthur",
+      "number": 185,
+      "rarity": "Commune",
+      "setCode": "14",
+      "simpleName": "arthur apprenti forgeron",
+      "story": "Merlin l'Enchanteur",
+      "strength": 2,
+      "subtypes": [
+        "Dreamborn",
+        "H\u00e9ros"
+      ],
+      "subtypesText": "Dreamborn \u2022 H\u00e9ros",
+      "type": "Personnage",
+      "version": "Apprenti forgeron",
+      "willpower": 3
+    },
+    {
+      "abilities": [
+        {
+          "effect": "Lorsque vous jouez ce personnage, choisissez un personnage qui peut d\u00e9fier les personnages redress\u00e9s pour le reste de ce tour.",
+          "fullText": "NOUVELLE PRIME Lorsque vous jouez ce personnage,\nchoisissez un personnage qui peut d\u00e9fier les personnages\nredress\u00e9s pour le reste de ce tour.",
+          "name": "NOUVELLE PRIME",
+          "type": "triggered"
+        },
+        {
+          "effect": "Une fois durant votre tour, lorsque l'un de vos autres personnages en bannit un autre via un d\u00e9fi, gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de vos gouttes d'encre pour payer 1 \u2b21.)",
+          "fullText": "DOMINER LE MARCH\u00c9 Une fois durant votre tour, lorsque\nl'un de vos autres personnages en bannit un autre via un\nd\u00e9fi, gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)",
+          "name": "DOMINER LE MARCH\u00c9",
+          "type": "triggered"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": false
+        },
+        "Infinity": {
+          "allowed": false
+        }
+      },
+      "allowedInTournamentsFromDate": null,
+      "artists": [
+        "Aitor Sebasti\u00e1n"
+      ],
+      "artistsText": "Aitor Sebasti\u00e1n",
+      "code": "TO",
+      "color": "Acier",
+      "cost": 4,
+      "externalLinks": {},
+      "foilTypes": [
+        "None",
+        "Silver"
+      ],
+      "fullIdentifier": "195/204 \u2022 FR \u2022 14",
+      "fullName": "Shere Khan - PDG des Industries Khan",
+      "fullText": "NOUVELLE PRIME Lorsque vous jouez ce personnage,\nchoisissez un personnage qui peut d\u00e9fier les personnages\nredress\u00e9s pour le reste de ce tour.\nDOMINER LE MARCH\u00c9 Une fois durant votre tour, lorsque\nl'un de vos autres personnages en bannit un autre via un\nd\u00e9fi, gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)",
+      "fullTextSections": [
+        "NOUVELLE PRIME Lorsque vous jouez ce personnage,\nchoisissez un personnage qui peut d\u00e9fier les personnages\nredress\u00e9s pour le reste de ce tour.",
+        "DOMINER LE MARCH\u00c9 Une fois durant votre tour, lorsque\nl'un de vos autres personnages en bannit un autre via un\nd\u00e9fi, gagnez 1 goutte d'encre. (Vous pouvez retirer l'une de\nvos gouttes d'encre pour payer 1 \u2b21.)"
+      ],
+      "id": 3460,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/set14/195_6f14a5cf6cc8cb8c6386716601c79f5174f52467.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/set14/195_d76246a8fc713f09f26b8da7c984d181147d1172.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/set14/195_7a9c30b4eb3b88974a1ee1e8fef36ffb9d677f3d.jpg",
+        "varnishMask": "https://api.lorcana.ravensburger.com/images/fr/set14/195_b9378a2bd6d21d066fb9caf8a2ffe123ce23b5a4.jpg"
+      },
+      "inkwell": false,
+      "lore": 1,
+      "name": "Shere Khan",
+      "number": 195,
+      "rarity": "L\u00e9gendaire",
+      "setCode": "14",
+      "simpleName": "shere khan pdg des industries khan",
+      "story": "Super Baloo",
+      "strength": 4,
+      "subtypes": [
+        "Storyborn",
+        "M\u00e9chant"
+      ],
+      "subtypesText": "Storyborn \u2022 M\u00e9chant",
+      "type": "Personnage",
+      "varnishType": "HighGloss",
+      "version": "PDG des Industries Khan",
+      "willpower": 2
+    },
+    {
+      "abilities": [
+        {
+          "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+          "keyword": "Insaisissable",
+          "reminderText": "Seuls les personnages avec Insaisissable peuvent d\u00e9fier ce personnage.",
+          "type": "keyword"
+        }
+      ],
+      "allowedInFormats": {
+        "Core": {
+          "allowed": true
+        },
+        "Infinity": {
+          "allowed": true
+        }
+      },
+      "allowedInTournamentsFromDate": "2026-05-08",
+      "artists": [
+        "Daniel Rodriguez"
+      ],
+      "artistsText": "Daniel Rodriguez",
+      "baseId": 2821,
+      "code": "VY",
+      "color": "Rubis",
+      "cost": 6,
+      "externalLinks": {},
+      "flavorText": "\u201cCe P\u00e9gase peut transporter presque tout sur\nson dos, m\u00eame un archiviste terrifi\u00e9.\u201d\n\u2014Rayyan, un Illumineur",
+      "foilTypes": [
+        "FreeForm2"
+      ],
+      "fullIdentifier": "15/PD1 \u2022 FR \u2022 12",
+      "fullName": "P\u00e9gase - Cherche entre ciel et terre",
+      "fullText": "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)",
+      "fullTextSections": [
+        "Insaisissable (Seuls les personnages avec\nInsaisissable peuvent d\u00e9fier ce personnage.)"
+      ],
+      "id": 3594,
+      "images": {
+        "foilMask": "https://api.lorcana.ravensburger.com/images/fr/pd1/15_6060cbada6bb42aaf313e80357d96350eb87bd02.jpg",
+        "full": "https://api.lorcana.ravensburger.com/images/fr/pd1/15_224d1adf771978c6307853203e562e87e43c9873.jpg",
+        "thumbnail": "https://api.lorcana.ravensburger.com/images/fr/pd1/15_b7727d7ed97846fd427416211b1a08333f714897.jpg"
+      },
+      "inkwell": true,
+      "keywordAbilities": [
+        "Insaisissable"
+      ],
+      "lore": 1,
+      "name": "P\u00e9gase",
+      "number": 15,
+      "promoGrouping": "PD1",
+      "promoSource": "'La Qu\u00eate des Merveilles : Le Livre de Lore'",
+      "promoSourceCategory": "Livre",
+      "rarity": "Sp\u00e9cial",
+      "setCode": "12",
+      "simpleName": "pegase cherche entre ciel et terre",
+      "story": "Hercule",
+      "strength": 6,
+      "subtypes": [
+        "Dreamborn",
+        "Alli\u00e9"
+      ],
+      "subtypesText": "Dreamborn \u2022 Alli\u00e9",
+      "type": "Personnage",
+      "version": "Cherche entre ciel et terre",
+      "willpower": 7
     }
   ]
 }
